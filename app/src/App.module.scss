@@ -1,0 +1,145 @@
+.navbar {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  background: #fafafa;
+}
+
+.mobileNav {
+  margin-top: 3px;
+}
+
+.nav {
+  display: none;
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.navMain {
+  display: flex;
+}
+
+.mobileNavMain {
+  display: flex;
+  flex-direction: column;
+}
+
+.navItem {
+  padding: 16px;
+  color: #282c34;
+  border-bottom: 4px solid transparent;
+  text-decoration: none;
+
+  &:hover {
+    cursor: pointer;
+    background: #ffffff;
+    border-color: #8b0000;
+  }
+}
+
+.mobile {
+  border-bottom: 0;
+  border-left: 4px solid transparent;
+}
+
+.navActive {
+  border-color: #8b0000;
+}
+
+.tag {
+  padding: 14px;
+  background: rgba(40, 44, 52, 0.9);
+  color: #f9f9f9;
+  font-weight: 700;
+  font-family: 'PT Serif', serif;
+  font-size: 12px;
+  z-index: 2;
+}
+
+.main {
+  margin-top: -25px;
+}
+
+.banner {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.2) 0%,
+      rgba(255, 255, 255, 0) 50%,
+      rgba(255, 255, 255, 0.2) 100%
+    ),
+    url(assets/banner.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 33vw;
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  margin: 0 20px;
+  padding: 0 20px;
+  top: 20vw;
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 2px;
+}
+
+.intro {
+  font-family: 'PT Serif', serif;
+  font-size: 12px;
+  height: 13vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: calc(100vw - 80px);
+
+  .name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+}
+
+.copyright {
+  font-size: 12px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.54);
+  padding: 8px 0;
+}
+
+@media all and (min-width: 750px) {
+  .navbar {
+    padding: 0 80px;
+  }
+
+  .nav {
+    display: flex;
+  }
+
+  .mobileNav {
+    display: none;
+  }
+
+  .tag {
+    padding: 16px;
+    font-size: 16px;
+  }
+
+  .content {
+    margin: 0 80px;
+    padding: 0 40px;
+    top: 23vw;
+  }
+
+  .intro {
+    font-size: 16px;
+    height: 10vw;
+    width: calc(100vw - 240px);
+
+    .name {
+      font-size: 32px;
+    }
+  }
+}
