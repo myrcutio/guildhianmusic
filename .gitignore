@@ -1,3 +1,6 @@
+.idea
+.DS_Store
+
 # Logs
 logs
 *.log
@@ -35,7 +38,8 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+app/build
+terraform/.terraform
 
 # Dependency directories
 node_modules/
