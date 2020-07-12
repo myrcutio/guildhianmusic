@@ -3,7 +3,7 @@ import Typography from '@material-ui/core/Typography';
 import * as events from './events.json';
 
 const NewsEvent = (event) => (
-    <li>
+    <li key={event.title + event.date}>
         <div>{event.title}</div>
         <div>{event.subtitle}</div>
         {event.location ? (<span>in {event.location}</span>): ""}
