@@ -1,0 +1,416 @@
+{
+  "categories": {
+    "Orchestra": [
+      {
+        "title": "Dùn Èideann Blogh",
+        "type": "double concerto",
+        "instruments": [
+          "clarinet",
+          "bassoon",
+          "orchestra"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Triqueta",
+        "type": "double concerto",
+        "instruments": [
+          "guitar",
+          "horn",
+          "strings",
+          "piano",
+          "percussion"
+        ],
+        "detailLink": "TBD"
+      }
+    ],
+    "Brass & Wind Ensembles": [
+      {
+        "title": "The River Remembers",
+        "type": "brass quintet",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Red Poppy and the Yellow Rose",
+        "type": "wind ensemble",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "The Image Of Dreams",
+        "type": "SATB Chorus and wind ensemble",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "A Page from the Natural Light",
+        "type": "solo trombone and wind ensemble",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Goodnight to the Old Gods",
+        "type": "wind ensemble",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Festive Celebration",
+        "type": "brass ensemble",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Fanfare and Fugue",
+        "type": "brass ensemble",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Satchmo",
+        "type": "brass and percussion",
+        "detailLink": "TBD"
+      }
+    ],
+    "Jazz Ensemble (Big Band)": [
+      {
+        "title": "Cindy, My Love",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Close to Home",
+        "type": "Dennis Dotson",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "In Donna's Honor",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "The Delectable Mountains",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Ich Bin Kaputen Der Jazzchops",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "In and Out the Garbage Pail",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Nice 'tis, As Is",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Elixir",
+        "detailLink": "TBD"
+      }
+    ],
+    "Clarinet Ensembles": [
+      {
+        "title": "Red Poppy and the Yellow Rose",
+        "type": "large clarinet choir",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "A toot in Ninesia",
+        "type": "clarinet sextet",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Monk, through a Glass Darkly",
+        "type": "clarinet sextet",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Three Spirituals",
+        "type": "clarinet sextet",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "The Ghost of Eric Dolphy",
+        "type": "clarinet sextet",
+        "detailLink": "https://composers.com/composers/james-scott-balentine/ghost-eric-dolphy",
+        "external": true
+      }
+    ],
+    "Jazz Meets Classical Ensembles": [
+      {
+        "title": "Il y a des Fleurs",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Bill's Shadow",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Double Blackstick Dance",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Homage a Dave",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Recollection",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Fantasy After Eric Dolphy",
+        "detailLink": "TBD"
+      }
+    ],
+    "Solo Instrument and Piano": [
+      {
+        "title": "Nine Wild Exotic Dances",
+        "instruments": [
+          "clarinet",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "March, Strathspey and Reel",
+        "instruments": [
+          "clarinet",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Prayer and Alleluia",
+        "instruments": [
+          "trumpet",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "A Wiser Man",
+        "instruments": [
+          "cello",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "To be a Puddle",
+        "instruments": [
+          "cello",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      }
+    ],
+    "Solo Piano": [
+      {
+        "title": "Piano Sonata No. 1",
+        "detailLink": "https://composers.com/composers/james-scott-balentine/piano-sonata-no-1-smith",
+        "external": true
+      },
+      {
+        "title": "Piano Sonata No. 2",
+        "detailLink": "https://composers.com/composers/james-scott-balentine/piano-sonata-no-2-steptoe",
+        "external": true
+      },
+      {
+        "title": "A Trilogy for Friends",
+        "detailLink": "https://composers.com/composers/james-scott-balentine/trilogy-friends",
+        "external": true
+      }
+    ],
+    "Voice and Instruments": [
+      {
+        "title": "So Tell Me Elizabeth",
+        "subtitle": "from My New Voice",
+        "instruments": [
+          "soprano",
+          "piano",
+          "synthesized voice"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "The Three Billy Goats Gruff",
+        "instruments": [
+          "string quintet",
+          "narrator"
+        ],
+        "detailLink": "https://composers.com/composers/james-scott-balentine/three-billy-goats-gruff",
+        "external": true
+      },
+      {
+        "title": "The Tempest Songs",
+        "instruments": [
+          "soprano",
+          "flute",
+          "clarinet",
+          "cello",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Five Spirituals",
+        "instruments": [
+          "baritone",
+          "cello"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Out from Behind This Mask",
+        "instruments": [
+          "baritone",
+          "string quartet"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "What Water Says",
+        "instruments": [
+          "baritone",
+          "guitar"
+        ],
+        "detailLink": "TBD"
+      }
+    ],
+    "Mixed Ensembles 1-5 Players": [
+      {
+        "title": "Strange Loops",
+        "instruments": [
+          "clarinet",
+          "bassoon",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Asking a Shadow to Dance",
+        "instruments": [
+          "clarinet",
+          "viola",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Les Quatre Coins",
+        "instruments": [
+          "flute",
+          "oboe",
+          "cello",
+          "piano"
+        ],
+        "detailLink": "https://composers.com/composers/james-scott-balentine/les-quatre-coins",
+        "external": true
+      },
+      {
+        "title": "The Charlie Effect",
+        "instruments": [
+          "Bb clarinet",
+          "bass clarinet",
+          "piano"
+        ],
+        "detailLink": "https://composers.com/composers/james-scott-balentine/charlie-effect",
+        "external": true
+      },
+      {
+        "title": "Frog and the Golden Ball",
+        "type": "woodwind quintet",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "In a Bright Room",
+        "instruments": [
+          "clarinet",
+          "bassoon"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Serenata",
+        "instruments": [
+          "flute",
+          "english horn",
+          "guitar"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Line Drawings",
+        "instruments": [
+          "clarinet",
+          "marimba"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "The Devil's Advice to Storytellers",
+        "type": "one clarinetist - Eb, Bb, A, and bass",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Liberty Bar",
+        "type": "two percussionists multiple percussion",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "The Graham Trio",
+        "instruments": [
+          "clarinet",
+          "cello",
+          "piano"
+        ],
+        "detailLink": "TBD"
+      }
+    ],
+    "Choral": [
+      {
+        "title": "Framents of Time & Place",
+        "instruments": [
+          "chamber choir",
+          "SSATBB",
+          "a capella"
+        ],
+        "detailLink": "https://composers.com/composers/james-scott-balentine/fragments-time-and-place",
+        "external": true
+      },
+      {
+        "title": "The Present",
+        "instruments": [
+          "children's choir",
+          "SATB choir and piano"
+        ],
+        "detailLink": "TBD"
+      },
+      {
+        "title": "The Image of Dreams",
+        "instruments": [
+          "SATB and piano",
+          "wind ensemble"
+        ],
+        "detailLink": "TBD"
+      }
+    ],
+    "Opera and Theatre": [
+      {
+        "title": "My New Voice",
+        "type": "one act opera",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Navarro",
+        "type": "children's opera",
+        "detailLink": "TBD"
+      },
+      {
+        "title": "Full Frontal Lobes",
+        "instruments": [
+          "lecturer",
+          "conductor",
+          "jazz saxophone",
+          "clarinet",
+          "strings",
+          "jazz rhythm section"
+        ],
+        "detailLink": "TBD"
+      }
+    ]
+  }
+}
