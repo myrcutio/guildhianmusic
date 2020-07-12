@@ -3,24 +3,26 @@ import Typography from '@material-ui/core/Typography';
 import * as works from './works.json';
 
 const Piece = (piece) => (
-    <section>
+    <div>
         <div>{piece.title}</div>
         <div>{piece.type}</div>
         {piece.instruments ? piece.instruments.join(",") : "" }
         <a href={piece.detailLink} target={piece.external ? "_blank" : ""}>Details</a>
-    </section>
+    </div>
 )
 
 const WorksCategory = (categoryName, category) => (
-    <figure className="category">
-        <figcaption>{categoryName}</figcaption>
+    <li className="category">
+        <div>{categoryName}</div>
         {category ? category.map(c => Piece(c)) : ""}
-    </figure>
+    </li>
 );
 
 export const Works = () => (
   <div>
     <Typography variant="h6">Works</Typography>
-      {Object.keys(works.categories).map(category => WorksCategory(category, works.categories[category]))}
+      <ul>
+        {Object.keys(works.categories).map(category => WorksCategory(category, works.categories[category]))}
+      </ul>
   </div>
 );
