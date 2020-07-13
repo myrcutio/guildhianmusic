@@ -1,0 +1,29 @@
+.title {
+  font-weight: 600;
+  margin-right: 4px;
+}
+
+.type {
+  margin-right: 4px;
+  font-style: italic;
+}
+
+.instruments {
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.piece {
+  flex-wrap: wrap;
+
+  .openInNewIcon {
+    margin-left: 4px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  &:hover {
+    .openInNewIcon {
+      opacity: 1;
+    }
+  }
+}

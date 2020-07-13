@@ -1,37 +1,64 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import List from '@material-ui/core/List';
+import ListItem from '@material-ui/core/ListItem';
+import OpenInNewIcon from '@material-ui/icons/OpenInNew';
 import Typography from '@material-ui/core/Typography';
 import * as works from './works.json';
+import css from './Works.module.scss';
 
 const Piece = (piece) => {
-    const key = `${piece.title}-${piece.type}`
-    const instruments = piece.instruments && piece.instruments.join(",")
-    return (
-        <li key={key}>
-            <div>{piece.title}</div>
-            <div>{piece.type}</div>
-            {instruments && (<div>{instruments}</div>)}
-            <a href={piece.detailLink} target={piece.external ? "_blank" : ""}>Details</a>
-        </li>
-    )
-}
+  const { title, type, instruments, detailLink, external } = piece;
+  const key = `${title}-${type}`;
+  const allInstruments = instruments && instruments.join(', ');
+
+  return (
+    <ListItem
+      key={key}
+      href={detailLink}
+      target={external ? '_blank' : ''}
+      title={`View more details about ${title}`}
+      component="a"
+      className={css.piece}
+      button
+    >
+      <div className={css.title}>{title}</div>
+      {type && <div className={css.type}>({type})</div>}
+      {allInstruments && (
+        <div className={css.instruments}>Instruments: {allInstruments}</div>
+      )}
+      {external && (
+        <OpenInNewIcon
+          className={css.openInNewIcon}
+          color="disabled"
+          fontSize="small"
+          titleAccess="Opens in new window"
+        />
+      )}
+    </ListItem>
+  );
+};
 
 const WorksCategory = (categoryName, category) => {
-    const pieces = category && category.map(c => Piece(c))
-    return (
-        <li className="category" key={categoryName}>
-            <div>{categoryName}</div>
-            {pieces && (<ul>{pieces}</ul>)}
-        </li>
-    );
-}
+  const pieces = category && category.map((c) => Piece(c));
+  return (
+    <Fragment key={categoryName}>
+      <Typography variant="h6">{categoryName}</Typography>
+      {pieces && <List>{pieces}</List>}
+    </Fragment>
+  );
+};
 
 export const Works = () => {
-    const categoryKeys = Object.keys(works.categories)
-    const categories = categoryKeys && categoryKeys.map(category => WorksCategory(category, works.categories[category]))
-    return (
-        <div>
-            <Typography variant="h6">Works</Typography>
-            {categories && (<ul>{categories}</ul>)}
-        </div>
+  const categoryKeys = Object.keys(works.categories);
+  const categories =
+    categoryKeys &&
+    categoryKeys.map((category) =>
+      WorksCategory(category, works.categories[category])
     );
-}
+  return (
+    <div>
+      <Typography variant="h4">Works</Typography>
+      {categories && categories}
+    </div>
+  );
+};
