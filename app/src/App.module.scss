@@ -2,7 +2,7 @@
   display: flex;
   align-items: flex-start;
   position: relative;
-  background: #fafafa;
+  z-index: 1;
 }
 
 .mobileNav {
@@ -58,6 +58,7 @@
 
 .main {
   margin-top: -25px;
+  z-index: 2;
 }
 
 .banner {
@@ -72,11 +73,16 @@
   background-repeat: no-repeat;
   background-size: 100%;
   min-height: 33vw;
-  position: relative;
+  margin-top: -25px;
+}
+
+
+.contentWrap{
+  margin: 0 auto;
+  max-width: 1200px;
 }
 
 .content {
-  position: absolute;
   margin: 0 20px;
   padding: 0 20px;
   top: 20vw;
@@ -90,11 +96,12 @@
   font-family: 'PT Serif', serif;
   font-size: 12px;
   height: 13vw;
+  margin-top: -13vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: calc(100vw - 80px);
+  z-index: 3;
 
   .name {
     font-size: 20px;
@@ -138,7 +145,7 @@
   .intro {
     font-size: 16px;
     height: 10vw;
-    width: calc(100vw - 240px);
+    margin-top: -10vw;
 
     .name {
       font-size: 32px;

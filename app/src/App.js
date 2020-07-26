@@ -68,8 +68,8 @@ const App = () => {
           <div className={css.navMain}>
             {navigation.map(({ to, label, exact }) => (
               <NavLink
-                  key={`nav-${label}`}
-                  to={to}
+                key={`nav-${label}`}
+                to={to}
                 className={css.navItem}
                 activeClassName={css.navActive}
                 exact={exact}
@@ -81,7 +81,8 @@ const App = () => {
         </div>
       </nav>
       <div className={css.main}>
-        <div className={css.banner}>
+        <div className={css.banner} />
+        <div className={css.contentWrap}>
           <div className={css.content}>
             <div className={css.intro}>
               <div className={css.name}>James Scott Balentine</div>
@@ -96,7 +97,9 @@ const App = () => {
               <Route exact path="/guildianmusic" component={GuildianMusic} />
               <Route exact path="/contact" component={Contact} />
             </Switch>
-            <div className={css.copyright}>&copy;{new Date().getFullYear()} James Scott Balentine</div>
+            <div className={css.copyright}>
+              &copy;{new Date().getFullYear()} James Scott Balentine
+            </div>
           </div>
         </div>
       </div>
