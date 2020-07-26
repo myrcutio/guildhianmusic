@@ -82,22 +82,24 @@ const App = () => {
       </nav>
       <div className={css.main}>
         <div className={css.banner} />
-        <div className={css.content}>
-          <div className={css.intro}>
-            <div className={css.name}>James Scott Balentine</div>
-            <span className={css.tagline}>
-              Composer · Performer · Music Educator
-            </span>
-          </div>
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/works" component={Works} />
-            <Route exact path="/events" component={NewsEvents} />
-            <Route exact path="/guildianmusic" component={GuildianMusic} />
-            <Route exact path="/contact" component={Contact} />
-          </Switch>
-          <div className={css.copyright}>
-            &copy;{new Date().getFullYear()} James Scott Balentine
+        <div className={css.contentWrap}>
+          <div className={css.content}>
+            <div className={css.intro}>
+              <div className={css.name}>James Scott Balentine</div>
+              <span className={css.tagline}>
+                Composer · Performer · Music Educator
+              </span>
+            </div>
+            <Switch>
+              <Route exact path="/" component={Home} />
+              <Route exact path="/works" component={Works} />
+              <Route exact path="/events" component={NewsEvents} />
+              <Route exact path="/guildianmusic" component={GuildianMusic} />
+              <Route exact path="/contact" component={Contact} />
+            </Switch>
+            <div className={css.copyright}>
+              &copy;{new Date().getFullYear()} James Scott Balentine
+            </div>
           </div>
         </div>
       </div>
