@@ -35,8 +35,6 @@ export const Home = () => (
     <p>
       A prolific arranger as well as composer, Jim's arrangements have been
       performed by the San Antonio
-    </p>
-    <p>
       Symphony, Phoenix Symphony, Mid-Texas Symphony, and others, and his big
       band charts are included in the libraries of professional and university
       jazz ensembles across the United States. His arrangements for solo violin
