@@ -873,10 +873,17 @@
     "Solo Piano": [
       {
         "title": "Piano Sonata No. 1",
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Composed between 1984 and 1993, and influenced by many pianists, including Richard Smith, Kathy Hodges, Valeri Grokhovski, Winifred Goodwin, and Steven H. Smith.",
+        "attribution": "Recorded by Steven H. Smith, included on Remembering Friends; available through Guildhian Music (see contact page)",
+        "movements": [
+          "I Furiously",
+          "II Peaceful, ethereal",
+          "III Insistent, with aggression"
+        ],
+        "instruments": [
+          "piano"
+        ],
+        "duration": "12 minutes",
         "publisher": "James Balentine",
         "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/piano-sonata-no-1-smith",
@@ -884,23 +891,46 @@
       },
       {
         "title": "Piano Sonata No. 2",
-        "description": "",
+        "description": "Composed 2006 at the request of composer and pianist Roger Steptoe",
         "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "movements": [
+          "1. Theme and Three Variations",
+          "2. Meditation",
+          "3. Invention and Fantasy"
+        ],
+        "instruments": [
+          "piano"
+        ],
+        "duration": "14 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "Piano Sonata No. 2 was written for pianist and composer Roger Steptoe with the support of a Faculty Development Grant from the University of Texas at San Antonio. It was completed in Edinburgh, Scotland, in October of 2006. The three movements are all based on the same few melodic fragments which are introduced in the first movement, Theme and Three Variations. The variations are a microcosm of the entire sonata, hinting at the textures and emotional context of each movement to come. The second movement includes hints of blues and jazz harmonies, the third looks back at baroque counterpoint, and hints strongly of a two part invention, but all three movements contain the influence of Scottish dance melodies and rhythms."
+        ],
         "detailLink": "https://composers.com/composers/james-scott-balentine/piano-sonata-no-2-steptoe",
         "external": true
       },
       {
         "title": "A Trilogy for Friends",
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Composed in 2002, written for Kasandra Keeling in memory of Kathy Hodges, Reed Holmes, and JK Hodges, premiered at the UTSA New Music Festival.",
+        "attribution": "Recorded by Kasandra Keeling, included on Remembering Friends; available through Guildhian Music (see contact page)",
+        "movements": [
+          "1. Pavane for Kathy",
+          "2. Remembering Reed",
+          "3. Capriccio and Chaconne for JK"
+        ],
+        "instruments": [
+          "piano"
+        ],
+        "duration": "12:30 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "A Trilogy for Friends was written in memory of three friends and colleagues at the University of Texas at San Antonio whose lives were cut short by illness. Their contributions musically and personally to those whose lives they touched will not be forgotten. Premiere performance was by Kasandra Keeling, Associate Professor of piano at UTSA, and former student of all three, at the 2003 UTSA New Music Festival, San Antonio, Texas.",
+          "Pavane for Kathy Mason Hodges",
+          "Kathy was a pianist and accompanist, one of the most beautiful and gentle souls, full of music and laughter.",
+          "Remembering Reed for Reed Holmes",
+          "Reed was a composer, theorist, friend, guitarist and teacher. His music was elegant and impeccably crafted.",
+          "Capriccio and Chaconne for JK for Janice Kay Hodges - J.K. to all who knew her. She was a pianist of world class, her hearty laugh and joy of life brightened the halls, and her music made life worthwhile."
+        ],
         "detailLink": "https://composers.com/composers/james-scott-balentine/trilogy-friends",
         "external": true
       }
@@ -914,12 +944,14 @@
           "piano",
           "synthesized voice"
         ],
-        "description": "",
-        "attribution": "",
+        "description": "excerpt from the opera \"My New Voice\" (in progress)",
+        "attribution": "Recorded by Lisa J. Coates, soprano, Paul Barker, piano, Bruce Balentine, voice synthesis, available on <a target=\"_blank\" href=\"http://vimeo.com/60335807\">video from CreST Concert</a>, January 26, 2013, in Scarborough, UK. My New Voice is approximately 4' 05\" into the video, the second piece on the concert.",
         "movements": [],
-        "duration": "15 minutes",
+        "duration": "8:30 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
+        ],
         "detailLink": "TBD"
       },
       {
@@ -928,12 +960,27 @@
           "string quintet",
           "narrator"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Commissioned by the Cactus Pear Music Festival",
+        "attribution": "Recorded by Cactus Pear Music Festival, Timothy Jones, narrator; Available on the CD Klassic4Kids.<br/><br/>Translation in Flemish by Conservatory aan Zee, Ostend, Belgium. Bart Picqueur, conductor, Katelijne d'Haenens, Elke Parmentier, Nancy Zwaenepoel, narrators. Available on the CD Red Poppy and the Yellow Rose. Order from Guildhian Music",
+        "publisherLinks": [
+          {
+            "source": "Amazon",
+            "link": "https://www.amazon.com/Klassics-Cactus-Music-Festival-Artists/dp/B003DRO1KW"
+          },
+          {
+            "source": "iTunes",
+            "link": "https://itunes.apple.com/us/album/klassics-4-kids/id354588240"
+          }
+        ],
+        "movements": [
+          "Three Billy Goats Gruff (English)",
+          "Three Billy Goats Gruff (Flemish)"
+        ],
+        "duration": "10:30 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "The Three Billy Goats Gruff was commissioned by the Cactus Pear Festival for the Kinder Konzerts Series in San Antonio. It is a mini-drama, a narrative for string quartet, solo bass and narrator. It was first performed at the Empire Theater in San Antonio, Texas, in September of 2003, with baritone Timothy Jones narrating. The ugly, greedy old Troll is portrayed by the solo bass (first performed by bassist Steve Zeserman), who offers a musical dialogue with the clever Billy Goats (played by the Cactus Pear string quartet - Stephanie Sant'Ambrogio, artistic director) as the narrator tells the story."
+        ],
         "detailLink": "https://composers.com/composers/james-scott-balentine/three-billy-goats-gruff",
         "external": true
       },
@@ -946,12 +993,20 @@
           "cello",
           "piano"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Five Songs from Shakespeare's The Tempest, composed for stage productions, and later adapted for concert performance.",
+        "attribution": "Recorded by Linda Poetschke, soprano, with the UTSA Faculty Chamber Ensemble",
+        "movements": [
+          "Come Unto these Yellow Sands",
+          "Full Fathom Five",
+          "Where the Bee Sucks",
+          "Caliban's Dream",
+          "Our Revels Now Are Ended"
+        ],
+        "duration": "10 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "The Tempest Songs were composed as songs and incidental music for a production of the play at Sam Houston State University, and commissioned by Dr. Richard Butler. Songs four and five were added later as a commission by Dr. Douglas Boyer at St. Mary's Hall in San Antonio. They were adapted into a cycle for the concert stage in 1999."
+        ],
         "detailLink": "TBD"
       },
       {
@@ -960,10 +1015,13 @@
           "baritone",
           "cello"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Commissioned by Timothy Jones, baritone",
+        "attribution": "Recorded by Timothy Jones, baritone, and Judith VanderWeg, cello<br/><br/>Recording to be released 2018 available at <a href=\"http://www.cpmf.us/cpmf_cds.html\">Cactus Pear Music Festival</a>",
+        "movements": [
+          "I Got a Home In'a Dat Rock",
+          "Go Down Moses"
+        ],
+        "duration": "10 minutes",
         "publisher": "James Balentine",
         "composerNotes": [],
         "detailLink": "TBD"
@@ -974,10 +1032,10 @@
           "baritone",
           "string quartet"
         ],
-        "description": "",
-        "attribution": "",
+        "description": "Commissioned by Cactus Pear Music Festival for Timothy Jones, baritone.\n",
+        "attribution": "text by Walt Whitman",
         "movements": [],
-        "duration": "15 minutes",
+        "duration": "9 minutes",
         "publisher": "James Balentine",
         "composerNotes": [],
         "detailLink": "TBD"
@@ -988,12 +1046,16 @@
           "baritone",
           "guitar"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Commissioned by David Asbury, guitar; text by Aidan Abney, in conjunction with River of Words Project, Library of Congress",
+        "attribution": "Recorded by David Asbury, guitar, and Bruce Cain, baritone",
+        "movements": [
+          "What Water Says"
+        ],
+        "duration": "2 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "What Water Says was commissioned by David Asbury for the River of Words project. Every year, in affiliation with the Library of Congress Center for the Book, River of Words sponsors a free international poetry and art contest on the theme of watersheds. The contest is open to students ages 5 through 19 anywhere in the world. The poem \"What Water Says\" is by Aidan Abney."
+        ],
         "detailLink": "TBD"
       }
     ],
@@ -1001,16 +1063,22 @@
       {
         "title": "Strange Loops",
         "instruments": [
-          "clarinet",
-          "bassoon",
+          "Bb clarinet",
+          "Bassoon (or Bass Clarinet)",
           "piano"
         ],
-        "description": "",
+        "description": "Commissioned by Robert Walzel with a grant from The University of Kansas",
         "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "movements": [
+          "Strange Loops"
+        ],
+        "duration": "8 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "Strange Loops was commissioned by clarinetist Robert Walzel, brother Scott Walzel, bassoon, and pianist Steve Harlos. It was premiered in Ostend, Belgium, at ClarinetFest 2018 on July 9, 2018, with Gary Whitman on bass clarinet in lieu of bassoon.",
+          "The title refers to an idea coined by author Douglas Hofstadter, \"a cyclic structure that goes through several levels in a hierarchical system. It arises when, by moving only upwards or downwards through the system, one finds oneself back where one started.\" \"...a paradoxical level-crossing feedback loop\" - Douglas Hofstadter from I am a Strange Loop",
+          "Examples include the Moebius strip; certain drawings by MC Escher, a Bach Canon, a Shepard-Risset glissando, and others. In this piece, in addition to the mathematical and paradoxical philosophical concept, it also refers to the structural element of recursive, self-referential musical motifs that have been generated by the personal relationships between composer and performer... pretty esoteric, but meaningful to me."
+        ],
         "detailLink": "TBD"
       },
       {
@@ -1020,12 +1088,18 @@
           "viola",
           "piano"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Commissioned by Trio Con Brio - Gary Whitman, Misha Galaganov, John Owings",
+        "attribution": "Recorded by Trio Con Brio - Gary Whitman, clarinet, Misha Galaganov, viola, and John Owings, piano.",
+        "movements": [
+          "Asking a Shadow to Dance"
+        ],
+        "duration": "8 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "Asking a Shadow to Dance was written for Trio Con Brio of Texas Christian University in Fort Worth, at the request of clarinetist Gary Whitman. The musical material is based on themes from the opera My New Voice, formally structured on the concept of communication between the three main characters: Trevor, an inventor and artist who is disabled and cannot speak; his inner ego, Trevor Shadow; and Elizabeth, his Personal Care Assistant. The musical motives are traded between the three performers, evolving and changing with each iteration, becoming a dance of frustration, understanding and compromise, eventually finding laughter and love in the process.",
+          "The title reflects both the theme and character of the opera, and also refers to a partial quote from Carl Sandburg regarding the ethereal and ambiguous aspects of poetry:",
+          "<i>Poetry is an echo, asking a shadow to dance.</i>"
+        ],
         "detailLink": "TBD"
       },
       {
@@ -1036,12 +1110,20 @@
           "cello",
           "piano"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Commissioned by Hemisphere Quartet",
+        "attribution": "Recorded by Hemisphere quartet: Rita Linard, flute; David Herbert, oboe; Judith VanderWeg, cello; Christine Debus, piano",
+        "movements": [
+          "I. Rondeau Badin",
+          "II. Danse Chimérique",
+          "III. La Chasse",
+          "IV. Jeux"
+        ],
+        "duration": "9 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "Commissioned by the Hemisphere Quartet, Les Quatre Coins is dedicated to the individual members of that ensemble: Rita Linard, flute; David Herbert, oboe; Judith Vander Weg, cello; and Christine Debus, piano. The premiere took place in a small French village near Bergerac in the summer of 2005.",
+          "Les Quatre Coins (Four Corners) has multiple meanings: originally titled in reference to the four performers for whom it was written, each of the four movements represents one player's individuality and musical personality. The flavor and playful character of the entire piece is decidedly French, and Les Quatre Coins also refers to a French children's game similar to tag, using the four corners of a room, or a chalk square if outside."
+        ],
         "detailLink": "https://composers.com/composers/james-scott-balentine/les-quatre-coins",
         "external": true
       },
@@ -1052,37 +1134,77 @@
           "bass clarinet",
           "piano"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Commissioned by Elizabeth Crawford and Peter Wright for performance at ClarinetFest 2004 in Baltimore, Maryland, USA.",
+        "attribution": "Recorded by Robert Walzel, clarinet, and Steven Glaser, piano on Wild Exotic Dances on Albany Records.",
+        "publisherLinks": [
+          {
+            "source": "Amazon",
+            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+          },
+          {
+            "source": "iTunes",
+            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+          }
+        ],
+        "movements": [
+          "The Charlie Effect"
+        ],
+        "duration": "4 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "The Charlie Effect was written at the request of Elizabeth Crawford, for performance at ClarinetFest 2004, Baltimore, Maryland. The piece is an energetic and playful rondo, whose character is reminiscent of a large black cat who occupied the same premises with the composer for ten years. The title, however, comes not from the cat (whose human name was Eboneezer), but from a close friend who helped shape my attitude toward cats, children, and other multidimensional creatures with whom one happily shares one's life."
+        ],
         "detailLink": "https://composers.com/composers/james-scott-balentine/charlie-effect",
         "external": true
       },
       {
         "title": "Frog and the Golden Ball",
         "type": "woodwind quintet",
-        "description": "",
+        "description": "Commissioned by the King William Winds with a grant from the City of San Antonio Department of Cultural Arts",
+        "instruments": [
+          "Flute",
+          "Oboe",
+          "dbl English Horn",
+          "Clarinet",
+          "Horn",
+          "Bassoon"
+        ],
         "attribution": "",
         "movements": [],
-        "duration": "15 minutes",
-        "publisher": "James Balentine",
+        "duration": "12 minutes",
+        "publisher": "Cimarron Music",
+        "publisherLinks": [
+          {
+            "source": "Cimmarron Music",
+            "link": "http://www.cimarronmusic.com"
+          }
+        ],
         "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "In a Bright Room",
         "instruments": [
-          "clarinet",
+          "Bb clarinet",
           "bassoon"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
-        "publisher": "James Balentine",
+        "description": "Commissioned by Robert Walzel, clarinet, and Scott Walzel, bassoon",
+        "attribution": "Recorded by Robert Walzel, clarinet, and Scott Walzel, bassoon on Wild Exotic Dances on Albany Records.",
+        "movements": [
+          "In a Bright Room"
+        ],
+        "duration": "4 minutes",
+        "publisher": "Cimarron Music",
+        "publisherLinks": [
+          {
+            "source": "Amazon",
+            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+          },
+          {
+            "source": "iTunes",
+            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+          }
+        ],
         "composerNotes": [],
         "detailLink": "TBD"
       },
@@ -1093,12 +1215,19 @@
           "english horn",
           "guitar"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "Commissioned by the Nova Trio",
+        "attribution": "Recorded by The Nova Trio: Rita Linard, flute; David Herbert, english horn; Leslie Lyon, guitar.",
+        "movements": [
+          "I. March",
+          "II. Ballade",
+          "III. Scherzo and Fugue",
+          "IV. Interlude and Irish Dance"
+        ],
+        "duration": "9 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "Serenata was commissioned by the Nova Trio - Rita Linard, flute, David Herbert, English Horn, and Leslie Lyons, guitar, for performance at the International Double Reed Society Convention in Madison, WI."
+        ],
         "detailLink": "TBD"
       },
       {
@@ -1107,34 +1236,65 @@
           "clarinet",
           "marimba"
         ],
-        "description": "",
+        "description": "Commissioned by Robert Walzel and Lisa Rogers, Texas Tech University",
         "attribution": "",
         "movements": [],
-        "duration": "15 minutes",
+        "duration": "7 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "Written at the request of clarinetist Robert Walzel, Line Drawings was premiered at Texas Tech University in Lubbock, Texas, with marimbaist Lisa Rogers in 1997. As the title implies, the piece features long melodic lines that loosely portray the character of the two diverse instruments, as well as outlining and implying the technical and timbral possibilities of both performer and instrument."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "The Devil's Advice to Storytellers",
         "type": "one clarinetist - Eb, Bb, A, and bass",
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
-        "publisher": "James Balentine",
-        "composerNotes": [],
+        "description": "Commissioned by Robert Walzel",
+        "attribution": "Recorded by Robert Walzel, clarinets",
+        "movements": [
+          "I. Suspect Your Tale to be Untrue",
+          "II. To Forge a Picture",
+          "III. Scherzo - the teashop sort",
+          "IV. Sigh then, or frown"
+        ],
+        "duration": "10 minutes",
+        "publisher": "Cimarron Music",
+        "publisherLinks": [
+          {
+            "source": "Cimmarron Music",
+            "link": "http://www.cimarronmusic.com"
+          }
+        ],
+        "composerNotes": [
+          "Commissioned by clarinetist Robert Walzel, The Devil's Advice to Storytellers was written to be performed at the University of North Texas for his doctoral recital for the DMA degree, specializing in multiple woodwinds. It was intended to explore techniques on the various clarinets that while not necessarily unusual, are not often the basis of the musical structure. These include extreme ranges, wide tremolos, timbral effects, and extreme dynamic contrsts. In all of these cases, \"the Devil is in the details.\" The title comes from a poem by Robert Graves, and though not programmatic in any direct sense, it is devilishly tricky to deal with."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Liberty Bar",
         "type": "two percussionists multiple percussion",
-        "description": "",
-        "attribution": "",
+        "instruments": [
+          "Vibraphone and multiple percussion",
+          "Marimba and multiple percussion"
+        ],
+        "description": "Commissioned by Sherry Rubins and Kari Klier",
+        "attribution": "Recorded by Johan Bouttery, Hannes Nieuwlaet, Axel Dewulf and Ben Van Avermaet.\n",
         "movements": [],
         "duration": "15 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "publisherLinks": [
+          {
+            "source": "Steve Weiss Music",
+            "link": "http://www.steveweissmusic.com/product/liberty-bar-balentine/multi-percussion-duet"
+          },
+          {
+            "source": "Guildhian Music",
+            "link": "/guildhianmusic"
+          }
+        ],
+        "composerNotes": [
+          "Commissioned by percussionists Sherry Rubins and Kari Klier, Liberty Bar was inspired by a discussion with Sherry about shared good times with Kari at The Liberty Bar, an historic and much loved dining and drinking establishment in San Antonio. Besides the wonderful food and eclectic ambiance, the characteristic of the Liberty Bar most talked about was the fact that it looked and felt like the building would collapse at any moment, leaning and tilting crazily at seemingly impossible angles in complete defiance of gravity. As of this date, it has not yet fallen, but the restaurant and bar has changed location, much to the consternation of many of its local fans."
+        ],
         "detailLink": "TBD"
       },
       {
@@ -1144,11 +1304,17 @@
           "cello",
           "piano"
         ],
-        "description": "",
+        "description": "Written for R. Douglas Graham, clarinet",
         "attribution": "",
         "movements": [],
-        "duration": "15 minutes",
-        "publisher": "James Balentine",
+        "duration": "12 minutes",
+        "publisher": "Cimarron Music",
+        "publisherLinks": [
+          {
+            "source": "Cimmarron Music",
+            "link": "http://www.cimarronmusic.com"
+          }
+        ],
         "composerNotes": [],
         "detailLink": "TBD"
       }
@@ -1157,16 +1323,21 @@
       {
         "title": "Framents of Time & Place",
         "instruments": [
-          "chamber choir",
-          "SSATBB",
-          "a capella"
+          "for chamber choir (SSATBB) a capella"
         ],
-        "description": "",
-        "attribution": "",
-        "movements": [],
-        "duration": "15 minutes",
+        "description": "text by T.E. Hulme (1,2, & 3) and James Scott Balentine (4)<br/><br/>Commissioned by the San Antonio Chamber Choir",
+        "attribution": "Recorded by The San Antonio Chamber Choir, Rick Bjella, director.",
+        "movements": [
+          "1. Old Houses",
+          "2. Autumn",
+          "3. Above the Quiet Dock in Mid Night",
+          "4. A River Singing"
+        ],
+        "duration": "9 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "Fragments of Time & Place was commissioned by the San Antonio Chamber Choir, Rick Bjella, conductor, for the San Antonio Tricentennial celebration in 2018. The premiere took place at Mission San Jose in San Antonio, Texas, on April 14, 2018. The texts by English poet T. E. Hulme (1883-1917), are short poems and fragments of unfinished thoughts and ideas that have to do with images and unusual perspectives of time and place. The last poem by the composer, is inspired in part by translations of songs of the Coahuiltecan culture, native to Texas before San Antonio was founded in 1718."
+        ],
         "detailLink": "https://composers.com/composers/james-scott-balentine/fragments-time-and-place",
         "external": true
       },
@@ -1176,10 +1347,10 @@
           "children's choir",
           "SATB choir and piano"
         ],
-        "description": "",
-        "attribution": "",
+        "description": "Commissioned by the Children's Chorus of San Antonio",
+        "attribution": "Recorded by Children's Choir and Adult Choir of the Conservatory at Sea, Ostend, Belgium, Tamara Cuypers, conductor, An Hoorelbeke, piano, 2011<br/><br/>Available on the CD Red Poppy and the Yellow Rose.",
         "movements": [],
-        "duration": "15 minutes",
+        "duration": "6 minutes",
         "publisher": "James Balentine",
         "composerNotes": [],
         "detailLink": "TBD"
@@ -1187,15 +1358,32 @@
       {
         "title": "The Image of Dreams",
         "instruments": [
-          "SATB and piano",
-          "wind ensemble"
+          "SATB Chorus",
+          "Piccolo",
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Percussion 1,2,3"
         ],
-        "description": "",
+        "description": "Commissioned by the University of Texas at San Antonio for the Silver Anniversary Convocation, September, 1994.",
         "attribution": "",
         "movements": [],
-        "duration": "15 minutes",
+        "duration": "6 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "The Image of Dreams was commissioned the University of Texas at San Antonio for its 25th Anniversary Convocation in 1994. The theme of the unversity at the time was \"Shaping the future in the image of dreams,\" and was the basis for the text written by the composer for this occasion."
+        ],
         "detailLink": "TBD"
       }
     ],
@@ -1203,21 +1391,50 @@
       {
         "title": "My New Voice",
         "type": "one act opera",
-        "description": "",
-        "attribution": "",
+        "description": "excerpt from the opera \"My New Voice\" (in progress)",
+        "attribution": "Recorded by Lisa J. Coates, soprano, Paul Barker, piano, Bruce Balentine, voice synthesis, available on <a target=\"_blank\" href=\"http://vimeo.com/60335807\">video from CreST Concert</a>, January 26, 2013, in Scarborough, UK. My New Voice is approximately 4' 05\" into the video, the second piece on the concert.",
         "movements": [],
-        "duration": "15 minutes",
+        "instruments": [
+          "soprano",
+          "piano",
+          "synthesized voice"
+        ],
+        "duration": "8:30 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Navarro",
         "type": "children's opera",
-        "description": "",
-        "attribution": "",
+        "description": "Commissioned by the Opera Guild of San Antonio",
+        "attribution": "Performed by the University of Texas at San Antonio Lyric Opera, and available <a target=\"_blank\" href=\"http://vimeo.com/35236428\">here</a> on Vimeo.",
+        "cast": [
+          "Benito - boy soprano",
+          "Father - baritone",
+          "Mother - soprano",
+          "Uncle - low baritone",
+          "Jose Antonio Navarro - Baritone",
+          "Santa Anna - Tenor",
+          "Children"
+        ],
+        "instruments": [
+          "Flute",
+          "Clarinet",
+          "Bassoon",
+          "Trumpet",
+          "Horn",
+          "Piano",
+          "Classical guitar",
+          "Violin",
+          "Cello",
+          "Bass",
+          "Percussion"
+        ],
         "movements": [],
-        "duration": "15 minutes",
+        "duration": "45 minutes",
         "publisher": "James Balentine",
         "composerNotes": [],
         "detailLink": "TBD"
@@ -1225,19 +1442,22 @@
       {
         "title": "Full Frontal Lobes",
         "instruments": [
-          "lecturer",
+          "lecturer/professor",
           "conductor",
-          "jazz saxophone",
           "clarinet",
-          "strings",
-          "jazz rhythm section"
+          "jazz alto saxophone",
+          "strings (Violin, Viola, Cello)",
+          "jazz rhythm section (Bass, Piano, Drum Set)",
+          "Powerpoint overhead projection"
         ],
-        "description": "",
+        "description": "Commissioned by Musical Offerings of San Antonio",
         "attribution": "",
         "movements": [],
         "duration": "15 minutes",
         "publisher": "James Balentine",
-        "composerNotes": [],
+        "composerNotes": [
+          "Full Frontal Lobes is a multimedia chamber piece presented as a combined lecture and debate. Conceived and developed collaboratively by James Scott Balentine (music) and Bruce Balentine (libretto), the work draws on recent research in neurophysiology and microbiology to explore relationships between improvisation, musical directionality, expressive longing, and pedantic hedonism."
+        ],
         "detailLink": "TBD"
       }
     ]
