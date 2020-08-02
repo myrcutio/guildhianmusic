@@ -5,11 +5,17 @@ APP := ./app
 all: $(APP)/build terraform/.terraform
 	-
 
+tests: $(APP)/build $(APP)/test
+
 $(APP)/node_modules:
 	cd $(APP) && npm install
 
 $(APP)/build: $(APP)/node_modules
 	cd $(APP) && npm run build
+
+.PHONY: $(APP)/test
+$(APP)/test: $(APP)/node_modules
+	cd $(APP) && npm test
 
 .PHONY: clean
 clean: clean-build clean-tf
