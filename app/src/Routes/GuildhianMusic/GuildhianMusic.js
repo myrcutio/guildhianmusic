@@ -1,9 +1,9 @@
 import React from 'react';
 import Typography from '@material-ui/core/Typography';
 
-export const GuildianMusic = () => (
+export const GuildhianMusic = () => (
     <div>
-        <Typography variant="h6">GuildianMusic</Typography>
+        <Typography variant="h6">GuildhianMusic</Typography>
         <div>Publisher for the music of James Scott Balentine</div>
 
         <Typography variant="h6">Ordering Information</Typography>

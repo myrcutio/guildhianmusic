@@ -15,8 +15,8 @@ export const navigation = [
     exact: false
   },
   {
-    to: '/guildianmusic',
-    label: 'Guildian Music',
+    to: '/guildhianmusic',
+    label: 'Guildhian Music',
     exact: false
   },
   {
