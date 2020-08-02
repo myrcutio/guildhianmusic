@@ -16,6 +16,7 @@ provider "aws" {
   assume_role {
     role_arn = var.target_role_arn
   }
+  version = "~> 2.70"
 }
 
 provider "aws" {
@@ -25,6 +26,7 @@ provider "aws" {
   assume_role {
     role_arn = var.dns_role_arn
   }
+  version = "~> 2.70"
 }
 
 module "frontend" {
