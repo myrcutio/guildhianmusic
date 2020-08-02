@@ -8,7 +8,7 @@ export const GuildianMusic = () => (
 
         <Typography variant="h6">Ordering Information</Typography>
         <div>
-            Catalog and Retail Price List: <a href="/catalog.pdf">PDF</a>
+            Catalog and Retail Price List: <a href="/catalog.pdf" target="_blank">PDF</a>
         </div>
 
         <Typography variant="h6">Retail Music Stores</Typography>
