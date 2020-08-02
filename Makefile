@@ -31,5 +31,13 @@ deploy-%: all
 tf-workspace-%: terraform/.terraform
 	$(TF) workspace select $* || $(TF) workspace new $*
 
+.PHONY: tf-check
+tf-check: terraform/.terraform
+	$(TF) fmt -check
+
+.PHONY: tf-plan-%
+tf-plan-%: terraform/.terraform tf-workspace-%
+	$(TF) plan
+
 terraform/.terraform:
 	$(TF) init

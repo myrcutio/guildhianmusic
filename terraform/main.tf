@@ -28,13 +28,13 @@ provider "aws" {
 }
 
 module "frontend" {
-  source = "./module/single-page-app"
-  env = terraform.workspace
-  domain = var.domain
-  cloud_dns_zone = var.dns_zone_id
+  source          = "./module/single-page-app"
+  env             = terraform.workspace
+  domain          = var.domain
+  cloud_dns_zone  = var.dns_zone_id
   api_domain_name = "api.benny.codes"
-  api_stage_name = "api"
-  s3_role_arn = var.target_role_arn
+  api_stage_name  = "api"
+  s3_role_arn     = var.target_role_arn
 
   providers = {
     aws.dns = "aws.route53"
