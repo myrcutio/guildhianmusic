@@ -29,7 +29,7 @@ deploy-%: all
 
 .PHONY: tf-workspace-%
 tf-workspace-%: terraform/.terraform
-	$(TF) workspace select $* || $(TF) workspace new $*
+	$(TF) workspace select $*
 
 .PHONY: tf-check
 tf-check: terraform/.terraform
