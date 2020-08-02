@@ -4,16 +4,49 @@
       {
         "title": "Dùn Èideann Blogh",
         "type": "double concerto",
+        "description": "Composed in 2006, written for and dedicated to Robert Walzel, clarinet.  Premiered in the summer of 2007 by the Utah Arts Festival Orchestra, Salt Lake City, with Robert Walzel, clarinet, and Lori Wike, bassoon, Andrew Rindfleisch conductor.",
+        "attribution": "Recorded by The Moravian Philharmonic Orchestra, Robert Walzel, clarinet, Eric Stomberg, bassoon, on <i>Cross Connection</i>; Navona Records, available at <a href=\"https://www.amazon.com/Wolking-Balentine-Connection-Various-artists/dp/B00BLWHTGO\" target=\"_blank\">Amazon</a> and <a href=\"https://itunes.apple.com/us/album/wolking-balentine-cross-connection/id608515694\" target=\"blank\"> iTunes.</a>",
         "instruments": [
-          "clarinet",
-          "bassoon",
-          "orchestra"
+          "Solo Clarinet",
+          "Solo Bassoon",
+          "Single WW: Flute, Oboe, Clarinet, bassoon",
+          "Single Brass: Horn, Trumpet, Trombone",
+          "2 Percussion",
+          "Piano",
+          "Strings"
         ],
-        "detailLink": "TBD"
+        "movements": [
+          "I. Auld Reekie",
+          "II. Portobello Beach",
+          "III. Lothian No. 26"
+        ],
+        "duration": "15 minutes",
+        "detailLink": "TBD",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "D&ugrave;n &Egrave;ideann Blogh  was composed in the fall of 2006, while I was living in Edinburgh, Scotland. D&ugrave;n &Egrave;ideann is the Gaelic name for Edinburgh, and blogh is a Gaelic word for anecdote or fragment of a story (amazingly similar to a modern blog, or weblog). These are musical snippets of my impressions of the city and its amazing and intensely interesting people.",
+          "<i>Auld Reekie</i> is an affectionate nickname for the city, and means \"Old Smokey\" in Gaelic, referring to the smell and somewhat unsanitary conditions of the once coal-fired city. The City Centre, the Royal Mile, Holyrood, Princes Street and the many pubs are an eclectic mix of old and new. The music references bits of the flavor of Edinburgh, from the church bells to the Military Tattoo, from the street bagpipers to uninhibited pub singing.",
+          "<i>Portobello</i> is a beautiful, quiet suburb of Edinburgh, situated on the Firth of Forth, where I stayed in a small flat at No. 5 Abercorn Terrace while writing this piece. The beach was one block away, where I discovered the pleasure of Scotland's incomparable single malt whiskys at The Place by the Sea, a friendly pub where dogs and children played in the sand as gulls floated lazily overhead.",
+          "<i>Lothian No. 26</i> is the bus line which ran through Portobello to Waverley Station and beyond, a 15 minute ride on a double-decker bus that maneuvered through traffic more skillfully than I would have thought possible had I not experienced it. The ride was an adventure every time, and well worth the two pounds thirty for the day pass.",
+          "I shared the time in Scotland with my brother Bruce, who was also working on a project in October of 2006. The conversational interchange between clarinet and bassoon in this piece is based largely on the many discussions about the meaning of life, love, and music that Bruce and I had over a pint or two of Tennents Ale. The fact that I intended the piece for two brothers, my friends Robert (clarinet) and Scott (bassoon) Walzel, made the connection even more pertinent and personal. D&ugrave;n &Egrave;ideann Blogh is dedicated to Robert Walzel for his friendship and prodigious musicianship.",
+          "This work was made possible by a Faculty Development Leave from the University of Texas at San Antonio, and premiered at the Utah Arts Festival in the summer of 2007, funded in part by the Composer Assistance Program of the American Music Center."
+        ]
       },
       {
         "title": "Triqueta",
         "type": "double concerto",
+        "description": "Written for Matthew Dunne, guitar, and Michael Gast, horn, premiered at the Southwest Guitar Festival, 2009.",
+        "attribution": "Recorded by University of Texas at San Antonio Orchestra, Eugene Dowdy, conductor, with Matthew Dunne, guitar, and Peter Rubins, horn, UTSA Recital Hall, March 8, 2017.",
+        "movements": [
+          "I. Circulo Vazio",
+          "II. Espirales Infinitas",
+          "III. Esferas da Vida"
+        ],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "<i>Triqueta</i> was inspired and supported in part by an award from the Artist Foundation of San Antonio in 2006, which funded the composition of the original Esferas da Vida for guitar, horn, jazz rhythm section, violin, viola and cello. At the suggestion of guitarist Matthew Dunne, the piece was enlarged by adding two additional movements, including considerable revision of Esferas da Vida, which became the last movement of Triqueta. The piece is heavily influenced by Brazilian rhythms and character and jazz harmonies. The piece is not programmatic, but the movement titles all refer to shapes in both two and three-dimensional space which suggest motion and generally contributed to the formal structure of each part and to the whole. Triqueta was written for guitarist Matthew Dunne and hornist Michael Gast for the premiere concert of the Southwest Guitar Festival, San Antonio, Texas."
+        ],
         "instruments": [
           "guitar",
           "horn",
@@ -27,77 +60,422 @@
     "Brass & Wind Ensembles": [
       {
         "title": "The River Remembers",
+        "description": "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet",
+        "attribution": "Recorded by The American Brass Quintet, 2018",
+        "movements": [],
+        "duration": "4 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet as an opening fanfare for the San Antonio Tricentennial in 2018.  <i>The River Remembers</i> was inspired by the poetry of Carmen Tafolla, Poet Laureate of San Antonio, and was premiered by the American Brass Quintet on March 3, 2018 in San Antonio, Texas."
+        ],
         "type": "brass quintet",
         "detailLink": "TBD"
       },
       {
         "title": "Red Poppy and the Yellow Rose",
         "type": "wind ensemble",
+        "description": "Originally composed for large clarinet ensemble: this version for wind ensemble was transcribed for the San Antonio Wind Symphony in 2010, Robert Rustowicz conductor, and revised in 2012 for the UTSA Wind Ensemble and dedicated to Robert Rustowicz on his retirement, in honor of his many years of service to the students of the University of Texas at San Antonio.",
+        "attribution": "Recorded by the University of Texas at San Antonio Wind Ensemble, 2012",
+        "movements": [],
+        "instruments": [
+          "Piccolo",
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Percussion 1,2,3"
+        ],
+        "duration": "6 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "<i>The Red Poppy and the Yellow Rose</i> was commissioned by Guido Six, clarinetist and Director of the Conservatory aan Zee and the Claribel Clarinet Ensemble of Ostende, Belgium. This transcription for wind ensemble was written for and is dedicated to Dr. Robert Rustowicz for his friendship and his many years of service as Director of Bands at the University of Texas at San Antonio.",
+          "The title is a reference to the national flower of Belgium, the red poppy, and the unofficial symbolic flower of song, the Yellow Rose of Texas. The composition represents the friendship of the Belgian and Texan musicians who first played the piece at a featured performance at the Texas Music Educators Association Convention in 2010.",
+          "The work contains many elements of a vague programmatic nature reflecting the history and culture of Belgium, including the visual image of fields of flowers moving gently in the wind, the memory of the many brave men who died in the Battle of Ypres in World War I, and a hint of gypsy folk dancing that is still a part of the vibrant culture of both Belgium and Texas. Most importantly, it is about the common joy of music and love of life that makes us all brothers on this planet."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "The Image Of Dreams",
         "type": "SATB Chorus and wind ensemble",
+        "description": "Commissioned by the University of Texas at San Antonio for the Silver Anniversary Convocation, September, 1994.",
+        "attribution": "Recorded by the University of Texas at San Antonio Wind Ensemble, 2012",
+        "movements": [],
+        "duration": "6 minutes",
+        "instruments": [
+          "SATB Chorus",
+          "Piccolo",
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Percussion 1,2,3"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "<i>The Image of Dreams</i> was commissioned the University of Texas at San Antonio for its 25th Anniversary Convocation in 1994. The theme of the unversity at the time was \"Shaping the future in the image of dreams,\" and was the basis for the text written by the composer for this occasion."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "A Page from the Natural Light",
         "type": "solo trombone and wind ensemble",
+        "description": "Commissioned by Ronald Wilkins, trombone",
+        "attribution": "Recorded by the University of Texas at San Antonio Wind Ensemble, 2012",
+        "movements": [],
+        "instruments": [
+          "Solo Trombone",
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Percussion 1,2,3"
+        ],
+        "duration": "6 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "<i>A Page from the Natural Light</i> was commissioned by trombonist Ronald Wilkins for a tour as soloist with the University of Texas at San Antonio Wind Ensemble. The piece uses snippets of improvised solos by Ron Wilkins as thematic material, and the cadenza is a written transcription of the cadenza improvised by Wilkins in the premiere performance of the piece."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Goodnight to the Old Gods",
         "type": "wind ensemble",
+        "description": "Commissioned by the College Band Directors National Association, 1982.",
+        "attribution": "Premiered at the CBDNA Convention in Atlanta by California State University Long Beach Wind Ensemble, Larry Curtis, director.",
+        "movements": [],
+        "instruments": [
+          "Piccolo",
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Piano",
+          "Percussion 1,2,3"
+        ],
+        "duration": "12 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "Festive Celebration",
         "type": "brass ensemble",
+        "description": "Commissioned by the University of Texas at San Antonio Brass Ensemble for commencement exercises. Also available as a Brass Quintet.",
+        "attribution": "Recorded by Conservatory aan Zee, Ostend Brass Quintet, 2011",
+        "movements": [],
+        "instruments": [
+          "Trumpets 1,2,3,4",
+          "Horns 1,2,3,4",
+          "Trombones 1,2,3",
+          "Euphoniums 1,2",
+          "Tuba",
+          "Timpani"
+        ],
+        "duration": "3 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "Fanfare and Fugue",
         "type": "brass ensemble",
+        "description": "Commissioned by the University of Texas at San Antonio Brass Ensemble for commencement exercises.",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "Trumpets 1,2,3,4",
+          "Horns 1,2,3,4",
+          "Trombones 1,2,3",
+          "Euphoniums 1,2",
+          "Tuba",
+          "Timpani"
+        ],
+        "duration": "3 minutes",
+        "publisher": "Cimarron Music",
+        "publisherLinks": [
+          {
+            "source": "Cimarron Music",
+            "link": "https://www.cimarronmusic.com/fanfare-and-fugue-6939"
+          }
+        ],
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "Satchmo",
         "type": "brass and percussion",
+        "description": "Commissioned by the San Antonio Brass for performance at the International Conference on the Brain, UT Health Science Center, San Antonio.",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "Trumpets 1,2,3,4, 5 (4 dbls Eb)",
+          "Horns 1,2,3,4",
+          "Trombones 1,2,3",
+          "Tuba",
+          "Drumset",
+          "Percussion 1,2"
+        ],
+        "duration": "5 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       }
     ],
     "Jazz Ensemble (Big Band)": [
       {
         "title": "Cindy, My Love",
+        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "5 saxes (AATTB)",
+          "4 trombones",
+          "4 trumpets",
+          "Piano",
+          "guitar",
+          "bass",
+          "drums"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Cindy, My Love - relaxed swing, flugelhorn solo",
+          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
+          "In Donna's Honor - swing ballad, trumpet solo",
+          "The Delectable Mountains - fast swing",
+          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
+          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
+          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
+          "Elixir - fast swing"
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Close to Home",
         "type": "Dennis Dotson",
+        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "5 saxes (AATTB)",
+          "4 trombones",
+          "4 trumpets",
+          "Piano",
+          "guitar",
+          "bass",
+          "drums"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Cindy, My Love - relaxed swing, flugelhorn solo",
+          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
+          "In Donna's Honor - swing ballad, trumpet solo",
+          "The Delectable Mountains - fast swing",
+          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
+          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
+          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
+          "Elixir - fast swing"
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "In Donna's Honor",
+        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "5 saxes (AATTB)",
+          "4 trombones",
+          "4 trumpets",
+          "Piano",
+          "guitar",
+          "bass",
+          "drums"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Cindy, My Love - relaxed swing, flugelhorn solo",
+          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
+          "In Donna's Honor - swing ballad, trumpet solo",
+          "The Delectable Mountains - fast swing",
+          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
+          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
+          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
+          "Elixir - fast swing"
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "The Delectable Mountains",
+        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "5 saxes (AATTB)",
+          "4 trombones",
+          "4 trumpets",
+          "Piano",
+          "guitar",
+          "bass",
+          "drums"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Cindy, My Love - relaxed swing, flugelhorn solo",
+          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
+          "In Donna's Honor - swing ballad, trumpet solo",
+          "The Delectable Mountains - fast swing",
+          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
+          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
+          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
+          "Elixir - fast swing"
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Ich Bin Kaputen Der Jazzchops",
+        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "5 saxes (AATTB)",
+          "4 trombones",
+          "4 trumpets",
+          "Piano",
+          "guitar",
+          "bass",
+          "drums"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Cindy, My Love - relaxed swing, flugelhorn solo",
+          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
+          "In Donna's Honor - swing ballad, trumpet solo",
+          "The Delectable Mountains - fast swing",
+          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
+          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
+          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
+          "Elixir - fast swing"
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "In and Out the Garbage Pail",
+        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "5 saxes (AATTB)",
+          "4 trombones",
+          "4 trumpets",
+          "Piano",
+          "guitar",
+          "bass",
+          "drums"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Cindy, My Love - relaxed swing, flugelhorn solo",
+          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
+          "In Donna's Honor - swing ballad, trumpet solo",
+          "The Delectable Mountains - fast swing",
+          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
+          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
+          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
+          "Elixir - fast swing"
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Nice 'tis, As Is",
+        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "5 saxes (AATTB)",
+          "4 trombones",
+          "4 trumpets",
+          "Piano",
+          "guitar",
+          "bass",
+          "drums"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Cindy, My Love - relaxed swing, flugelhorn solo",
+          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
+          "In Donna's Honor - swing ballad, trumpet solo",
+          "The Delectable Mountains - fast swing",
+          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
+          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
+          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
+          "Elixir - fast swing"
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Elixir",
+        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "5 saxes (AATTB)",
+          "4 trombones",
+          "4 trumpets",
+          "Piano",
+          "guitar",
+          "bass",
+          "drums"
+        ],
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Cindy, My Love - relaxed swing, flugelhorn solo",
+          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
+          "In Donna's Honor - swing ballad, trumpet solo",
+          "The Delectable Mountains - fast swing",
+          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
+          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
+          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
+          "Elixir - fast swing"
+        ],
         "detailLink": "TBD"
       }
     ],
@@ -105,26 +483,135 @@
       {
         "title": "Red Poppy and the Yellow Rose",
         "type": "large clarinet choir",
+        "description": "Commissioned by Guido Six and the Claribel Clarinet Choir, Conservatory aan Zee, Ostend, Belgium. Premiered at the Texas Music Educators Convention in San Antonio, Texas, in February, 2010.",
+        "attribution": "Recorded by Claribel Clarinet Choir, 2011",
+        "movements": [],
+        "instruments": [
+          "Clarinet Quartet a - Eb; Bb 1,2; Bass",
+          "Clarinet Quartet b - Eb; Bb 1,2; Bass",
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinets",
+          "Alto Clarinets",
+          "Contra-alto Clarinet",
+          "Contrabass Clarinet",
+          "Duration: 6 minutes"
+        ],
+        "duration": "6 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "The Red Poppy and the Yellow Rose was commissioned by Guido Six, clarinetist and Director of the Conservatory aan Zee and the Claribel Clarinet Ensemble of Ostende, Belgium.",
+          "The title is a reference to the national flower of Belgium, the red poppy, and the unofficial symbolic flower of song, the Yellow Rose of Texas. The composition represents the friendship of the Belgian and Texan musicians who first played the piece at a featured performance at the Texas Music Educators Association Convention in 2010.",
+          "The work contains many elements of a vague programmatic nature reflecting the history and culture of Belgium, including the visual image of fields of flowers moving gently in the wind, the memory of the many brave men who died in the Battle of Ypres in World War I, and a hint of gypsy folk dancing that is still a part of the vibrant culture of both Belgium and Texas. Most importantly, it is about the common joy of music and love of life that makes us all brothers on this planet."
+        ],
         "detailLink": "TBD"
       },
       {
-        "title": "A toot in Ninesia",
+        "title": "A Toot in Ninesia",
         "type": "clarinet sextet",
+        "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 1996 in Paris, France. A rhapsodic arrangement of A Night in Tunesia by Dizzy Gillespie",
+        "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
+        "movements": [],
+        "instruments": [
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3,4",
+          "Bass Clarinet (low C)"
+        ],
+        "duration": "6 minutes",
+        "publisher": "Albany Records",
+        "publisherLinks": [
+          {
+            "source": "Amazon",
+            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+          },
+          {
+            "source": "iTunes",
+            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+          }
+        ],
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "Monk, through a Glass Darkly",
         "type": "clarinet sextet",
+        "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 2000 in Stockholm, Sweden. An arrangement/medley of 'Round Midnight and Well, You Needn't by Thelonious Monk, with a tip of the hat to Richard Strauss.",
+        "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
+        "movements": [],
+        "instruments": [
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3,4",
+          "Bass Clarinet (low C)"
+        ],
+        "duration": "6 minutes",
+        "publisher": "Albany Records",
+        "publisherLinks": [
+          {
+            "source": "Amazon",
+            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+          },
+          {
+            "source": "iTunes",
+            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+          }
+        ],
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "Three Spirituals",
         "type": "clarinet sextet",
+        "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 1999 in Ostend, Belgium.\n",
+        "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
+        "movements": [
+          "Go Down Moses",
+          "De Blin Man",
+          "Nobody Knows"
+        ],
+        "instruments": [
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3,4",
+          "Bass Clarinet (low C)"
+        ],
+        "duration": "8 minutes",
+        "publisher": "Albany Records",
+        "publisherLinks": [
+          {
+            "source": "Amazon",
+            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+          },
+          {
+            "source": "iTunes",
+            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+          }
+        ],
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "The Ghost of Eric Dolphy",
         "type": "clarinet sextet",
+        "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 2012 in Austin, Texas, USA.",
+        "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
+        "movements": [],
+        "instruments": [
+          "Eb Clarinet",
+          "Bb Clarinets 1,2,3,4",
+          "Bass Clarinet (low C)"
+        ],
+        "duration": "5 minutes",
+        "publisher": "Albany Records",
+        "publisherLinks": [
+          {
+            "source": "Amazon",
+            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+          },
+          {
+            "source": "iTunes",
+            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+          }
+        ],
+        "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/ghost-eric-dolphy",
         "external": true
       }
@@ -132,26 +619,105 @@
     "Jazz Meets Classical Ensembles": [
       {
         "title": "Il y a des Fleurs",
+        "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the 25th Annual Jazz Meets Classical series, with special guest artist Clarice Assad.",
+        "attribution": "Recorded by Jazz Meets Classical Ensemble with Clarice Assad, vocalist.",
+        "movements": [],
+        "instruments": [
+          "solo vocalist and scat singer",
+          "flugelhorn",
+          "Bb Clarinet",
+          "String quartet - 2 violins, viola, cello",
+          "Jazz Rhythm section - piano, guitar, bass, drums"
+        ],
+        "duration": "8 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Bill's Shadow",
+        "description": "Commissioned by Musical Offerings for the Billy Strayhorn Centennial Celebration, for performance at the Annual <i>Jazz Meets Classical</i> series.",
+        "attribution": "Recorded by Jazz Meets Classical Ensemble for KRTU radio, 2015, with Curtis Calderon, solo flugelhorn.",
+        "movements": [],
+        "instruments": [
+          "Flugelhorn",
+          "Bb Clarinet",
+          "String quartet - 2 violins, viola, cello",
+          "Jazz Rhythm section - piano, bass, drums"
+        ],
+        "duration": "7 minutes - 9'30\" (depending on improvised solo section repeats)",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Double Blackstick Dance",
+        "description": "",
+        "attribution": "Premiered by Robert Walzel and James Scott Balentine at <i>Jazz Meets Classical XVI</i> in June 2008",
+        "instruments": [
+          "Bb clarinet 1, 2",
+          "jazz rhythm section - piano, guitar, bass, drums"
+        ],
+        "movements": [],
+        "duration": "5 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "Homage a Dave",
+        "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the Annual Jazz Meets Classical series.",
+        "attribution": "Recorded by Jazz Meets Classical Ensemble.",
+        "movements": [],
+        "instruments": [
+          "Alto Sax (jazz - improvisation required)",
+          "String trio - violin, viola, cello",
+          "Jazz Rhythm section - piano, bass, drums"
+        ],
+        "duration": "8 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Recollection",
+        "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the Annual Jazz Meets Classical series, with special guest artist Joan Carroll. <br/>Subtitled \"Vague Memories of Porgy and Bess\"",
+        "attribution": "Recorded by Jazz Meets Classical Ensemble with Joan Carroll, Curtis Calderon, and Jim Balentine, vocalists.",
+        "movements": [],
+        "instruments": [
+          "Jazz vocal trio",
+          "flugelhorn",
+          "Bb Clarinet",
+          "String quartet - 2 violins, viola, cello",
+          "Jazz Rhythm section - piano, guitar, bass, drums"
+        ],
+        "duration": "8 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Fantasy After Eric Dolphy",
+        "description": "Commissioned by Musical Offerings",
+        "attribution": "Recorded by Jazz Meets Classical Ensemble with Rene Saenz, soprano saxophone.",
+        "movements": [],
+        "instruments": [
+          "Soprano Saxophone (Jazz - improvisation required)",
+          "Jazz Rhythm section - piano, bass, drums"
+        ],
+        "duration": "8 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
+        ],
         "detailLink": "TBD"
       }
     ],
@@ -159,8 +725,35 @@
       {
         "title": "Nine Wild Exotic Dances",
         "instruments": [
-          "clarinet",
+          "Bb clarinet",
           "piano"
+        ],
+        "description": "Commissioned by Robert Walzel, clarinet, for performance on the opening concert of ClarinetFest 1999, in Ostend, Belgium. Dedicated to my wife, Cindy Dion Balentine.",
+        "attribution": "Recorded by Robert Walzel, clarinet, Steven Glaser, piano",
+        "movements": [
+          "1. Cielito",
+          "2. Ishi's Song One",
+          "3. Notturno",
+          "4. Danzon",
+          "5. Yarevi",
+          "6. Dreher",
+          "7. Ishi's Song Two",
+          "8. Obertas",
+          "9. Niñeria"
+        ],
+        "duration": "18 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "Commissioned by Robert Walzel, clarinet, and Steven Glaser, piano, Nine Wild, Exotic Dances was premiered at ClarinetFest 1999 in Ostende, Belgium. The nine movements, although not all strictly dances, were inspired by folk materials from European, South American, and Native American influences.",
+          "1. Cielito - an Argentinian dance in triple meter",
+          "2. Ishi's Song One - a memorial to Ishi, the last surviving member of the North American Yahi tribe",
+          "3. Notturno - a peaceful, slightly mysterious setting of European night music",
+          "4. Danzon - a Cuban dance with syncopation and energetic jazz-like flavors",
+          "5. Yarevi - a Mayan funeral march",
+          "6. Dreher - a German dance modeled on the laendler, or langhaus",
+          "7. Ishi's Song Two - a reprise and answer to mvt II.",
+          "8. Obertas - a Czech dance in triple meter, reflective of the character of mvt I",
+          "9. Niñeria - A Mexican children's game, hide-n-seek between the nanny and child."
         ],
         "detailLink": "TBD"
       },
@@ -170,13 +763,50 @@
           "clarinet",
           "piano"
         ],
+        "description": "Commissioned by The Barlow Endowment, premiered at ClarinetFest 2003, Salt Lake City, Jaren Hinckley, clarinet.",
+        "attribution": "Recorded by Robert Walzel, clarinet, and Steven Glaser, piano, on <i>Wild Exotic Dances</i> on Albany Records.",
+        "movements": [
+          "1. McKinnon's Ceilidh",
+          "2. Fanny Burney",
+          "3. Jaren's Reel"
+        ],
+        "duration": "8 minutes",
+        "composerNotes": [
+          "The three Scottish dances are traditionally performed as a continuous piece with no break between them. The performer is free to do them as three separate and discreet dances, or as a single piece with sudden but smooth tempo changes between each. Embellishments (grace notes, turns, and portamenti) may be added by the performer in addition to those included in the score, as the performers feel is appropriate to the style.",
+          "March, Strathspey and Reel was commissioned by the Barlow Endowment for Music Composition at Brigham Young University, and written for Jaren Smith Hinckley, clarinet.",
+          "1. Mckinnon's Ceilidh",
+          "2. Fanny Burney",
+          "3. Jaren's Reel"
+        ],
+        "publisher": "Albany Records",
+        "publisherLinks": [
+          {
+            "source": "Amazon",
+            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+          },
+          {
+            "source": "iTunes",
+            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+          }
+        ],
         "detailLink": "TBD"
       },
       {
         "title": "Prayer and Alleluia",
         "instruments": [
-          "trumpet",
+          "Bb trumpet",
           "piano"
+        ],
+        "description": "",
+        "attribution": "Recorded by Andrew Gignac, trumpet",
+        "movements": [],
+        "duration": "5 minutes",
+        "publisher": "Hal Leonard - Southern Music",
+        "publisherLinks": [
+          "https://www.halleonard.com/"
+        ],
+        "composerNotes": [
+          "Prayer and Alleluia was written for my son, David Balentine"
         ],
         "detailLink": "TBD"
       },
@@ -186,6 +816,24 @@
           "cello",
           "piano"
         ],
+        "description": "Commissioned by Kathryn Mason Hodges in honor of Donald Hodges 50th birthday.",
+        "attribution": "Recorded by Brian and Betsi Hodges",
+        "movements": [
+          "1. A Quiet Time",
+          "2. Brian",
+          "3. Ludwig",
+          "4. Tennis anyone",
+          "5. Kathy",
+          "6. Brain"
+        ],
+        "duration": "16 minutes",
+        "publisher": "Hal Leonard - Southern Music",
+        "publisherLinks": [
+          "https://www.halleonard.com/"
+        ],
+        "composerNotes": [
+          "A Wiser Man was commissioned by Kathryn Mason Hodges for the occasion of her husband, Donald Hodges' 50th birthday. Each of the 6 movements concerns some aspect of his life and interests, and each is based on a short poem written by the composer for this occasion."
+        ],
         "detailLink": "TBD"
       },
       {
@@ -194,22 +842,65 @@
           "cello",
           "piano"
         ],
+        "description": "Written for and dedicated to Judith VanderWeg and Christine Debus",
+        "attribution": "Recorded by Judith VanderWeg, cello",
+        "movements": [],
+        "duration": "4 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [
+          "to be a Puddle",
+          "an itty bitty ditty for cello & piano<br/><br/>",
+          "was written for and dedicated to my friends Judith VanderWeg and Christine Debus. The idea emerged from a comment Judy made about a particularly busy performing season, and that \"she was just a puddle.\" It prompted the following poem, which in turn prompted the music.<br/><br/>",
+          "to be a Puddle,",
+          "having been rain;",
+          "having watered the sky,",
+          "having nourished the earth,",
+          "having been more than a collection of droplets<br/><br/>",
+          "to be a Puddle,",
+          "having been tears;",
+          "having felt happiness,",
+          "having known sorrow and grief,",
+          "having lost love in the emptiness of longing<br/><br/>",
+          "to be a Puddle,",
+          "having splashed and been splashed,",
+          "reflecting the rainbow in the crystal misting,",
+          "having been a cloud,",
+          "to be the Rain, having been a puddle."
+        ],
         "detailLink": "TBD"
       }
     ],
     "Solo Piano": [
       {
         "title": "Piano Sonata No. 1",
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/piano-sonata-no-1-smith",
         "external": true
       },
       {
         "title": "Piano Sonata No. 2",
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/piano-sonata-no-2-steptoe",
         "external": true
       },
       {
         "title": "A Trilogy for Friends",
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/trilogy-friends",
         "external": true
       }
@@ -223,6 +914,12 @@
           "piano",
           "synthesized voice"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -231,6 +928,12 @@
           "string quintet",
           "narrator"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/three-billy-goats-gruff",
         "external": true
       },
@@ -243,6 +946,12 @@
           "cello",
           "piano"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -251,6 +960,12 @@
           "baritone",
           "cello"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -259,6 +974,12 @@
           "baritone",
           "string quartet"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -267,6 +988,12 @@
           "baritone",
           "guitar"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       }
     ],
@@ -278,6 +1005,12 @@
           "bassoon",
           "piano"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -287,6 +1020,12 @@
           "viola",
           "piano"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -297,6 +1036,12 @@
           "cello",
           "piano"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/les-quatre-coins",
         "external": true
       },
@@ -307,12 +1052,24 @@
           "bass clarinet",
           "piano"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/charlie-effect",
         "external": true
       },
       {
         "title": "Frog and the Golden Ball",
         "type": "woodwind quintet",
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -321,6 +1078,12 @@
           "clarinet",
           "bassoon"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -330,6 +1093,12 @@
           "english horn",
           "guitar"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -338,16 +1107,34 @@
           "clarinet",
           "marimba"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "The Devil's Advice to Storytellers",
         "type": "one clarinetist - Eb, Bb, A, and bass",
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "Liberty Bar",
         "type": "two percussionists multiple percussion",
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -357,6 +1144,12 @@
           "cello",
           "piano"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       }
     ],
@@ -368,6 +1161,12 @@
           "SSATBB",
           "a capella"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "https://composers.com/composers/james-scott-balentine/fragments-time-and-place",
         "external": true
       },
@@ -377,6 +1176,12 @@
           "children's choir",
           "SATB choir and piano"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -385,6 +1190,12 @@
           "SATB and piano",
           "wind ensemble"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       }
     ],
@@ -392,11 +1203,23 @@
       {
         "title": "My New Voice",
         "type": "one act opera",
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
         "title": "Navarro",
         "type": "children's opera",
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       },
       {
@@ -409,6 +1232,12 @@
           "strings",
           "jazz rhythm section"
         ],
+        "description": "",
+        "attribution": "",
+        "movements": [],
+        "duration": "15 minutes",
+        "publisher": "James Balentine",
+        "composerNotes": [],
         "detailLink": "TBD"
       }
     ]
