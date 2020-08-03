@@ -1,29 +1,29 @@
 variable "api_domain_name" {
-  type        = "string"
+  type        = string
   description = "api backend domain"
 }
 
 variable "api_stage_name" {
-  type        = "string"
+  type        = string
   description = "api backend deployment stage"
 }
 
 variable "cloud_dns_zone" {
-  type        = "string"
+  type        = string
   description = "route53 zone id"
 }
 
 variable "domain" {
-  type        = "string"
+  type        = string
   description = "domain name"
 }
 
 variable "env" {
-  type        = "string"
+  type        = string
   description = "stage name"
 }
 
 variable "s3_role_arn" {
-  type        = "string"
+  type        = string
   description = "role arn to assume when uploading files to s3"
 }
