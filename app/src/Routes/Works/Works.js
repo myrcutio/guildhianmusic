@@ -1,13 +1,18 @@
-import React, { Fragment } from 'react';
+import React, { Fragment, useEffect, useRef, useState } from 'react';
 import Accordion from '@material-ui/core/Accordion';
 import AccordionSummary from '@material-ui/core/AccordionSummary';
 import AccordionDetails from '@material-ui/core/AccordionDetails';
+import copy from 'copy-to-clipboard';
 import Divider from '@material-ui/core/Divider';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-import List from '@material-ui/core/List';
+import IconButton from '@material-ui/core/IconButton';
 import Link from '@material-ui/core/Link';
+import LinkIcon from '@material-ui/icons/Link';
+import List from '@material-ui/core/List';
 import OpenInNewIcon from '@material-ui/icons/OpenInNew';
+import Tooltip from '@material-ui/core/Tooltip';
 import Typography from '@material-ui/core/Typography';
+import { kebabCase } from 'lodash-es';
 import * as works from './works.json';
 import css from './Works.module.scss';
 
@@ -22,41 +27,84 @@ const Piece = (piece) => {
     movements,
     attribution,
     composerNotes,
-    detailLink,
-    external
+    detailLink
   } = piece;
   const key = `${title}-${type}`;
+  const anchorTitle = kebabCase(title);
   const allInstruments = instruments && instruments.join(', ');
   const allMovements = movements && movements.join(', ');
   const allComposerNotes = composerNotes && composerNotes.join(', ');
   const hasMoreInfo = !!allInstruments || !!allMovements || !!allComposerNotes;
+  const { origin, pathname, hash } = window.location;
+  const [expanded, setExpanded] = useState(hash === `#${anchorTitle}`);
+  const [copied, setCopied] = useState('Copy Direct Link');
+  const elementRef = useRef(null);
 
-  console.log('piece', piece);
+  useEffect(() => {
+    if (hash === `#${anchorTitle}`) {
+      setExpanded(true);
+      elementRef.current.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+      });
+    }
+  }, [hash]);
+
+  const onCopyClick = () => {
+    copy(`${origin}${pathname}#${anchorTitle}`);
+    setCopied('Copied!');
+    setTimeout(() => {
+      setCopied('Copy Direct Link');
+    }, 1500);
+  };
 
   return (
-    <Accordion key={key}>
+    <Accordion
+      key={key}
+      expanded={expanded}
+      onClick={() => setExpanded(!expanded)}
+      ref={elementRef}
+    >
       <AccordionSummary expandIcon={<ExpandMoreIcon />}>
         <div>
           <div className={css.piece}>
             <div className={css.title}>
-              <Link
-                href={detailLink}
-                target={external ? '_blank' : ''}
-                title={`View more details about ${title}`}
-                className={css.detailLink}
-                onClick={(e) => e.stopPropagation()}
-                color="textPrimary"
-              >
-                <span>{title}</span>
-                {external && (
-                  <OpenInNewIcon
-                    className={css.openInNewIcon}
-                    color="disabled"
-                    fontSize="small"
-                    titleAccess="Opens in new window"
-                  />
-                )}
-              </Link>
+              {detailLink && (
+                <Link
+                  href={detailLink}
+                  target="_blank"
+                  title={`View more details about ${title}`}
+                  className={css.detailLink}
+                  onClick={(e) => e.stopPropagation()}
+                  color="textPrimary"
+                >
+                  <span>{title}</span>
+                  <Tooltip title="Opens in new window" placement="top" arrow>
+                    <OpenInNewIcon
+                      className={css.linkIcon}
+                      color="disabled"
+                      fontSize="small"
+                    />
+                  </Tooltip>
+                </Link>
+              )}
+              {!detailLink && (
+                <div className={css.detailLink}>
+                  <span>{title}</span>
+                  <Tooltip title={copied} placement="top" arrow>
+                    <IconButton
+                      className={css.copyIcon}
+                      size="small"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        onCopyClick();
+                      }}
+                    >
+                      <LinkIcon color="disabled" fontSize="small" />
+                    </IconButton>
+                  </Tooltip>
+                </div>
+              )}
             </div>
             {type && <div className={css.type}>({type})</div>}
           </div>

@@ -15,6 +15,7 @@
 .piece {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .description,
@@ -33,7 +34,7 @@
   display: flex;
   align-items: center;
   
-  .openInNewIcon {
+  .linkIcon {
     margin: 0 4px 0 2px;
     transition: opacity 0.3s ease;
     font-size: 1rem;
