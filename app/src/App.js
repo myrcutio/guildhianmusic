@@ -4,7 +4,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import Popover from '@material-ui/core/Popover';
 import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
-import { Route, NavLink, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, NavLink, Switch } from 'react-router-dom';
 import { navigation } from './nav';
 import { Home } from 'Routes/Home';
 import { Works } from 'Routes/Works';
@@ -18,7 +18,7 @@ const App = () => {
   const [showMobileNav, setShowMobileNav] = useState(false);
 
   return (
-    <div>
+    <BrowserRouter>
       <nav className={css.navbar}>
         <div className={css.mobileNav}>
           <IconButton
@@ -103,7 +103,7 @@ const App = () => {
           </div>
         </div>
       </div>
-    </div>
+    </BrowserRouter>
   );
 };
 
