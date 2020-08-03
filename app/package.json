@@ -4,13 +4,15 @@
   "description": "music site for James Scott Balentine",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "^4.10.0",
+    "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "classnames": "^2.2.6",
     "chokidar": "~3.0.1",
+    "classnames": "^2.2.6",
+    "copy-to-clipboard": "^3.3.1",
+    "lodash-es": "^4.17.15",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -25,6 +27,11 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "jest": {
+    "transformIgnorePatterns": [
+      "<rootDir>node_modules/(?!)"
+    ]
   },
   "browserslist": {
     "production": [

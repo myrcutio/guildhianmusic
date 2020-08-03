@@ -8,22 +8,35 @@
   font-style: italic;
 }
 
-.instruments {
+.metaInfo {
   color: rgba(0, 0, 0, 0.54);
 }
 
 .piece {
+  display: flex;
   flex-wrap: wrap;
+  align-items: center;
+}
 
-  .openInNewIcon {
-    margin-left: 4px;
-    opacity: 0;
-    transition: opacity 0.3s ease;
+.description,
+.attribution,
+.composerNotes {
+  margin-bottom: 16px;
+}
+
+.details {
+  .divider {
+    margin-bottom: 8px;
   }
+}
 
-  &:hover {
-    .openInNewIcon {
-      opacity: 1;
-    }
+.detailLink{
+  display: flex;
+  align-items: center;
+  
+  .linkIcon {
+    margin: 0 4px 0 2px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem;
   }
 }
