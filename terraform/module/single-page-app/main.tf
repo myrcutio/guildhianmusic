@@ -25,7 +25,7 @@ resource "aws_route53_record" "cert_validation" {
   name       = aws_acm_certificate.cert.domain_validation_options.0.resource_record_name
   type       = aws_acm_certificate.cert.domain_validation_options.0.resource_record_type
   zone_id    = var.cloud_dns_zone
-  records    = ["${aws_acm_certificate.cert.domain_validation_options.0.resource_record_value}"]
+  records    = [aws_acm_certificate.cert.domain_validation_options[0].resource_record_value]
   ttl        = 60
   depends_on = ["aws_acm_certificate.cert"]
 }
@@ -74,7 +74,7 @@ resource "aws_cloudfront_distribution" "frontend_distribution" {
   comment             = "Frontend"
   default_root_object = "index.html"
 
-  aliases = ["${var.domain}"]
+  aliases = [var.domain]
 
   default_cache_behavior {
     allowed_methods  = ["DELETE", "GET", "HEAD", "OPTIONS", "PATCH", "POST", "PUT"]

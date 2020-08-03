@@ -9,7 +9,7 @@ import { navigation } from './nav';
 import { Home } from 'Routes/Home';
 import { Works } from 'Routes/Works';
 import { NewsEvents } from 'Routes/NewsEvents';
-import { GuildianMusic } from 'Routes/GuildianMusic';
+import { GuildhianMusic } from 'Routes/GuildhianMusic';
 import { Contact } from 'Routes/Contact';
 import css from './App.module.scss';
 
@@ -94,7 +94,7 @@ const App = () => {
               <Route exact path="/" component={Home} />
               <Route exact path="/works" component={Works} />
               <Route exact path="/events" component={NewsEvents} />
-              <Route exact path="/guildianmusic" component={GuildianMusic} />
+              <Route exact path="/guildhianmusic" component={GuildhianMusic} />
               <Route exact path="/contact" component={Contact} />
             </Switch>
             <div className={css.copyright}>
