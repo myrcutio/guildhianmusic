@@ -31,7 +31,7 @@ clean-tf:
 .PHONY: deploy-%
 deploy-%: all
 	$(TF) workspace select $*
-	$(TF) apply
+	$(TF) apply --auto-approve
 
 .PHONY: tf-workspace-%
 tf-workspace-%: terraform/.terraform
