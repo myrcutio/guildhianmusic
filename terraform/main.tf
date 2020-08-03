@@ -39,6 +39,6 @@ module "frontend" {
   s3_role_arn     = var.target_role_arn
 
   providers = {
-    aws.dns = "aws.route53"
+    aws.dns = aws.route53
   }
 }
