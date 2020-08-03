@@ -48,7 +48,7 @@ const Piece = (piece) => {
         block: 'start'
       });
     }
-  }, [hash]);
+  }, [hash, anchorTitle]);
 
   const onCopyClick = () => {
     copy(`${origin}${pathname}#${anchorTitle}`);
