@@ -6,13 +6,13 @@ import copy from 'copy-to-clipboard';
 import Divider from '@material-ui/core/Divider';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import IconButton from '@material-ui/core/IconButton';
+import kebabCase from 'lodash-es/kebabCase';
 import Link from '@material-ui/core/Link';
 import LinkIcon from '@material-ui/icons/Link';
 import List from '@material-ui/core/List';
 import OpenInNewIcon from '@material-ui/icons/OpenInNew';
 import Tooltip from '@material-ui/core/Tooltip';
 import Typography from '@material-ui/core/Typography';
-import { kebabCase } from 'lodash-es';
 import * as works from './works.json';
 import css from './Works.module.scss';
 
