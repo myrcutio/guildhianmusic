@@ -24,6 +24,7 @@ const Piece = (piece) => {
     duration,
     description,
     publisher,
+    publisherLink,
     movements,
     attribution,
     composerNotes,
@@ -109,7 +110,9 @@ const Piece = (piece) => {
             {type && <div className={css.type}>({type})</div>}
           </div>
           <Typography variant="caption" color="textSecondary">
-            {publisher && `Publisher: ${publisher}`}
+            {publisher && publisherLink ? (
+              <a href={publisherLink} target="_blank" rel="noopener noreferrer">{`Publisher: ${publisher}`}</a>
+            ) : `Publisher: ${publisher}`}
             {publisher && duration && ` | `}
             {duration && `Duration: ${duration}`}
           </Typography>

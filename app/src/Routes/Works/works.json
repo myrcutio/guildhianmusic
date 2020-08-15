@@ -57,12 +57,12 @@
     ],
     "Brass & Wind Ensembles": [
       {
-        "title": "The River Remembers",
+        "title": "the river remembers",
         "description": "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet",
         "attribution": "Recorded by The American Brass Quintet, 2018",
         "movements": [],
         "duration": "4 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet as an opening fanfare for the San Antonio Tricentennial in 2018.  <i>The River Remembers</i> was inspired by the poetry of Carmen Tafolla, Poet Laureate of San Antonio, and was premiered by the American Brass Quintet on March 3, 2018 in San Antonio, Texas."
         ],
@@ -186,7 +186,7 @@
           "Percussion 1,2,3"
         ],
         "duration": "12 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": []
       },
       {
@@ -204,7 +204,7 @@
           "Timpani"
         ],
         "duration": "3 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": []
       },
       {
@@ -246,14 +246,14 @@
           "Percussion 1,2"
         ],
         "duration": "5 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": []
       }
     ],
     "Jazz Ensemble (Big Band)": [
       {
         "title": "Cindy, My Love",
-        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "description": "written for the Sam Houston State University Jazz Ensemble as the closing piece for the 1980 SHSU Jazz Festival",
         "attribution": "",
         "movements": [],
         "instruments": [
@@ -265,25 +265,19 @@
           "bass",
           "drums"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
-          "Cindy, My Love - relaxed swing, flugelhorn solo",
-          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
-          "In Donna's Honor - swing ballad, trumpet solo",
-          "The Delectable Mountains - fast swing",
-          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
-          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
-          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
-          "Elixir - fast swing"
+          "relaxed swing, features flugelhorn solo"
         ]
       },
       {
         "title": "Close to Home",
-        "type": "Dennis Dotson",
-        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "type": "tune by Dennis Dotson, arranged by Jim Balentine",
+        "description": "Written for the 1983 SHSU Jazz Festival with featured guests Dennis Dotson and Pete Brewer. Flugelhorn solo. Hand manuscript score and parts.",
         "attribution": "",
         "movements": [],
         "instruments": [
+          "Solo Flugelhorn",
           "5 saxes (AATTB)",
           "4 trombones",
           "4 trumpets",
@@ -292,21 +286,14 @@
           "bass",
           "drums"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
-          "Cindy, My Love - relaxed swing, flugelhorn solo",
-          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
-          "In Donna's Honor - swing ballad, trumpet solo",
-          "The Delectable Mountains - fast swing",
-          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
-          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
-          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
-          "Elixir - fast swing"
+          "tune composed by Dennis Dotson, arranged by Jim Balentine - bossa, flugelhorn solo"
         ]
       },
       {
         "title": "In Donna's Honor",
-        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "description": "Commissioned by Southwest High School Jazz Ensemble",
         "attribution": "",
         "movements": [],
         "instruments": [
@@ -318,21 +305,12 @@
           "bass",
           "drums"
         ],
-        "publisher": "American Concert Editions",
-        "composerNotes": [
-          "Cindy, My Love - relaxed swing, flugelhorn solo",
-          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
-          "In Donna's Honor - swing ballad, trumpet solo",
-          "The Delectable Mountains - fast swing",
-          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
-          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
-          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
-          "Elixir - fast swing"
-        ]
+        "publisher": "Guildhian Music",
+        "composerNotes": []
       },
       {
         "title": "The Delectable Mountains",
-        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "description": "Written for the 1986 SHSU Jazz Festival",
         "attribution": "",
         "movements": [],
         "instruments": [
@@ -344,21 +322,14 @@
           "bass",
           "drums"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
-          "Cindy, My Love - relaxed swing, flugelhorn solo",
-          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
-          "In Donna's Honor - swing ballad, trumpet solo",
-          "The Delectable Mountains - fast swing",
-          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
-          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
-          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
-          "Elixir - fast swing"
+          "fast swing, half time funk"
         ]
       },
       {
         "title": "Ich Bin Kaputen Der Jazzchops",
-        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "description": "Written for SHSU Jazz Festival 1983",
         "attribution": "",
         "movements": [],
         "instruments": [
@@ -370,21 +341,14 @@
           "bass",
           "drums"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
-          "Cindy, My Love - relaxed swing, flugelhorn solo",
-          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
-          "In Donna's Honor - swing ballad, trumpet solo",
-          "The Delectable Mountains - fast swing",
-          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
-          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
-          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
-          "Elixir - fast swing"
+          "swing/rock mix, tenor/trpt solos."
         ]
       },
       {
         "title": "In and Out the Garbage Pail",
-        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "description": "Written for the SHSU Jazz Ensemble",
         "attribution": "",
         "movements": [],
         "instruments": [
@@ -396,21 +360,14 @@
           "bass",
           "drums"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
-          "Cindy, My Love - relaxed swing, flugelhorn solo",
-          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
-          "In Donna's Honor - swing ballad, trumpet solo",
-          "The Delectable Mountains - fast swing",
-          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
-          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
-          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
-          "Elixir - fast swing"
+          "12 tone melody for tenor/trumpet, swing, free jazz section"
         ]
       },
       {
         "title": "Nice 'tis, As Is",
-        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "description": "For the SHSU Jazz Ensemble, 1982",
         "attribution": "",
         "movements": [],
         "instruments": [
@@ -422,21 +379,14 @@
           "bass",
           "drums"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
-          "Cindy, My Love - relaxed swing, flugelhorn solo",
-          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
-          "In Donna's Honor - swing ballad, trumpet solo",
-          "The Delectable Mountains - fast swing",
-          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
-          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
-          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
-          "Elixir - fast swing"
+          "latin samba feel, concertino of alto sax, trumpet, trombone & guitar, difficult rhythm soli"
         ]
       },
       {
         "title": "Elixir",
-        "description": "The Jazz Ensemble titles below were written for the Sam Houston State University Jazz Ensemble in the early 1980's (pre-Finale computer notation). They are in hand manuscript on 9.5 x 12 part size with either a reduced score (required by the original publisher) or a more modern full score (preference of the composer).<br/><br/>Live recordings of some have been posted on You Tube (unauthorized, but what the hell). Perusal scores and recordings may be requested and special ordered through Guildhian Music (see contact information below).",
+        "description": "written for the Sam Houston State University Jazz Ensemble, 1981",
         "attribution": "",
         "movements": [],
         "instruments": [
@@ -448,16 +398,9 @@
           "bass",
           "drums"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
-          "Cindy, My Love - relaxed swing, flugelhorn solo",
-          "Close to Home (Dennis Dotson) - bossa, flugelhorn solo",
-          "In Donna's Honor - swing ballad, trumpet solo",
-          "The Delectable Mountains - fast swing",
-          "Ich Bin Kaputen Der JazzChops - swing/rock mix, tenor/trpt solos",
-          "In and Out the Garbage Pail - 12 tone head, swing, free jazz section",
-          "Nice 'tis, As Is - latin feel, difficult rhythm soli",
-          "Elixir - fast swing"
+          "fast swing"
         ]
       }
     ],
@@ -476,8 +419,7 @@
           "Bass Clarinets",
           "Alto Clarinets",
           "Contra-alto Clarinet",
-          "Contrabass Clarinet",
-          "Duration: 6 minutes"
+          "Contrabass Clarinet"
         ],
         "duration": "6 minutes",
         "publisher": "American Concert Editions",
@@ -499,7 +441,7 @@
           "Bass Clarinet (low C)"
         ],
         "duration": "6 minutes",
-        "publisher": "Albany Records",
+        "publisher": "Cimarron Music",
         "publisherLinks": [
           {
             "source": "Amazon",
@@ -524,7 +466,7 @@
           "Bass Clarinet (low C)"
         ],
         "duration": "6 minutes",
-        "publisher": "Albany Records",
+        "publisher": "American Concert Editions",
         "publisherLinks": [
           {
             "source": "Amazon",
@@ -553,7 +495,7 @@
           "Bass Clarinet (low C)"
         ],
         "duration": "8 minutes",
-        "publisher": "Albany Records",
+        "publisher": "American Concert Editions",
         "publisherLinks": [
           {
             "source": "Amazon",
@@ -578,7 +520,7 @@
           "Bass Clarinet (low C)"
         ],
         "duration": "5 minutes",
-        "publisher": "Albany Records",
+        "publisher": "American Concert Editions",
         "publisherLinks": [
           {
             "source": "Amazon",
@@ -624,7 +566,7 @@
           "Jazz Rhythm section - piano, bass, drums"
         ],
         "duration": "7 minutes - 9'30\" (depending on improvised solo section repeats)",
-        "publisher": "Guildhian Music",
+        "publisher": "American Concert Editions",
         "composerNotes": [
           "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
         ]
@@ -653,7 +595,7 @@
           "Jazz Rhythm section - piano, bass, drums"
         ],
         "duration": "8 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
         ]
@@ -671,7 +613,7 @@
           "Jazz Rhythm section - piano, guitar, bass, drums"
         ],
         "duration": "8 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
         ]
@@ -686,7 +628,7 @@
           "Jazz Rhythm section - piano, bass, drums"
         ],
         "duration": "8 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
         ]
@@ -748,7 +690,7 @@
           "2. Fanny Burney",
           "3. Jaren's Reel"
         ],
-        "publisher": "Albany Records",
+        "publisher": "American Concert Editions",
         "publisherLinks": [
           {
             "source": "Amazon",
@@ -770,9 +712,9 @@
         "attribution": "Recorded by Andrew Gignac, trumpet",
         "movements": [],
         "duration": "5 minutes",
-        "publisher": "Hal Leonard - Southern Music",
+        "publisher": "Keiser Southern Music; distributed by Hal Leonard",
         "publisherLinks": [
-          "https://www.halleonard.com/"
+          "https://www.halleonard.com/search/search.action?keywords=3776282"
         ],
         "composerNotes": [
           "Prayer and Alleluia was written for my son, David Balentine"
@@ -792,53 +734,36 @@
           "3. Ludwig",
           "4. Tennis anyone",
           "5. Kathy",
-          "6. Brain"
+          "6. the Brain"
         ],
         "duration": "16 minutes",
-        "publisher": "Hal Leonard - Southern Music",
+        "publisher": "Keiser Southern Music; distributed by Hal Leonard",
         "publisherLinks": [
-          "https://www.halleonard.com/"
+          "https://www.halleonard.com/search/search.action?keywords=3776281"
         ],
         "composerNotes": [
-          "A Wiser Man was commissioned by Kathryn Mason Hodges for the occasion of her husband, Donald Hodges' 50th birthday. Each of the 6 movements concerns some aspect of his life and interests, and each is based on a short poem written by the composer for this occasion."
+          "<i>A Wiser Man</i> was commissioned by Kathryn Mason Hodges for the occasion of her husband, Donald Hodges' 50th birthday. Each of the 6 movements concerns some aspect of his life and interests, and each is based on a short poem written by the composer (included in the score) for this occasion."
         ]
       },
       {
-        "title": "To be a Puddle",
+        "title": "to be a Puddle",
         "instruments": [
           "cello",
           "piano"
         ],
         "description": "Written for and dedicated to Judith VanderWeg and Christine Debus",
-        "attribution": "Recorded by Judith VanderWeg, cello",
+        "attribution": "Recorded by Judith VanderWeg, cello, and Christine Debus, piano",
         "movements": [],
         "duration": "4 minutes",
         "publisher": "American Concert Editions",
         "composerNotes": [
-          "to be a Puddle",
-          "an itty bitty ditty for cello & piano<br/><br/>",
-          "was written for and dedicated to my friends Judith VanderWeg and Christine Debus. The idea emerged from a comment Judy made about a particularly busy performing season, and that \"she was just a puddle.\" It prompted the following poem, which in turn prompted the music.<br/><br/>",
-          "to be a Puddle,",
-          "having been rain;",
-          "having watered the sky,",
-          "having nourished the earth,",
-          "having been more than a collection of droplets<br/><br/>",
-          "to be a Puddle,",
-          "having been tears;",
-          "having felt happiness,",
-          "having known sorrow and grief,",
-          "having lost love in the emptiness of longing<br/><br/>",
-          "to be a Puddle,",
-          "having splashed and been splashed,",
-          "reflecting the rainbow in the crystal misting,",
-          "having been a cloud,",
-          "to be the Rain, having been a puddle."
+          "<i>to be a Puddle - an itty bitty ditty for cello & piano</i>, was written for and dedicated to my friends Judith VanderWeg and Christine Debus. The idea emerged from a comment Judy made about a particularly busy performing season - she said \"she was just a puddle.\" It prompted a poem by the composer (printed in the score), which in turn prompted the music."
         ]
       }
     ],
     "Solo Piano": [
       {
-        "title": "Piano Sonata No. 1",
+        "title": "Piano Sonata No. 1 - 'Smith'",
         "description": "Composed between 1984 and 1993, and influenced by many pianists, including Richard Smith, Kathy Hodges, Valeri Grokhovski, Winifred Goodwin, and Steven H. Smith.",
         "attribution": "Recorded by Steven H. Smith, included on Remembering Friends; available through Guildhian Music (see contact page)",
         "movements": [
@@ -855,7 +780,7 @@
         "detailLink": "https://composers.com/composers/james-scott-balentine/piano-sonata-no-1-smith"
       },
       {
-        "title": "Piano Sonata No. 2",
+        "title": "Piano Sonata No. 2 - 'Steptoe'",
         "description": "Composed 2006 at the request of composer and pianist Roger Steptoe",
         "attribution": "",
         "movements": [
@@ -885,37 +810,20 @@
         "instruments": [
           "piano"
         ],
-        "duration": "12:30 minutes",
+        "duration": "13 minutes",
         "publisher": "American Concert Editions",
         "composerNotes": [
           "A Trilogy for Friends was written in memory of three friends and colleagues at the University of Texas at San Antonio whose lives were cut short by illness. Their contributions musically and personally to those whose lives they touched will not be forgotten. Premiere performance was by Kasandra Keeling, Associate Professor of piano at UTSA, and former student of all three, at the 2003 UTSA New Music Festival, San Antonio, Texas.",
-          "Pavane for Kathy Mason Hodges",
+          "<i>Pavane for Kathy</i>",
           "Kathy was a pianist and accompanist, one of the most beautiful and gentle souls, full of music and laughter.",
-          "Remembering Reed for Reed Holmes",
+          "<i>Remembering Reed</i> for Reed Holmes",
           "Reed was a composer, theorist, friend, guitarist and teacher. His music was elegant and impeccably crafted.",
-          "Capriccio and Chaconne for JK for Janice Kay Hodges - J.K. to all who knew her. She was a pianist of world class, her hearty laugh and joy of life brightened the halls, and her music made life worthwhile."
+          "<i>Capriccio and Chaconne for JK</i> for Janice Kay Hodges - J.K. to all who knew her. She was a pianist of world class, her hearty laugh and joy of life brightened the halls, and her music made life worthwhile."
         ],
         "detailLink": "https://composers.com/composers/james-scott-balentine/trilogy-friends"
       }
     ],
     "Voice and Instruments": [
-      {
-        "title": "So Tell Me Elizabeth",
-        "subtitle": "from My New Voice",
-        "instruments": [
-          "soprano",
-          "piano",
-          "synthesized voice"
-        ],
-        "description": "excerpt from the opera \"My New Voice\" (in progress)",
-        "attribution": "Recorded by Lisa J. Coates, soprano, Paul Barker, piano, Bruce Balentine, voice synthesis, available on <a target=\"_blank\" href=\"http://vimeo.com/60335807\">video from CreST Concert</a>, January 26, 2013, in Scarborough, UK. My New Voice is approximately 4' 05\" into the video, the second piece on the concert.",
-        "movements": [],
-        "duration": "8:30 minutes",
-        "publisher": "American Concert Editions",
-        "composerNotes": [
-          "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
-        ]
-      },
       {
         "title": "The Three Billy Goats Gruff",
         "instruments": [
@@ -940,6 +848,7 @@
         ],
         "duration": "10:30 minutes",
         "publisher": "American Concert Editions",
+        "publisherLink": "https://composers.com/composers/james-scott-balentine/three-billy-goats-gruff",
         "composerNotes": [
           "The Three Billy Goats Gruff was commissioned by the Cactus Pear Festival for the Kinder Konzerts Series in San Antonio. It is a mini-drama, a narrative for string quartet, solo bass and narrator. It was first performed at the Empire Theater in San Antonio, Texas, in September of 2003, with baritone Timothy Jones narrating. The ugly, greedy old Troll is portrayed by the solo bass (first performed by bassist Steve Zeserman), who offers a musical dialogue with the clever Billy Goats (played by the Cactus Pear string quartet - Stephanie Sant'Ambrogio, artistic director) as the narrator tells the story."
         ],
@@ -1014,15 +923,33 @@
         "composerNotes": [
           "What Water Says was commissioned by David Asbury for the River of Words project. Every year, in affiliation with the Library of Congress Center for the Book, River of Words sponsors a free international poetry and art contest on the theme of watersheds. The contest is open to students ages 5 through 19 anywhere in the world. The poem \"What Water Says\" is by Aidan Abney."
         ]
+      },
+      {
+        "title": "So Tell Me Elizabeth",
+        "subtitle": "from My New Voice",
+        "instruments": [
+          "soprano",
+          "piano",
+          "synthesized voice"
+        ],
+        "description": "excerpt from the opera \"My New Voice\" (in progress)",
+        "attribution": "Recorded by Lisa J. Coates, soprano, Paul Barker, piano, Bruce Balentine, voice synthesis, available on <a target=\"_blank\" href=\"http://vimeo.com/60335807\">video from CreST Concert</a>, January 26, 2013, in Scarborough, UK. My New Voice is approximately 4' 05\" into the video, the second piece on the concert.",
+        "movements": [],
+        "duration": "8:30 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
+        ]
       }
     ],
     "Mixed Ensembles 1-5 Players": [
       {
         "title": "Strange Loops",
+        "type": "Clarinet, Bassoon, Piano",
         "instruments": [
           "Bb clarinet",
           "Bassoon (or Bass Clarinet)",
-          "piano"
+          "Piano"
         ],
         "description": "Commissioned by Robert Walzel with a grant from The University of Kansas",
         "attribution": "",
@@ -1039,10 +966,12 @@
       },
       {
         "title": "Asking a Shadow to Dance",
+        "type": "Clarinet, Viola, Piano -or- Clarinet, Violin, Cello, Piano",
         "instruments": [
           "clarinet",
           "viola",
-          "piano"
+          "piano",
+          "also available as quartet - Clarinet, Violin, Cello and Piano"
         ],
         "description": "Commissioned by Trio Con Brio - Gary Whitman, Misha Galaganov, John Owings",
         "attribution": "Recorded by Trio Con Brio - Gary Whitman, clarinet, Misha Galaganov, viola, and John Owings, piano.",
@@ -1054,7 +983,8 @@
         "composerNotes": [
           "Asking a Shadow to Dance was written for Trio Con Brio of Texas Christian University in Fort Worth, at the request of clarinetist Gary Whitman. The musical material is based on themes from the opera My New Voice, formally structured on the concept of communication between the three main characters: Trevor, an inventor and artist who is disabled and cannot speak; his inner ego, Trevor Shadow; and Elizabeth, his Personal Care Assistant. The musical motives are traded between the three performers, evolving and changing with each iteration, becoming a dance of frustration, understanding and compromise, eventually finding laughter and love in the process.",
           "The title reflects both the theme and character of the opera, and also refers to a partial quote from Carl Sandburg regarding the ethereal and ambiguous aspects of poetry:",
-          "<i>Poetry is an echo, asking a shadow to dance.</i>"
+          "<i>Poetry is an echo, asking a shadow to dance.</i>",
+          "The quartet version was adapted for clarinetist Stephanie Key and the chamber music ensemble <i>Soli</i>"
         ]
       },
       {
@@ -1190,7 +1120,7 @@
         "attribution": "",
         "movements": [],
         "duration": "7 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "Written at the request of clarinetist Robert Walzel, Line Drawings was premiered at Texas Tech University in Lubbock, Texas, with marimbaist Lisa Rogers in 1997. As the title implies, the piece features long melodic lines that loosely portray the character of the two diverse instruments, as well as outlining and implying the technical and timbral possibilities of both performer and instrument."
         ]
@@ -1220,7 +1150,7 @@
       },
       {
         "title": "Liberty Bar",
-        "type": "two percussionists multiple percussion",
+        "type": "two (or four) percussionists - multiple percussion",
         "instruments": [
           "Vibraphone and multiple percussion",
           "Marimba and multiple percussion"
@@ -1228,16 +1158,12 @@
         "description": "Commissioned by Sherry Rubins and Kari Klier",
         "attribution": "Recorded by Johan Bouttery, Hannes Nieuwlaet, Axel Dewulf and Ben Van Avermaet.\n",
         "movements": [],
-        "duration": "15 minutes",
+        "duration": "5 minutes",
         "publisher": "American Concert Editions",
         "publisherLinks": [
           {
             "source": "Steve Weiss Music",
-            "link": "http://www.steveweissmusic.com/product/liberty-bar-balentine/multi-percussion-duet"
-          },
-          {
-            "source": "Guildhian Music",
-            "link": "/guildhianmusic"
+            "link": "https://composers.com/composers/james-scott-balentine/liberty-bar"
           }
         ],
         "composerNotes": [
@@ -1267,7 +1193,7 @@
     ],
     "Choral": [
       {
-        "title": "Framents of Time & Place",
+        "title": "Fragments of Time & Place",
         "instruments": [
           "for chamber choir (SSATBB) a capella"
         ],
@@ -1279,7 +1205,7 @@
           "3. Above the Quiet Dock in Mid Night",
           "4. A River Singing"
         ],
-        "duration": "9 minutes",
+        "duration": "10 minutes",
         "publisher": "American Concert Editions",
         "composerNotes": [
           "Fragments of Time & Place was commissioned by the San Antonio Chamber Choir, Rick Bjella, conductor, for the San Antonio Tricentennial celebration in 2018. The premiere took place at Mission San Jose in San Antonio, Texas, on April 14, 2018. The texts by English poet T. E. Hulme (1883-1917), are short poems and fragments of unfinished thoughts and ideas that have to do with images and unusual perspectives of time and place. The last poem by the composer, is inspired in part by translations of songs of the Coahuiltecan culture, native to Texas before San Antonio was founded in 1718."
@@ -1292,7 +1218,7 @@
           "children's choir",
           "SATB choir and piano"
         ],
-        "description": "Commissioned by the Children's Chorus of San Antonio",
+        "description": "Commissioned by the Children's Chorus of San Antonio in honor of the 20th anniversary of the Children's Chorus of San Antonio",
         "attribution": "Recorded by Children's Choir and Adult Choir of the Conservatory at Sea, Ostend, Belgium, Tamara Cuypers, conductor, An Hoorelbeke, piano, 2011<br/><br/>Available on the CD Red Poppy and the Yellow Rose.",
         "movements": [],
         "duration": "6 minutes",
@@ -1343,7 +1269,7 @@
           "synthesized voice"
         ],
         "duration": "8:30 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
         ]
@@ -1377,7 +1303,7 @@
         ],
         "movements": [],
         "duration": "45 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": []
       },
       {
@@ -1395,7 +1321,7 @@
         "attribution": "",
         "movements": [],
         "duration": "15 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "Full Frontal Lobes is a multimedia chamber piece presented as a combined lecture and debate. Conceived and developed collaboratively by James Scott Balentine (music) and Bruce Balentine (libretto), the work draws on recent research in neurophysiology and microbiology to explore relationships between improvisation, musical directionality, expressive longing, and pedantic hedonism."
         ]
