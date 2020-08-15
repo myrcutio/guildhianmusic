@@ -111,7 +111,7 @@ const Piece = (piece) => {
           </div>
           <Typography variant="caption" color="textSecondary">
             {publisher && publisherLink ? (
-              <a href={publisherLink} target="_blank">{`Publisher: ${publisher}`}</a>
+              <a href={publisherLink} target="_blank" rel="noopener noreferrer">{`Publisher: ${publisher}`}</a>
             ) : `Publisher: ${publisher}`}
             {publisher && duration && ` | `}
             {duration && `Duration: ${duration}`}
