@@ -714,7 +714,7 @@
         "duration": "5 minutes",
         "publisher": "Keiser Southern Music; distributed by Hal Leonard",
         "publisherLinks": [
-          "HL# 3776282 - https://www.halleonard.com/search/search.action?keywords=3776282"
+          "https://www.halleonard.com/search/search.action?keywords=3776282"
         ],
         "composerNotes": [
           "Prayer and Alleluia was written for my son, David Balentine"
@@ -739,7 +739,7 @@
         "duration": "16 minutes",
         "publisher": "Keiser Southern Music; distributed by Hal Leonard",
         "publisherLinks": [
-          "HL# 3776281 - https://www.halleonard.com/search/search.action?keywords=3776281"
+          "https://www.halleonard.com/search/search.action?keywords=3776281"
         ],
         "composerNotes": [
           "<i>A Wiser Man</i> was commissioned by Kathryn Mason Hodges for the occasion of her husband, Donald Hodges' 50th birthday. Each of the 6 movements concerns some aspect of his life and interests, and each is based on a short poem written by the composer (included in the score) for this occasion."
@@ -924,23 +924,23 @@
           "What Water Says was commissioned by David Asbury for the River of Words project. Every year, in affiliation with the Library of Congress Center for the Book, River of Words sponsors a free international poetry and art contest on the theme of watersheds. The contest is open to students ages 5 through 19 anywhere in the world. The poem \"What Water Says\" is by Aidan Abney."
         ]
       },
-        {
-          "title": "So Tell Me Elizabeth",
-          "subtitle": "from My New Voice",
-          "instruments": [
-            "soprano",
-            "piano",
-            "synthesized voice"
-          ],
-          "description": "excerpt from the opera \"My New Voice\" (in progress)",
-          "attribution": "Recorded by Lisa J. Coates, soprano, Paul Barker, piano, Bruce Balentine, voice synthesis, available on <a target=\"_blank\" href=\"http://vimeo.com/60335807\">video from CreST Concert</a>, January 26, 2013, in Scarborough, UK. My New Voice is approximately 4' 05\" into the video, the second piece on the concert.",
-          "movements": [],
-          "duration": "8:30 minutes",
-          "publisher": "Guildhian Music",
-          "composerNotes": [
-            "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
-          ]
-        }
+      {
+        "title": "So Tell Me Elizabeth",
+        "subtitle": "from My New Voice",
+        "instruments": [
+          "soprano",
+          "piano",
+          "synthesized voice"
+        ],
+        "description": "excerpt from the opera \"My New Voice\" (in progress)",
+        "attribution": "Recorded by Lisa J. Coates, soprano, Paul Barker, piano, Bruce Balentine, voice synthesis, available on <a target=\"_blank\" href=\"http://vimeo.com/60335807\">video from CreST Concert</a>, January 26, 2013, in Scarborough, UK. My New Voice is approximately 4' 05\" into the video, the second piece on the concert.",
+        "movements": [],
+        "duration": "8:30 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
+        ]
+      }
     ],
     "Mixed Ensembles 1-5 Players": [
       {
