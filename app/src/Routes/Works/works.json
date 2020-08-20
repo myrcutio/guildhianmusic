@@ -55,19 +55,7 @@
         ]
       }
     ],
-    "Brass & Wind Ensembles": [
-      {
-        "title": "the river remembers",
-        "description": "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet",
-        "attribution": "Recorded by The American Brass Quintet, 2018",
-        "movements": [],
-        "duration": "4 minutes",
-        "publisher": "Guildhian Music",
-        "composerNotes": [
-          "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet as an opening fanfare for the San Antonio Tricentennial in 2018.  <i>The River Remembers</i> was inspired by the poetry of Carmen Tafolla, Poet Laureate of San Antonio, and was premiered by the American Brass Quintet on March 3, 2018 in San Antonio, Texas."
-        ],
-        "type": "brass quintet"
-      },
+    "Wind Ensemble": [ 
       {
         "title": "Red Poppy and the Yellow Rose",
         "type": "wind ensemble",
@@ -126,7 +114,7 @@
           "Tuba",
           "Percussion 1,2,3"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "<i>The Image of Dreams</i> was commissioned the University of Texas at San Antonio for its 25th Anniversary Convocation in 1994. The theme of the unversity at the time was \"Shaping the future in the image of dreams,\" and was the basis for the text written by the composer for this occasion."
         ]
@@ -155,7 +143,7 @@
           "Percussion 1,2,3"
         ],
         "duration": "6 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "<i>A Page from the Natural Light</i> was commissioned by trombonist Ronald Wilkins for a tour as soloist with the University of Texas at San Antonio Wind Ensemble. The piece uses snippets of improvised solos by Ron Wilkins as thematic material, and the cadenza is a written transcription of the cadenza improvised by Wilkins in the premiere performance of the piece."
         ]
@@ -186,8 +174,23 @@
           "Percussion 1,2,3"
         ],
         "duration": "12 minutes",
+        "publisher": "Guildhian Music"
+      
+      
+    }
+  ],
+  "Brass Ensembles": [
+      {
+        "title": "the river remembers",
+        "description": "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet",
+        "attribution": "Recorded by The American Brass Quintet, 2018",
+        "movements": [],
+        "duration": "4 minutes",
         "publisher": "Guildhian Music",
-        "composerNotes": []
+        "composerNotes": [
+          "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet as an opening fanfare for the San Antonio Tricentennial in 2018.  <i>The River Remembers</i> was inspired by the poetry of Carmen Tafolla, Poet Laureate of San Antonio, and was premiered by the American Brass Quintet on March 3, 2018 in San Antonio, Texas."
+        ],
+        "type": "brass quintet"
       },
       {
         "title": "Festive Celebration",

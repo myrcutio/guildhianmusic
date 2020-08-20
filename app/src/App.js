@@ -7,6 +7,7 @@ import MenuIcon from '@material-ui/icons/Menu';
 import { BrowserRouter, Route, NavLink, Switch } from 'react-router-dom';
 import { navigation } from './nav';
 import { Home } from 'Routes/Home';
+import { About } from 'Routes/About';
 import { Works } from 'Routes/Works';
 import { NewsEvents } from 'Routes/NewsEvents';
 import { GuildhianMusic } from 'Routes/GuildhianMusic';
@@ -92,6 +93,7 @@ const App = () => {
             </div>
             <Switch>
               <Route exact path="/" component={Home} />
+              <Route exact path="/about" component={About} />
               <Route exact path="/works" component={Works} />
               <Route exact path="/events" component={NewsEvents} />
               <Route exact path="/guildhianmusic" component={GuildhianMusic} />

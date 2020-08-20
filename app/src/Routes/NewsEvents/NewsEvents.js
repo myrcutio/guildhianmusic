@@ -34,7 +34,7 @@ const NewsEvent = (event) => {
         <Typography variant="h6">{title}</Typography>
         <div>{subtitle}</div>
         {location && <span>in {location}</span>}
-        {date && <span>{date}</span>}
+        {date && <span> {date}</span>}
         {highlightedDescription && (
           <div
             className={css.description}

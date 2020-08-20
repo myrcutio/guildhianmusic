@@ -4,7 +4,7 @@ import Typography from '@material-ui/core/Typography';
 export const GuildhianMusic = () => (
     <div>
         <Typography variant="h6">GuildhianMusic</Typography>
-        <div>Publisher for the music of James Scott Balentine</div>
+        <div>Publisher of Theater, Experimental, Electronic, and Educational music of James Scott Balentine</div>
 
         <Typography variant="h6">Ordering Information</Typography>
         <div>
@@ -38,9 +38,9 @@ export const GuildhianMusic = () => (
         <Typography variant="h6">Professional Performing Organizations and Musicians</Typography>
         <div>
             <ul className="bullets">
-                <li>Scores for perusal and performance consideration in PDF format may be downloaded from this
-                    site free of charge, with the proviso that you may not sell any of this music in any form,
-                    physical or electronic.
+                <li>Scores for perusal and performance consideration in PDF format are free of charge, with the 
+                    proviso that you may not sell any of this music in any form, physical or electronic. Requests
+                    may be sent to the email address below.
 
                 </li>
                 <li>Performance materials - scores and/or parts - may be purchased at a 10% discount with free
