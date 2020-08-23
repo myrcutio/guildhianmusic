@@ -9,7 +9,7 @@ export const Home = () => (
     </Typography>
     <p>
     <Typography align="center">
-      Theater, electronic, and educational arrangements are available on this site through <i>Guildhian Music</i>
+      Theater, electronic, and educational arrangements are available through <i>Guildhian Music</i>
     </Typography>
     </p>
     <img src="/static/media/musicimagescores.png" alt="music scores" width="793" height="613"></img>
