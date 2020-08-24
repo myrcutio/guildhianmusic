@@ -6,7 +6,7 @@ export const Contact = () => (
         <Typography variant="h6">Ordering</Typography>
         <div>
             <ul>
-                <li>Scores in PDF format may be downloaded from this site free of charge, with the proviso that you may
+                <li>Scores in PDF format may be requested from this site free of charge, with the proviso that you may
                     not sell any of this music in any form, physical or electronic.
                 </li>
                 <li>We would appreciate having notice of all public performances, and a copy of the program emailed to

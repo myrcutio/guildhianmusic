@@ -1,17 +1,32 @@
 import React from 'react';
 import Typography from '@material-ui/core/Typography';
+import musicimage1 from '../../assets/fragments.png'
+import musicimage2 from '../../assets/desfleurs.png'
+import musicimage3 from '../../assets/tbgg.png'
+import musicimage4 from '../../assets/askingshadow.png'
+import musicimage5 from '../../assets/ninedances.png'
+import musicimage6 from '../../assets/fivespirituals.png'
+import musicimage7 from '../../assets/steptoe.png'
+import css from './Home.module.scss'
 
 export const Home = () => (
   <div>
     <Typography variant="h6" align="center">
-      Now available through <i>American Concert Editions (ASCAP); 
-      <br></br>Keiser Southern Music</i> and <i>Cimarron Music Press</i>.  
+      Now available through <i>American Concert Editions (ASCAP)</i>;
+      American Composers Alliance - composers.com  
     </Typography>
-    <p>
+    
+    <img className={css.musicimages} src={musicimage1} alt="Fragments"></img>
+    <img className={css.musicimages} src={musicimage2} alt="Il y a des Fleurs"></img>
+    <img className={css.musicimages} src={musicimage3} alt="Three Billy Goats Gruff"></img>
+    <img className={css.musicimages} src={musicimage4} alt="Asking a Shadow to Dance"></img>
+    <img className={css.musicimages} src={musicimage5} alt="nine Wild Exotic Dances"></img>
+    <img className={css.musicimages} src={musicimage6} alt="Five Spirituals"></img>
+    <img className={css.musicimages} src={musicimage7} alt="Piano Sonata 2 Steptoe"></img>
+
     <Typography align="center">
-      Theater, electronic, and educational arrangements are available through <i>Guildhian Music</i>
+    ...and more. Music by James Scott Balentine is also available through Keiser Southern Music and Cimarron Music Press.
+    Theater, electronic, jazz ensemble, and educational arrangements are available through <i>Guildhian Music</i>. Visit the Works Page for more information
     </Typography>
-    </p>
-    <img src="/static/media/musicimagescores.png" alt="music scores" width="793" height="613"></img>
   </div>
 );

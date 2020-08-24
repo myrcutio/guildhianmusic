@@ -5,8 +5,9 @@ import css from './About.module.scss'
 
 export const About = () => (
   <div>
-    <img className={css.gazebo} src={gazebo} alt="JSB Gazebo" width="165" height="195"></img>
+    <img className={css.gazebo} src={gazebo} alt="JSB Gazebo"></img>
     <Typography variant="h6">Composer</Typography>
+    
   
     Composer, performer, arranger, theorist, poet, writer, music copyist, music store owner/manager, and university 
     professor emeritus <b>James Scott Balentine</b> (Jim), draws inspiration, like most contemporary, globally-connected musicians, 
@@ -79,8 +80,8 @@ export const About = () => (
       Montgomery, Alabama; Tachikawa, Japan, and has since lived (from as little as six weeks to ten years) in such 
       diverse locations as Winnipeg (Canada), Edinburgh (Scotland), and Zurich (Switzerland); Midwest City (Oklahoma), 
       Columbia (South Carolina), San Francisco, Houston, Austin, and Huntsville (Texas), and currently resides in the 
-      hill country near San Antonio. He is a certificated private pilot (SEL), a pretty good cook, a passable tennis player 
-      (pun intended), and a student of the foibles of human nature, particularly his own - it's a puzzle!
+      hill country near San Antonio. He is a pretty good cook, a passable tennis player (pun intended), and an interested student 
+      of the foibles of human nature, particularly his own - people are a puzzle!
     </p>
   </div>
 );

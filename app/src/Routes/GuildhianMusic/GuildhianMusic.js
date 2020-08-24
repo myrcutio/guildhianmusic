@@ -4,7 +4,7 @@ import Typography from '@material-ui/core/Typography';
 export const GuildhianMusic = () => (
     <div>
         <Typography variant="h6">GuildhianMusic</Typography>
-        <div>Publisher of Theater, Experimental, Electronic, and Educational music of James Scott Balentine</div>
+        <div>Publisher of Theater, Experimental, Electronic, Jazz Ensemble and Educational music of James Scott Balentine</div>
 
         <Typography variant="h6">Ordering Information</Typography>
         <div>
@@ -43,7 +43,7 @@ export const GuildhianMusic = () => (
                     may be sent to the email address below.
 
                 </li>
-                <li>Performance materials - scores and/or parts - may be purchased at a 10% discount with free
+                <li>Performance materials - scores and/or parts - may be purchased at a 20% discount with free
                     shipping, or may be supplied via email in pdf format under certain conditions, upon request.
                     Inquire at the email address below for further information.
 
@@ -59,7 +59,7 @@ export const GuildhianMusic = () => (
 
                 </li>
                 <li>Compact discs and individual downloads of the music of James Scott Balentine are available
-                    through many online outlets and retail music stores, as well as through Guildhian Music
+                    through Amazon, iTunes, and many online outlets and retail music stores, as well as through Guildhian Music
                     directly. Please inquire about price and availability at the email address below.
 
                 </li>
