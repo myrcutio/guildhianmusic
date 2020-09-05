@@ -1,0 +1,54 @@
+{
+    "categories": {
+      "Poems Paired with Music": [
+        {
+          "title": "a wiser man",
+          "type": "6 short poems for don's birthday"
+        },
+        {
+          "title": "in a puddle",
+          "type": "an itty bitty ditty for cello and piano"
+        },
+        {
+          "title": "The Ghost of Eric Dolphy",
+          "type": "a graphic poem in homage to Eric Dolphy",
+          "description": "Written for the Texas Clarinet Consort, 2010",
+          "svgpath": "ghost"
+        },
+        {
+          "title": "Image of Dreams",
+          "type": "for the University of Texas at San Antonio 25th anniversary convocation"
+        },
+        {
+          "title": "It is a river, singing",
+          "type": "text for Fragments of Time and Place, No. 4"
+        }
+      ],
+      "More Poems and Poetic Essays": [
+        {
+          "title": "Is It the Truth"
+        },
+        {
+          "title": "I'm Weird"
+        },
+        {
+          "title": "6 Haiku"
+        },
+        {
+          "title": "The Hilton Bar in Koln"
+        },
+        {
+          "title": "I love football"
+        },
+        {
+          "title": "In the Beginning"
+        }
+      ],
+      "Philosophy and Thoughts on Music Academia": [
+        {
+          "title": "Thought on Music Academia in the United States of America in the 21st century"
+        }
+      ]
+    }
+  }
+  

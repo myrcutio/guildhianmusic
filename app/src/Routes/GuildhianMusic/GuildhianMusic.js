@@ -1,16 +1,18 @@
 import React from 'react';
 import Typography from '@material-ui/core/Typography';
+import logoimage from '../../assets/guildhianlogo.jpg'
+import css from './Guildhian.module.scss'
 
 export const GuildhianMusic = () => (
     <div>
-        <Typography variant="h6">GuildhianMusic</Typography>
+       <img className={css.logoimage} src={logoimage} alt="Guildhian Logo"></img>
         <div>Publisher of Theater, Experimental, Electronic, Jazz Ensemble and Educational music of James Scott Balentine</div>
 
         <Typography variant="h6">Ordering Information</Typography>
         <div>
-            Catalog and Retail Price List: <a href="/catalog.pdf" target="_blank">PDF</a>
+            Catalog and Retail Price List: <a href="/catalog.pdf" target="_blank">Guildhian Music Catalog PDF</a>; 
+            Contact <a href="mailto:guildhian@sbcglobal.net">guildhian@sbcglobal.net</a> for orders and availability.
         </div>
-
         <Typography variant="h6">Retail Music Stores</Typography>
         <div>
             <ul>
@@ -25,12 +27,12 @@ export const GuildhianMusic = () => (
         <Typography variant="h6">Schools, Libraries, Universities (Faculty &amp; Students)</Typography>
         <div>
             <ul>
-                <li>All academic orders will receive a 10% discount and free shipping within the United States.
+                <li>All academic orders will receive a 20% discount and free shipping within the United States.
+                    Additional discounts may be negotiated depending on performance venue and exceptional circumstances.
                     Discounts on international orders may be negotiated based on currency exchange rate.
                 </li>
                 <li>All music ordered in conjunction with a residency or clinic presentation by James Scott
-                    Balentine will be supplied gratis for the event, and may be purchased at a 50% discount
-                    following the residency, or returned to Guildhian Music within 30 days.
+                    Balentine will be included with the event, and may be retained by the sponsor for future performances at no additional cost.
                 </li>
             </ul>
         </div>

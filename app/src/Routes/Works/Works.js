@@ -193,7 +193,7 @@ export const Works = () => {
     );
   return (
     <div>
-      <Typography variant="h4">Works</Typography>
+      <Typography variant="h4">Music</Typography>
       {categories && categories}
     </div>
   );

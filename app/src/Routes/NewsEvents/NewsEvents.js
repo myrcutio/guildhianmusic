@@ -8,7 +8,7 @@ import css from './NewsEvents.module.scss';
 
 const categories = Object.keys(works.categories);
 const pieceList = categories.reduce((pieces, category) => {
-  const categoryPieces = works.categories[category].map((p) => p.title);
+const categoryPieces = works.categories[category].map((p) => p.title);
   return pieces.concat(categoryPieces);
 }, []);
 

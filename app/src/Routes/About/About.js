@@ -45,7 +45,7 @@ export const About = () => (
     <Typography variant="h6">Performer</Typography>
     <p>
       A professional performer since high school, Jim is a freelance musician,
-      primarily as a woodwind performer (clarinets, saxophones and flutes) in
+      primarily as a woodwind doubler (clarinets, saxophones and flutes) in
       big bands, pit orchestras, and an eclectic mix of orchestra, bands and
       ensembles that includes performances with the Columbia Philharmonic
       Orchestra, Spoleto Festival Left Bank Jazz Ensemble, San Antonio Symphony,
@@ -64,10 +64,11 @@ export const About = () => (
     <p>
       Professor Emeritus of Music Theory and Composition at the University of
       Texas at San Antonio, Jim taught courses in music composition, theory,
-      jazz studies, and music marketing prior to his retirement in 2017. He holds bachelor and master
-      degrees from the University of South Carolina, and the Doctor of Musical
-      Arts in Composition from the University of Texas at Austin. His
-      composition teachers included Hunter Johnson, Gordon (Dick) Goodwin,
+      jazz studies, and music marketing prior to his retirement in 2017, and also  
+      served as Associate Chair of the Department of Music from 2003 to 2009. He 
+      holds bachelor and master degrees from the University of South Carolina, and 
+      the Doctor of Musical Arts in Composition from the University of Texas at Austin. 
+      His composition teachers included Hunter Johnson, Gordon (Dick) Goodwin,
       Samuel Douglas, Eugene Kurtz, Barton McLean and Karl Korte. He has also
       served as Director of Jazz Studies at Sam Houston State University in
       Huntsville, Texas, and was founder and owner of One Music Square, a full
