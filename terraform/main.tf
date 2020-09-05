@@ -1,12 +1,12 @@
 terraform {
   backend "s3" {
-    bucket         = "kharibdis-tf-state"
-    key            = "kharibdis/terraform.tfstate"
-    region         = "us-east-1"
+    bucket         = "guildhian-tf-state"
+    key            = "guildhian/terraform.tfstate"
+    region         = "us-east-2"
     encrypt        = true
     acl            = "bucket-owner-full-control"
-    dynamodb_table = "kharibdis-tf-lock"
-    role_arn       = "arn:aws:iam::389897823988:role/KharibdisDeployRole"
+    dynamodb_table = "guildhian-tf-lock"
+    role_arn       = "arn:aws:iam::495611040738:role/guildhianDeployRole"
   }
 }
 
