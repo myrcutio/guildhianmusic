@@ -13,6 +13,11 @@ export const GuildhianMusic = () => (
             Catalog and Retail Price List: <a href="/catalog.pdf" target="_blank">Guildhian Music Catalog PDF</a>; 
             Contact <a href="mailto:guildhian@sbcglobal.net">guildhian@sbcglobal.net</a> for orders and availability.
         </div>
+        <Typography variant="h6">Recordings</Typography>
+        <div>
+            <i><b>Remembering Friends</b></i> CD with <i>Piano Sonata No. 1 (Smith), The Tempest Songs, A Trilogy for Friends</i>; and <i><b>Red Poppy and the Yellow Rose</b></i> CD can be ordered at the email address above. Individual mp3's can be requested via email.
+            Contact <a href="mailto:guildhian@sbcglobal.net">guildhian@sbcglobal.net</a> for orders and availability.
+        </div>
         <Typography variant="h6">Retail Music Stores</Typography>
         <div>
             <ul>
