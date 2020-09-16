@@ -49,9 +49,9 @@
           "svgpath": "hilton"
         },
         {
-          "title": "I love football",
-          "type": "a short story of growing up",
-          "svgpath": "football"
+          "title": "If I Didn't Expect Anything",
+          "type": "I'd Never be Disappointed",
+          "svgpath": "you"
         },
         {
           "title": "In the Beginning",
@@ -59,7 +59,7 @@
           "svgpath": "beginning"
         },
         {
-          "title": "Understandings",
+          "title": "23 Understandings",
           "type": "lessons I've learned",
           "svgpath": "understandings"
         }

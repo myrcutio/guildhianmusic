@@ -2,7 +2,6 @@ import React, { Fragment, useEffect, useRef, useState } from 'react';
 import Accordion from '@material-ui/core/Accordion';
 import AccordionSummary from '@material-ui/core/AccordionSummary';
 import AccordionDetails from '@material-ui/core/AccordionDetails';
-import copy from 'copy-to-clipboard';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import kebabCase from 'lodash-es/kebabCase';
 import List from '@material-ui/core/List';
@@ -20,9 +19,8 @@ const Piece = (piece) => {
  
   const key = `${title}-${type}`;
   const anchorTitle = kebabCase(title);
-  const { origin, pathname, hash } = window.location;
+  const { hash } = window.location;
   const [expanded, setExpanded] = useState(hash === `#${anchorTitle}`);
-  const [copied, setCopied] = useState('Copy Direct Link');
   const elementRef = useRef(null);
 
   useEffect(() => {
@@ -35,13 +33,7 @@ const Piece = (piece) => {
     }
   }, [hash, anchorTitle]);
 
-  const onCopyClick = () => {
-    copy(`${origin}${pathname}#${anchorTitle}`);
-    setCopied('Copied!');
-    setTimeout(() => {
-      setCopied('Copy Direct Link');
-    }, 1500);
-  };
+  
 
   return (
     <Accordion
@@ -63,7 +55,7 @@ const Piece = (piece) => {
       </AccordionSummary>
       <AccordionDetails>
         <div className={css.details}>
-          {svgpath && <img src={svgs[svgpath]}/>
+          {svgpath && <img src={svgs[svgpath]} alt="writings content"/>
           }
         </div>
       </AccordionDetails>
