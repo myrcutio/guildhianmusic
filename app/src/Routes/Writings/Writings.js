@@ -33,8 +33,6 @@ const Piece = (piece) => {
     }
   }, [hash, anchorTitle]);
 
-  
-
   return (
     <Accordion
       key={key}
