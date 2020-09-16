@@ -3,25 +3,24 @@ import Typography from '@material-ui/core/Typography';
 
 export const Contact = () => (
     <div>
-        <Typography variant="h6">Ordering</Typography>
+        <Typography variant="h6">Contact Information</Typography>
         <div>
             <ul>
-                <li>Scores in PDF format may be downloaded from this site free of charge, with the proviso that you may
-                    not sell any of this music in any form, physical or electronic.
+                <li>Personal email <a href="mailto:jbalenti@gmail.com">James Scott Balentine</a>
                 </li>
-                <li>We would appreciate having notice of all public performances, and a copy of the program emailed to
-                    the address below for reporting purposes to ASCAP
-                </li>
-                <li>The CDs <i>Red Poppy and the Yellow Rose</i> and <i>Remembering Friends</i> may be ordered through
-                    the link below. Please inquire about price and availability.
-                </li>
-                <li>To order printed copies of score and parts, order parts electronically, for other information, or to
-                    contact James Scott Balentine, please send an email to <a
-                        href="mailto:guildhian@sbcglobal.net">guildhian@sbcglobal.net</a></li>
+                <li>or via USPS:</li>
+            <div>23860 Iron Horse</div>
+            <div>San Antonio, TX 78255</div>
             </ul>
         </div>
-        <Typography variant="h6">You may also contact Guildhian Music via USPS at:</Typography>
-        <div>23860 Iron Horse</div>
-        <div>San Antonio, TX 78255</div>
+        <Typography variant="h6">Publisher Links:</Typography>
+    <div>
+            <ul>
+                <li>American Concert Editions (ASCAP) - <a href="https://composers.com/composers/james-scott-balentine">American Composers Alliance</a></li>
+                <li>Keiser Southern Music: <a href="https://www.halleonard.com/search/search.action?keywords=3776281">Hal Leonard - (distributor)</a></li>
+                <li>Cimarron Music Press: <a href="https://www.cimarronmusic.com">Cimarron Music</a></li>
+            </ul>
+        </div>
+       
     </div>
 );

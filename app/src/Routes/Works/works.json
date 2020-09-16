@@ -55,19 +55,7 @@
         ]
       }
     ],
-    "Brass & Wind Ensembles": [
-      {
-        "title": "the river remembers",
-        "description": "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet",
-        "attribution": "Recorded by The American Brass Quintet, 2018",
-        "movements": [],
-        "duration": "4 minutes",
-        "publisher": "Guildhian Music",
-        "composerNotes": [
-          "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet as an opening fanfare for the San Antonio Tricentennial in 2018.  <i>The River Remembers</i> was inspired by the poetry of Carmen Tafolla, Poet Laureate of San Antonio, and was premiered by the American Brass Quintet on March 3, 2018 in San Antonio, Texas."
-        ],
-        "type": "brass quintet"
-      },
+    "Wind Ensemble": [ 
       {
         "title": "Red Poppy and the Yellow Rose",
         "type": "wind ensemble",
@@ -126,7 +114,7 @@
           "Tuba",
           "Percussion 1,2,3"
         ],
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "<i>The Image of Dreams</i> was commissioned the University of Texas at San Antonio for its 25th Anniversary Convocation in 1994. The theme of the unversity at the time was \"Shaping the future in the image of dreams,\" and was the basis for the text written by the composer for this occasion."
         ]
@@ -155,7 +143,7 @@
           "Percussion 1,2,3"
         ],
         "duration": "6 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "<i>A Page from the Natural Light</i> was commissioned by trombonist Ronald Wilkins for a tour as soloist with the University of Texas at San Antonio Wind Ensemble. The piece uses snippets of improvised solos by Ron Wilkins as thematic material, and the cadenza is a written transcription of the cadenza improvised by Wilkins in the premiere performance of the piece."
         ]
@@ -186,8 +174,154 @@
           "Percussion 1,2,3"
         ],
         "duration": "12 minutes",
+        "publisher": "Guildhian Music"
+      
+      
+    }
+  ],
+  "Clarinet Ensembles": [
+    {
+      "title": "Red Poppy and the Yellow Rose",
+      "type": "large clarinet choir",
+      "description": "Commissioned by Guido Six and the Claribel Clarinet Choir, Conservatory aan Zee, Ostend, Belgium. Premiered at the Texas Music Educators Convention in San Antonio, Texas, in February, 2010.",
+      "attribution": "Recorded by Claribel Clarinet Choir, 2011",
+      "movements": [],
+      "instruments": [
+        "Clarinet Quartet a - Eb; Bb 1,2; Bass",
+        "Clarinet Quartet b - Eb; Bb 1,2; Bass",
+        "Eb Clarinet",
+        "Bb Clarinets 1,2,3",
+        "Bass Clarinets",
+        "Alto Clarinets",
+        "Contra-alto Clarinet",
+        "Contrabass Clarinet"
+      ],
+      "duration": "6 minutes",
+      "publisher": "American Concert Editions",
+      "composerNotes": [
+        "The Red Poppy and the Yellow Rose was commissioned by Guido Six, clarinetist and Director of the Conservatory aan Zee and the Claribel Clarinet Ensemble of Ostende, Belgium.",
+        "The title is a reference to the national flower of Belgium, the red poppy, and the unofficial symbolic flower of song, the Yellow Rose of Texas. The composition represents the friendship of the Belgian and Texan musicians who first played the piece at a featured performance at the Texas Music Educators Association Convention in 2010.",
+        "The work contains many elements of a vague programmatic nature reflecting the history and culture of Belgium, including the visual image of fields of flowers moving gently in the wind, the memory of the many brave men who died in the Battle of Ypres in World War I, and a hint of gypsy folk dancing that is still a part of the vibrant culture of both Belgium and Texas. Most importantly, it is about the common joy of music and love of life that makes us all brothers on this planet."
+      ]
+    },
+    {
+      "title": "A Toot in Ninesia",
+      "type": "clarinet sextet",
+      "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 1996 in Paris, France. A rhapsodic arrangement of A Night in Tunesia by Dizzy Gillespie",
+      "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
+      "movements": [],
+      "instruments": [
+        "Eb Clarinet",
+        "Bb Clarinets 1,2,3,4",
+        "Bass Clarinet (low C)"
+      ],
+      "duration": "6 minutes",
+      "publisher": "Cimarron Music",
+      "publisherLinks": [
+        {
+          "source": "Amazon",
+          "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+        },
+        {
+          "source": "iTunes",
+          "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+        }
+      ],
+      "composerNotes": []
+    },
+    {
+      "title": "Monk, through a Glass Darkly",
+      "type": "clarinet sextet",
+      "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 2000 in Stockholm, Sweden. An arrangement/medley of 'Round Midnight and Well, You Needn't by Thelonious Monk, with a tip of the hat to Richard Strauss.",
+      "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
+      "movements": [],
+      "instruments": [
+        "Eb Clarinet",
+        "Bb Clarinets 1,2,3,4",
+        "Bass Clarinet (low C)"
+      ],
+      "duration": "6 minutes",
+      "publisher": "American Concert Editions",
+      "publisherLinks": [
+        {
+          "source": "Amazon",
+          "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+        },
+        {
+          "source": "iTunes",
+          "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+        }
+      ],
+      "composerNotes": []
+    },
+    {
+      "title": "Three Spirituals",
+      "type": "clarinet sextet",
+      "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 1999 in Ostend, Belgium.\n",
+      "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
+      "movements": [
+        "Go Down Moses",
+        "De Blin Man",
+        "Nobody Knows"
+      ],
+      "instruments": [
+        "Eb Clarinet",
+        "Bb Clarinets 1,2,3,4",
+        "Bass Clarinet (low C)"
+      ],
+      "duration": "8 minutes",
+      "publisher": "American Concert Editions",
+      "publisherLinks": [
+        {
+          "source": "Amazon",
+          "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+        },
+        {
+          "source": "iTunes",
+          "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+        }
+      ],
+      "composerNotes": []
+    },
+    {
+      "title": "The Ghost of Eric Dolphy",
+      "type": "clarinet sextet",
+      "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 2012 in Austin, Texas, USA.",
+      "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
+      "movements": [],
+      "instruments": [
+        "Eb Clarinet",
+        "Bb Clarinets 1,2,3,4",
+        "Bass Clarinet (low C)"
+      ],
+      "duration": "5 minutes",
+      "publisher": "American Concert Editions",
+      "publisherLinks": [
+        {
+          "source": "Amazon",
+          "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
+        },
+        {
+          "source": "iTunes",
+          "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
+        }
+      ],
+      "composerNotes": [],
+      "detailLink": "https://composers.com/composers/james-scott-balentine/ghost-eric-dolphy"
+    }
+  ],
+  "Brass Ensembles": [
+      {
+        "title": "the river remembers",
+        "description": "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet",
+        "attribution": "Recorded by The American Brass Quintet, 2018",
+        "movements": [],
+        "duration": "4 minutes",
         "publisher": "Guildhian Music",
-        "composerNotes": []
+        "composerNotes": [
+          "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet as an opening fanfare for the San Antonio Tricentennial in 2018.  <i>The River Remembers</i> was inspired by the poetry of Carmen Tafolla, Poet Laureate of San Antonio, and was premiered by the American Brass Quintet on March 3, 2018 in San Antonio, Texas."
+        ],
+        "type": "brass quintet"
       },
       {
         "title": "Festive Celebration",
@@ -404,140 +538,11 @@
         ]
       }
     ],
-    "Clarinet Ensembles": [
-      {
-        "title": "Red Poppy and the Yellow Rose",
-        "type": "large clarinet choir",
-        "description": "Commissioned by Guido Six and the Claribel Clarinet Choir, Conservatory aan Zee, Ostend, Belgium. Premiered at the Texas Music Educators Convention in San Antonio, Texas, in February, 2010.",
-        "attribution": "Recorded by Claribel Clarinet Choir, 2011",
-        "movements": [],
-        "instruments": [
-          "Clarinet Quartet a - Eb; Bb 1,2; Bass",
-          "Clarinet Quartet b - Eb; Bb 1,2; Bass",
-          "Eb Clarinet",
-          "Bb Clarinets 1,2,3",
-          "Bass Clarinets",
-          "Alto Clarinets",
-          "Contra-alto Clarinet",
-          "Contrabass Clarinet"
-        ],
-        "duration": "6 minutes",
-        "publisher": "American Concert Editions",
-        "composerNotes": [
-          "The Red Poppy and the Yellow Rose was commissioned by Guido Six, clarinetist and Director of the Conservatory aan Zee and the Claribel Clarinet Ensemble of Ostende, Belgium.",
-          "The title is a reference to the national flower of Belgium, the red poppy, and the unofficial symbolic flower of song, the Yellow Rose of Texas. The composition represents the friendship of the Belgian and Texan musicians who first played the piece at a featured performance at the Texas Music Educators Association Convention in 2010.",
-          "The work contains many elements of a vague programmatic nature reflecting the history and culture of Belgium, including the visual image of fields of flowers moving gently in the wind, the memory of the many brave men who died in the Battle of Ypres in World War I, and a hint of gypsy folk dancing that is still a part of the vibrant culture of both Belgium and Texas. Most importantly, it is about the common joy of music and love of life that makes us all brothers on this planet."
-        ]
-      },
-      {
-        "title": "A Toot in Ninesia",
-        "type": "clarinet sextet",
-        "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 1996 in Paris, France. A rhapsodic arrangement of A Night in Tunesia by Dizzy Gillespie",
-        "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
-        "movements": [],
-        "instruments": [
-          "Eb Clarinet",
-          "Bb Clarinets 1,2,3,4",
-          "Bass Clarinet (low C)"
-        ],
-        "duration": "6 minutes",
-        "publisher": "Cimarron Music",
-        "publisherLinks": [
-          {
-            "source": "Amazon",
-            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
-          },
-          {
-            "source": "iTunes",
-            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
-          }
-        ],
-        "composerNotes": []
-      },
-      {
-        "title": "Monk, through a Glass Darkly",
-        "type": "clarinet sextet",
-        "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 2000 in Stockholm, Sweden. An arrangement/medley of 'Round Midnight and Well, You Needn't by Thelonious Monk, with a tip of the hat to Richard Strauss.",
-        "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
-        "movements": [],
-        "instruments": [
-          "Eb Clarinet",
-          "Bb Clarinets 1,2,3,4",
-          "Bass Clarinet (low C)"
-        ],
-        "duration": "6 minutes",
-        "publisher": "American Concert Editions",
-        "publisherLinks": [
-          {
-            "source": "Amazon",
-            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
-          },
-          {
-            "source": "iTunes",
-            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
-          }
-        ],
-        "composerNotes": []
-      },
-      {
-        "title": "Three Spirituals",
-        "type": "clarinet sextet",
-        "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 1999 in Ostend, Belgium.\n",
-        "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
-        "movements": [
-          "Go Down Moses",
-          "De Blin Man",
-          "Nobody Knows"
-        ],
-        "instruments": [
-          "Eb Clarinet",
-          "Bb Clarinets 1,2,3,4",
-          "Bass Clarinet (low C)"
-        ],
-        "duration": "8 minutes",
-        "publisher": "American Concert Editions",
-        "publisherLinks": [
-          {
-            "source": "Amazon",
-            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
-          },
-          {
-            "source": "iTunes",
-            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
-          }
-        ],
-        "composerNotes": []
-      },
-      {
-        "title": "The Ghost of Eric Dolphy",
-        "type": "clarinet sextet",
-        "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 2012 in Austin, Texas, USA.",
-        "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
-        "movements": [],
-        "instruments": [
-          "Eb Clarinet",
-          "Bb Clarinets 1,2,3,4",
-          "Bass Clarinet (low C)"
-        ],
-        "duration": "5 minutes",
-        "publisher": "American Concert Editions",
-        "publisherLinks": [
-          {
-            "source": "Amazon",
-            "link": "https://www.amazon.com/Wild-Exotic-Dances-Robert-Walzel/dp/B00RZSLJ4Q"
-          },
-          {
-            "source": "iTunes",
-            "link": "https://itunes.apple.com/us/album/wild-exotic-dances/id967755470"
-          }
-        ],
-        "composerNotes": [],
-        "detailLink": "https://composers.com/composers/james-scott-balentine/ghost-eric-dolphy"
-      }
-    ],
+    
     "Jazz Meets Classical Ensembles": [
       {
         "title": "Il y a des Fleurs",
+        "type": "Voice, Clarinet, Flugelhorn, String Quartet, Pno, Bass, Drums",
         "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the 25th Annual Jazz Meets Classical series, with special guest artist Clarice Assad.",
         "attribution": "Recorded by Jazz Meets Classical Ensemble with Clarice Assad, vocalist.",
         "movements": [],
@@ -556,6 +561,7 @@
       },
       {
         "title": "Bill's Shadow",
+        "type": "Clarinet, Flugelhorn, String Quartet, Pno, Bass, Drums",
         "description": "Commissioned by Musical Offerings for the Billy Strayhorn Centennial Celebration, for performance at the Annual <i>Jazz Meets Classical</i> series.",
         "attribution": "Recorded by Jazz Meets Classical Ensemble for KRTU radio, 2015, with Curtis Calderon, solo flugelhorn.",
         "movements": [],
@@ -573,6 +579,7 @@
       },
       {
         "title": "Double Blackstick Dance",
+        "type": "2 Clarinets, String Quartet, Pno, Bass, Drums",
         "description": "",
         "attribution": "Premiered by Robert Walzel and James Scott Balentine at <i>Jazz Meets Classical XVI</i> in June 2008",
         "instruments": [
@@ -586,6 +593,7 @@
       },
       {
         "title": "Homage a Dave",
+        "type": "Alto sax, Flugelhorn, String Quartet, Pno, Bass, Drums",
         "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the Annual Jazz Meets Classical series.",
         "attribution": "Recorded by Jazz Meets Classical Ensemble.",
         "movements": [],
@@ -602,6 +610,7 @@
       },
       {
         "title": "Recollection",
+        "type": "Vocal Jazz Trio, Flugelhorn, String Quartet, Pno, Bass, Drums",
         "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the Annual Jazz Meets Classical series, with special guest artist Joan Carroll. <br/>Subtitled \"Vague Memories of Porgy and Bess\"",
         "attribution": "Recorded by Jazz Meets Classical Ensemble with Joan Carroll, Curtis Calderon, and Jim Balentine, vocalists.",
         "movements": [],
@@ -620,6 +629,7 @@
       },
       {
         "title": "Fantasy After Eric Dolphy",
+        "type": "Soprano sax, Flugelhorn, String Quartet, Pno, Bass, Drums",
         "description": "Commissioned by Musical Offerings",
         "attribution": "Recorded by Jazz Meets Classical Ensemble with Rene Saenz, soprano saxophone.",
         "movements": [],
@@ -637,6 +647,7 @@
     "Solo Instrument and Piano": [
       {
         "title": "Nine Wild Exotic Dances",
+        "type": "Clarinet and Piano",
         "instruments": [
           "Bb clarinet",
           "piano"
@@ -671,6 +682,7 @@
       },
       {
         "title": "March, Strathspey and Reel",
+        "type": "Clarinet and Piano",
         "instruments": [
           "clarinet",
           "piano"
@@ -704,6 +716,7 @@
       },
       {
         "title": "Prayer and Alleluia",
+        "type": "Trumpet and Piano",
         "instruments": [
           "Bb trumpet",
           "piano"
@@ -722,6 +735,7 @@
       },
       {
         "title": "A Wiser Man",
+        "type": "Cello and Piano",
         "instruments": [
           "cello",
           "piano"
@@ -747,6 +761,7 @@
       },
       {
         "title": "to be a Puddle",
+        "type": "Cello and Piano",
         "instruments": [
           "cello",
           "piano"
@@ -826,6 +841,7 @@
     "Voice and Instruments": [
       {
         "title": "The Three Billy Goats Gruff",
+        "type": "Narrator and String Quintet",
         "instruments": [
           "string quintet",
           "narrator"
@@ -856,6 +872,7 @@
       },
       {
         "title": "The Tempest Songs",
+        "type": "Soprano, Flute, Clarinet, Cello and Piano",
         "instruments": [
           "soprano",
           "flute",
@@ -863,7 +880,7 @@
           "cello",
           "piano"
         ],
-        "description": "Five Songs from Shakespeare's The Tempest, composed for stage productions, and later adapted for concert performance.",
+        "description": "Five Songs from Shakespeare's The Tempest, composed for stage production, and later adapted for concert performance.",
         "attribution": "Recorded by Linda Poetschke, soprano, with the UTSA Faculty Chamber Ensemble",
         "movements": [
           "Come Unto these Yellow Sands",
@@ -880,6 +897,7 @@
       },
       {
         "title": "Five Spirituals",
+        "type": "Baritone voice and cello",
         "instruments": [
           "baritone",
           "cello"
@@ -896,6 +914,7 @@
       },
       {
         "title": "Out from Behind This Mask",
+        "type": "Baritone voice and string quartet",
         "instruments": [
           "baritone",
           "string quartet"
@@ -909,6 +928,7 @@
       },
       {
         "title": "What Water Says",
+        "type": "Baritone voice and guitar",
         "instruments": [
           "baritone",
           "guitar"
@@ -926,6 +946,7 @@
       },
       {
         "title": "So Tell Me Elizabeth",
+        "type": "Soprano voice, piano and electronics",
         "subtitle": "from My New Voice",
         "instruments": [
           "soprano",
@@ -989,6 +1010,7 @@
       },
       {
         "title": "Les Quatre Coins",
+        "type": "Flute, Oboe, Cello and Piano",
         "instruments": [
           "flute",
           "oboe",
@@ -1013,6 +1035,7 @@
       },
       {
         "title": "The Charlie Effect",
+        "type": "Clarinet, Bass Clarinet and Piano",
         "instruments": [
           "Bb clarinet",
           "bass clarinet",
@@ -1066,6 +1089,7 @@
       },
       {
         "title": "In a Bright Room",
+        "type": "Clarinet and Bassoon",
         "instruments": [
           "Bb clarinet",
           "bassoon"
@@ -1091,6 +1115,7 @@
       },
       {
         "title": "Serenata",
+        "type": "Flute, English Horn, and Guitar",
         "instruments": [
           "flute",
           "english horn",
@@ -1112,6 +1137,7 @@
       },
       {
         "title": "Line Drawings",
+        "type": "Clarinet and Marimba",
         "instruments": [
           "clarinet",
           "marimba"
@@ -1172,6 +1198,7 @@
       },
       {
         "title": "The Graham Trio",
+        "type":"Clarinet, Cello and Piano",
         "instruments": [
           "clarinet",
           "cello",
@@ -1214,6 +1241,7 @@
       },
       {
         "title": "The Present",
+        "type": "Children's chorus, SATB choir, and piano",
         "instruments": [
           "children's choir",
           "SATB choir and piano"
@@ -1250,7 +1278,7 @@
         "attribution": "",
         "movements": [],
         "duration": "6 minutes",
-        "publisher": "American Concert Editions",
+        "publisher": "Guildhian Music",
         "composerNotes": [
           "The Image of Dreams was commissioned the University of Texas at San Antonio for its 25th Anniversary Convocation in 1994. The theme of the unversity at the time was \"Shaping the future in the image of dreams,\" and was the basis for the text written by the composer for this occasion."
         ]
@@ -1308,6 +1336,7 @@
       },
       {
         "title": "Full Frontal Lobes",
+        "type": "A musical lecture on Theory of Mind",
         "instruments": [
           "lecturer/professor",
           "conductor",

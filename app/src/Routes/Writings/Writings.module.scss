@@ -1,0 +1,25 @@
+.title {
+  font-weight: 600;
+  margin-right: 4px;
+}
+
+.type {
+  margin-right: 4px;
+  font-style: italic;
+}
+
+.metaInfo {
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.piece {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.details {
+  .divider {
+    margin-bottom: 8px;
+  }
+}

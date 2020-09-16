@@ -6,7 +6,17 @@ export const navigation = [
   },
   {
     to: '/works',
-    label: 'Works',
+    label: 'Music',
+    exact: false
+  },
+  {
+    to: '/recordings',
+    label: 'Recordings',
+    exact: false
+  },
+  {
+    to: '/writings',
+    label: 'Writings',
     exact: false
   },
   {
@@ -17,6 +27,11 @@ export const navigation = [
   {
     to: '/guildhianmusic',
     label: 'Guildhian Music',
+    exact: false
+  },
+  {
+    to: '/about',
+    label: 'About',
     exact: false
   },
   {

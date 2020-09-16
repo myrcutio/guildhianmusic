@@ -1,0 +1,74 @@
+{
+    "categories": {
+      "Poems Paired with Music": [
+        {
+          "title": "a wiser man",
+          "type": "6 short poems for don hodges' birthday",
+          "svgpath": "wiserman"
+        },
+        {
+          "title": "to be a Puddle",
+          "type": "an itty bitty ditty for cello and piano",
+          "svgpath": "puddle"
+        },
+        {
+          "title": "Il y a des Fleurs",
+          "type": "a song of hope, and joy in living",
+          "svgpath": "fleurs"
+        },
+        {
+          "title": "The Ghost of Eric Dolphy",
+          "type": "a graphic poem; homage to Eric Dolphy",
+          "svgpath": "ghost"
+        },
+        {
+          "title": "It is a river, singing",
+          "type": "text for Fragments of Time and Place, No. 4",
+          "svgpath": "river"
+        }
+      ],
+      "More Poems and Poetic Essays": [
+        {
+          "title": "Is It the Truth",
+          "type": "a question for the church",
+          "svgpath": "truth"
+        },
+        {
+          "title": "I'm Weird",
+          "type": "a reflection on being, in the 21st century",
+          "svgpath": "weird"
+        },
+        {
+          "title": "6 Haiku",
+          "type": "pondering life and emotion",
+          "svgpath": "haiku"
+        },
+        {
+          "title": "The Hilton Bar in Köln",
+          "type": "a moment in time",
+          "svgpath": "hilton"
+        },
+        {
+          "title": "If I Didn't Expect Anything",
+          "type": "I'd Never be Disappointed",
+          "svgpath": "you"
+        },
+        {
+          "title": "In the Beginning",
+          "type": "an epistle",
+          "svgpath": "beginning"
+        },
+        {
+          "title": "23 Understandings",
+          "type": "lessons I've learned",
+          "svgpath": "understandings"
+        }
+      ],
+      "Philosophy and Thoughts on Music Academia": [
+        {
+          "title": "coming soon"
+        }
+      ]
+    }
+  }
+  

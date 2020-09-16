@@ -8,8 +8,11 @@ import { BrowserRouter, Route, NavLink, Switch } from 'react-router-dom';
 import { navigation } from './nav';
 import { Home } from 'Routes/Home';
 import { Works } from 'Routes/Works';
+import { Recordings } from 'Routes/Recordings';
 import { NewsEvents } from 'Routes/NewsEvents';
+import { Writings } from 'Routes/Writings';
 import { GuildhianMusic } from 'Routes/GuildhianMusic';
+import { About } from 'Routes/About';
 import { Contact } from 'Routes/Contact';
 import css from './App.module.scss';
 
@@ -93,8 +96,11 @@ const App = () => {
             <Switch>
               <Route exact path="/" component={Home} />
               <Route exact path="/works" component={Works} />
+              <Route exact path="/recordings" component={Recordings} />
               <Route exact path="/events" component={NewsEvents} />
+              <Route exact path="/writings" component={Writings} />
               <Route exact path="/guildhianmusic" component={GuildhianMusic} />
+              <Route exact path="/about" component={About} />
               <Route exact path="/contact" component={Contact} />
             </Switch>
             <div className={css.copyright}>
