@@ -46,4 +46,5 @@ tf-plan-%: terraform/.terraform tf-workspace-%
 	$(TF) plan
 
 terraform/.terraform:
+	$(TF) get
 	$(TF) init
