@@ -16,6 +16,11 @@ import Typography from '@material-ui/core/Typography';
 import * as works from './works.json';
 import css from './Works.module.scss';
 
+import PortobelloBeach from '../../assets/PortobelloBeach.mp3'
+const musicmap = {
+  '../../assets/PortobelloBeach.mp3': PortobelloBeach
+}
+
 const Piece = (piece) => {
   const {
     title,
@@ -120,12 +125,30 @@ const Piece = (piece) => {
       </AccordionSummary>
       <AccordionDetails>
         <div className={css.details}>
+        {allMovements && (
+            <Fragment>
+              <Typography variant="overline" color="textSecondary">
+                Movements
+              </Typography>
+             
+              <Typography variant="body2" color="textSecondary" paragraph>
+                {movements.map(movement => (
+                  <div><span>{movement.mvt ? movement.mvt : movement}</span>
+                  {movement.mp3link && (<audio controls>
+                    <source src={musicmap[movement.mp3link]} type="audio/mpeg"></source>
+                      Your browser does not support the audio element.
+                  </audio>)}</div>
+                ))}
+              </Typography>
+            </Fragment>
+          )}
           {description && (
             <div
               className={css.description}
               dangerouslySetInnerHTML={{ __html: description }}
             />
           )}
+          
           {attribution && (
             <Typography
               variant="caption"
@@ -158,16 +181,7 @@ const Piece = (piece) => {
               </Typography>
             </Fragment>
           )}
-          {allMovements && (
-            <Fragment>
-              <Typography variant="overline" color="textSecondary">
-                Movements
-              </Typography>
-              <Typography variant="body2" color="textSecondary" paragraph>
-                {allMovements}
-              </Typography>
-            </Fragment>
-          )}
+         
         </div>
       </AccordionDetails>
     </Accordion>

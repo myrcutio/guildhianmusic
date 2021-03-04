@@ -965,6 +965,23 @@
     ],
     "Mixed Ensembles 1-5 Players": [
       {
+        "title": "said the Storyteller to the Devil",
+        "type": "Solo Violin",
+        "instruments": [
+          "Solo violin"
+        ],
+        "description": "written for and dedicated to violinist Daniel Kobialka",
+        "attribution": "",
+        "movements": "",
+        "duration": "8 minutes",
+        "publisher": "American Concert Editions",
+        "composerNotes": [
+          "This piece was written in response to a request by PARMA Records CEO Bob Lord to submit for a streaming performance during COVID-19 pandemic restrictions.",
+          "The piece is an adaptation and extension of two earlier pieces; The Devils Advice to Storytellers for solo clarinet, and Piano Sonata No. 2 (Steptoe)",
+          "The piece is dedicated to Daniel Kobialka, violinist and friend."
+        ]
+      },
+      {
         "title": "Strange Loops",
         "type": "Clarinet, Bassoon, Piano",
         "instruments": [
@@ -974,9 +991,7 @@
         ],
         "description": "Commissioned by Robert Walzel with a grant from The University of Kansas",
         "attribution": "",
-        "movements": [
-          "Strange Loops"
-        ],
+        "movements": "",
         "duration": "8 minutes",
         "publisher": "American Concert Editions",
         "composerNotes": [
@@ -1287,19 +1302,24 @@
     "Opera and Theatre": [
       {
         "title": "My New Voice",
-        "type": "one act opera",
+        "type": "one act opera by James Scott Balentine and Bruce Balentine",
         "description": "excerpt from the opera \"My New Voice\" (in progress)",
         "attribution": "Recorded by Lisa J. Coates, soprano, Paul Barker, piano, Bruce Balentine, voice synthesis, available on <a target=\"_blank\" href=\"http://vimeo.com/60335807\">video from CreST Concert</a>, January 26, 2013, in Scarborough, UK. My New Voice is approximately 4' 05\" into the video, the second piece on the concert.",
         "movements": [],
         "instruments": [
           "soprano",
+          "tenor",
+          "synthesized voice",
+          "flute",
+          "clarinet",
+          "horn",
           "piano",
-          "synthesized voice"
+          "cello"
         ],
-        "duration": "8:30 minutes",
+        "duration": "25:30 minutes",
         "publisher": "Guildhian Music",
         "composerNotes": [
-          "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
+          "My New Voice is a test piece, part of an opera in progress by the same name. Music by James Scott Balentine and Bruce Balentine, Bruce Balentine, libretto. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
         ]
       },
       {
@@ -1317,6 +1337,7 @@
           "Children"
         ],
         "instruments": [
+          "Boy soprano, Mezzo-Soprano, Tenor, Baritone, Chorus",
           "Flute",
           "Clarinet",
           "Bassoon",

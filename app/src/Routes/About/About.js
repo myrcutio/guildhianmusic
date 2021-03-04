@@ -1,16 +1,16 @@
 import React from 'react';
 import Typography from '@material-ui/core/Typography';
-import gazebo from '../../assets/gazebo.png'
-import css from './About.module.scss'
+import gazebo from '../../assets/jsbheadrest.png';
+import css from './About.module.scss';
 
 export const About = () => (
   <div>
-    <img className={css.gazebo} src={gazebo} alt="JSB Gazebo"></img>
+    <img className={css.gazebo} src={gazebo} alt="JSB Headrest"></img>
     <Typography variant="h6">Composer</Typography>
     
   
     Composer, performer, arranger, theorist, poet, writer, music copyist, music store owner/manager, and university 
-    professor emeritus <b>James Scott Balentine</b> (Jim), draws inspiration, like most contemporary, globally-connected musicians, 
+    professor emeritus <b>James Scott Balentine</b> (Jim), draws inspiration 
     from a dizzying array of music, art, literature, dance, technology, and other ethnic and cultural phenomena. 
     His music is fun, eclectic and interesting to play, intriguing to the listener, and crafted in a personal language 
     reflecting ethnic dance, jazz and folk idioms, tonal as well as atonal and serial techniques.
@@ -41,7 +41,7 @@ export const About = () => (
       Gershwin's <i>Porgy and Bess</i>, commissioned and recorded by violinist Daniel Kobialka, are available on
       Lisem Recordings.
     </p>
-
+    
     <Typography variant="h6">Performer</Typography>
     <p>
       A professional performer since high school, Jim is a freelance musician,

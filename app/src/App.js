@@ -8,6 +8,7 @@ import { BrowserRouter, Route, NavLink, Switch } from 'react-router-dom';
 import { navigation } from './nav';
 import { Home } from 'Routes/Home';
 import { Works } from 'Routes/Works';
+import { Listen } from 'Routes/Listen';
 import { Recordings } from 'Routes/Recordings';
 import { NewsEvents } from 'Routes/NewsEvents';
 import { Writings } from 'Routes/Writings';
@@ -96,6 +97,7 @@ const App = () => {
             <Switch>
               <Route exact path="/" component={Home} />
               <Route exact path="/works" component={Works} />
+              <Route exact path="/listen" component={Listen} />
               <Route exact path="/recordings" component={Recordings} />
               <Route exact path="/events" component={NewsEvents} />
               <Route exact path="/writings" component={Writings} />

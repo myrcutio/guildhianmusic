@@ -10,6 +10,11 @@ export const navigation = [
     exact: false
   },
   {
+    to: '/listen',
+    label: 'Listen',
+    exact: false
+  },
+  {
     to: '/recordings',
     label: 'Recordings',
     exact: false
@@ -21,12 +26,12 @@ export const navigation = [
   },
   {
     to: '/events',
-    label: 'News & Events',
+    label: 'News/Events',
     exact: false
   },
   {
     to: '/guildhianmusic',
-    label: 'Guildhian Music',
+    label: 'GuildhianMusic',
     exact: false
   },
   {
