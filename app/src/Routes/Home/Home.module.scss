@@ -1,7 +1,7 @@
 .musicimages {
-    float: left;
-    height: 290px;
-    padding-top: 10px;
+    height: 245px;
+    padding-top: 20px;
+    padding-left: 16px;
     padding-right: 16px;
 }
 .pagefooter {
@@ -9,4 +9,5 @@
 }
 .pagewrapper {
     min-height: calc(100vh -460px);
+    padding-top: 30px
 }

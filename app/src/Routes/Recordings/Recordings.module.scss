@@ -1,8 +1,19 @@
+.ImageWrapper {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(3,auto);
+}
 .figure {
-    float: left;
-    height: 300px;
+   
+    height: 175px;
     text-align: center;
     font-style: italic;
     font-size: smaller;
     text-indent: 0;
+}
+.pagefooter {
+    float: left;
+}
+.pagewrapper {
+    min-height: calc(100vh -460px);
 }

@@ -12,9 +12,14 @@ import css from './Home.module.scss'
 
 export const Home = () => (
   <div className={css.pagewrapper}>
-    <Typography variant="h6" align="center">
-      Now available through <i>American Concert Editions (ASCAP)</i>;
-      American Composers Alliance - composers.com  
+    <Typography align="center">
+      Welcome to my humble online musical abode. 
+      Take a look around and you can find information about my compositions and 
+      arrangements, recordings of my music, 
+      a bit of poetry and other writing about stuff I think about when I'm 
+      not playing or writing music. Have a listen, and if you're interested 
+      in performing a piece or two, most of it is now available through <i>American Concert Editions (ASCAP)</i>;
+      at the <a href="https://www.composers.com/homesearch?combine=&field_composer_target_id=14433">American Composers Alliance.</a>  
     </Typography>
     <div>
       <img className={css.musicimages} src={musicimage1} alt="Fragments"></img>
@@ -28,8 +33,7 @@ export const Home = () => (
     </div>
     <div className={css.pagefooter}>
       <Typography align="center">
-      ...and more... Music by James Scott Balentine is also available through Keiser Southern Music and Cimarron Music Press.
-      Theater, electronic, jazz ensemble, and educational arrangements are available through <i>Guildhian Music</i>. Visit the <i>Music</i> Page for more information
+      ...and more... Music by James Scott Balentine is available through the <a href="https://composers.com/composers/james-scott-balentine"><i>American Composers Alliance,</i></a> <a href="https://www.halleonard.com/search/search.action?keywords=james+balentine&dt=item#products"><i>Keiser Southern Music,</i></a> and <a href="https://www.cimarronmusic.com/catalogsearch/result/?q=Balentine"><i>Cimarron Music Press.</i></a> Theater, electronic, jazz ensemble, and educational arrangements are available through <a href="https://www.jamesbalentine.com/guildhianmusic"> <i>Guildhian Music.</i></a> Visit the Music Page for more information.
       </Typography>
     </div>
   </div>

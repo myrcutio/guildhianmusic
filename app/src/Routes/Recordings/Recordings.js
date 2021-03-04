@@ -9,13 +9,15 @@ import cdimage6 from '../../assets/PorgyandBess.jpg'
 import cdimage7 from '../../assets/RiverWordsCover.jpg'
 import cdimage8 from '../../assets/RememberingFriends.png'
 import cdimage9 from '../../assets/RedPoppy.png'
+import cdimage10 from '../../assets/lullabies.png'
 import css from './Recordings.module.scss'
 
 export const Recordings = () => (
-  <div>
+  <div className={css.pagewrapper}>
     <Typography variant="h6" align="center">
-      CD and downloads are available through Amazon, iTunes, and other music marketplaces.
+      Compact Discs and downloads are available through Amazon, iTunes, and other music marketplaces.
     </Typography>
+    <div className={css.ImageWrapper}>
     <figure className={css.figure}>
         <img src={cdimage1} alt="Nine Wild Exotic Dances"></img>
         <figcaption><a href="https://www.amazon.com/Exotic-Dances-Steven-Clarinet-Consort/dp/B00TJ6TIAE">Albany Records Troy 1547</a></figcaption>
@@ -60,9 +62,15 @@ export const Recordings = () => (
         <img src={cdimage8} alt="Remembering Friends"></img>
         <figcaption><a href="guildhianmusic">Guildhian Records</a></figcaption>
     </figure>
-    
+
+    <figure className={css.figure}>
+        <img src={cdimage10} alt="Jazz Lullabies"></img>
+        <figcaption><a href="guildhianmusic">Guildhian Records</a></figcaption>
+    </figure>
+    </div>
+    <div className={css.pagefooter}>
     <Typography align="center">
-    <i>Red Poppy and the Yellow Rose</i> and <i>Remembering Friends</i> are available exclusively through <a href="guildhianmusic"><i>Guildhian Music</i></a>. 
-    </Typography>
+    <i>Red Poppy and the Yellow Rose</i>, <i>Remembering Friends</i> and <i>Jazz Lullabies</i> are available exclusively through <a href="guildhianmusic"><i>Guildhian Music</i></a>. 
+    </Typography></div>
   </div>
 );
