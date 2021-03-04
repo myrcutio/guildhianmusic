@@ -14,7 +14,7 @@ export const Listen = () => {
     <p><i><b>Asking a Shadow to Dance</b></i> - for clarinet, viola & piano</p>
     <p>Robert Walzel, clarinet; Boris Vaynor, viola; Steven Glaser, piano; concert in Vilnius, Lithunia in March, 2020.
     </p>
-    <iframe width="360" height="210" title="Asking a Shadow to Dance" src="https://www.youtube.com/embed/H5aLtGlgIrY?t=2310" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="360" height="210" title="Asking a Shadow to Dance" src="https://www.youtube.com/embed/H5aLtGlgIrY?start=2310" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     <p><i><b>In a Bright Room</b></i> - for clarinet & bassoon</p>
