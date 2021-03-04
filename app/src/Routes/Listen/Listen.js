@@ -20,7 +20,7 @@ export const Listen = () => {
     <p><i><b>In a Bright Room</b></i> - for clarinet & bassoon</p>
     <p>Robert Walzel, clarinet; Scott Walzel, bassoon.
     </p>
-    <iframe width="360" height="210" titel="Bright Room" src="https://www.youtube.com/embed/sXzy5hUSqh0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="360" height="210" title="Bright Room" src="https://www.youtube.com/embed/sXzy5hUSqh0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     
     <p><i><b>Portobello Beach</b></i> - double concerto for clarinet, bassoon, and chamber orchestra</p>
