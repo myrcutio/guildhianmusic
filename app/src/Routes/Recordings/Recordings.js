@@ -10,6 +10,8 @@ import cdimage7 from '../../assets/RiverWordsCover.jpg'
 import cdimage8 from '../../assets/RememberingFriends.png'
 import cdimage9 from '../../assets/RedPoppy.png'
 import cdimage10 from '../../assets/lullabies.png'
+import cdimage11 from '../../assets/lullabies2.png'
+import cdimage12 from '../../assets/NightsAreRare.png'
 import css from './Recordings.module.scss'
 
 export const Recordings = () => (
@@ -64,8 +66,18 @@ export const Recordings = () => (
     </figure>
 
     <figure className={css.figure}>
-        <img src={cdimage10} alt="Jazz Lullabies"></img>
+        <img src={cdimage10} alt="Jazz Lullabies1"></img>
         <figcaption><a href="guildhianmusic">Guildhian Records</a></figcaption>
+    </figure>
+
+    <figure className={css.figure}>
+        <img src={cdimage11} alt="Jazz Lullabies2"></img>
+        <figcaption><a href="guildhianmusic">Guildhian Records</a></figcaption>
+    </figure>
+
+    <figure className={css.figure}>
+        <img src={cdimage12} alt="Nights Like This Are Rare"></img>
+        <figcaption><a href="guildhianmusic">Prison Records</a></figcaption>
     </figure>
     </div>
     <div className={css.pagefooter}>
