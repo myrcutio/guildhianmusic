@@ -19,7 +19,8 @@ export const Home = () => (
       a bit of poetry and other writing about stuff I think about when I'm 
       not playing or writing music. Have a listen, and if you're interested 
       in performing a piece or two, most of it is now available through <i>American Concert Editions (ASCAP)</i>;
-      at the <a href="https://www.composers.com/homesearch?combine=&field_composer_target_id=14433">American Composers Alliance.</a>  
+      at the <a href="https://www.composers.com/homesearch?combine=&field_composer_target_id=14433">American Composers Alliance.</a> 
+      <p></p>And, for those who are fans of my brother Douglas' music, at the bottom of the Listening page there are a few recordings with Douglas, my brother Bruce, and myself. 
     </Typography>
     <div>
       <img className={css.musicimages} src={musicimage1} alt="Fragments"></img>
