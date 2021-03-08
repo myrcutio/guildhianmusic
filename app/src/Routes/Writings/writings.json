@@ -29,16 +29,6 @@
       ],
       "More Poems and Poetic Essays": [
         {
-          "title": "Is It the Truth",
-          "type": "a question for the church",
-          "svgpath": "truth"
-        },
-        {
-          "title": "I'm Weird",
-          "type": "a reflection on being, in the 21st century",
-          "svgpath": "weird"
-        },
-        {
           "title": "6 Haiku",
           "type": "pondering life and emotion",
           "svgpath": "haiku"
@@ -52,11 +42,6 @@
           "title": "If I Didn't Expect Anything",
           "type": "I'd Never be Disappointed",
           "svgpath": "you"
-        },
-        {
-          "title": "In the Beginning",
-          "type": "an epistle",
-          "svgpath": "beginning"
         },
         {
           "title": "23 Understandings",
