@@ -13,6 +13,10 @@ import music9 from '../../assets/Trilogy3.mp3';
 import music10 from '../../assets/PianoSonata1mvt1.mp3';
 import music11 from '../../assets/PianoSonata1mvt2.mp3';
 import music12 from '../../assets/PianoSonata1mvt3.mp3';
+import music13 from '../../assets/OldHouses.mp3';
+import music14 from '../../assets/Autumn.mp3';
+import music15 from '../../assets/AbovetheDock.mp3';
+import music16 from '../../assets/ARiverSinging.mp3';
 import css from './Listening.module.scss'
 
 export const Listen = () => {
@@ -64,6 +68,26 @@ export const Listen = () => {
       <source src={music4} type="audio/mpeg"></source>
     </audio>
     </div>
+
+    <div className={css.ListeningAudio}>
+      <Typography variant="h6">Chamber Choir</Typography>
+      <p><i><b>Fragments of Time and Place</b></i> - San Antonio Chamber Choir</p> 1. Old Houses
+      <audio controls>
+      <source src={music13} type="audio/mpeg"></source>
+    </audio>
+    2. Autumn
+    <audio controls>
+      <source src={music14} type="audio/mpeg"></source>
+    </audio>
+    3. Above the Dock
+    <audio controls>
+      <source src={music15} type="audio/mpeg"></source>
+    </audio>
+    4. It is a river, singing
+    <audio controls>
+      <source src={music16} type="audio/mpeg"></source>
+    </audio>
+</div>
 
     <div className={css.ListeningAudio}>
       <Typography variant="h6">Piano Solo</Typography>
