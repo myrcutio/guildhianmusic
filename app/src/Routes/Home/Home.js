@@ -1,7 +1,7 @@
 import React from 'react';
 import Typography from '@material-ui/core/Typography';
-import musicimage1 from '../../assets/fragments.png'
-import musicimage2 from '../../assets/desfleurs.png'
+import musicimage1 from '../../assets/riverRemembers.png'
+import musicimage2 from '../../assets/storyteller.png'
 import musicimage3 from '../../assets/tbgg.png'
 import musicimage4 from '../../assets/askingshadow.png'
 import musicimage5 from '../../assets/ninedances.png'
@@ -23,8 +23,8 @@ export const Home = () => (
       <p></p>And, for those who are fans of my brother Douglas' music, at the bottom of the Listening page there are a few recordings with Douglas, my brother Bruce, and myself. 
     </Typography>
     <div>
-      <img className={css.musicimages} src={musicimage1} alt="Fragments"></img>
-      <img className={css.musicimages} src={musicimage2} alt="Il y a des Fleurs"></img>
+      <img className={css.musicimages} src={musicimage1} alt="river remembers"></img>
+      <img className={css.musicimages} src={musicimage2} alt="said the Storyteller"></img>
       <img className={css.musicimages} src={musicimage3} alt="Three Billy Goats Gruff"></img>
       <img className={css.musicimages} src={musicimage4} alt="Asking a Shadow to Dance"></img>
       <img className={css.musicimages} src={musicimage5} alt="Nine Wild Exotic Dances"></img>
