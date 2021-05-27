@@ -11,12 +11,14 @@ export const GuildhianMusic = () => (
         <Typography variant="h6">Ordering Information</Typography>
         <div>
             Catalog and Retail Price List: <a href="/catalog.pdf" target="_blank">Guildhian Music Catalog PDF</a>; 
-            Contact <a href="mailto:guildhian@sbcglobal.net">guildhian@sbcglobal.net</a> for orders and availability.
+            Contact <a
+                        href="mailto:info@guildhian.com">Guildhian Music</a> for orders and availability.
         </div>
         <Typography variant="h6">Recordings</Typography>
         <div>
             <i><b>Remembering Friends</b></i> CD with <i>Piano Sonata No. 1 (Smith), The Tempest Songs, A Trilogy for Friends</i>; <i><b>Nights Like This Are Rare,</b></i> and <i><b>Red Poppy and the Yellow Rose</b></i> CD can be ordered at the email address above. Individual mp3's can be requested via email.
-            Contact <a href="mailto:guildhian@sbcglobal.net">guildhian@sbcglobal.net</a> for orders and availability.
+            Contact <a
+                        href="mailto:info@guildhian.com">Guildhian Music</a> for orders and availability.
         </div>
         <Typography variant="h6">Retail Music Stores</Typography>
         <div>
@@ -73,7 +75,7 @@ export const GuildhianMusic = () => (
                 <li>Residencies, clinics, seminars and lecture presentations by James Scott Balentine are
                     available on a limited basis throughout the year. For information on fees, scheduling, and
                     sponsorship by Guildhian Music, contact James Scott Balentine at <a
-                        href="mailto:guildhian@sbcglobal.net">guildhian@sbcglobal.net</a>
+                        href="mailto:info@guildhian.com">Guildhian Music</a>
                 </li>
             </ul>
         </div>
