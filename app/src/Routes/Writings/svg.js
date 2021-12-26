@@ -10,5 +10,5 @@ import hilton from "../../assets/hilton.png"
 import you from "../../assets/you.png"
 import beginning from "../../assets/beginning.png"
 import understandings from "../../assets/understandings.png"
-export const svgs = {wiserman,puddle,fleurs,ghost,river,truth,weird,haiku,hilton,you,beginning,understandings}
+export const svgs = {wiserman,puddle,fleurs,ghost,river,haiku,hilton,you,understandings,beginning,truth,weird}
 export default svgs

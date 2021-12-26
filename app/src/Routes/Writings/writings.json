@@ -47,6 +47,21 @@
           "title": "23 Understandings",
           "type": "lessons I've learned",
           "svgpath": "understandings"
+        },
+        {
+          "title": "in the beginning",
+          "type": "from the gospel of james",
+          "svgpath": "beginning"
+        },
+        {
+          "title": "Is it the Truth, or just an Answer",
+          "type": "a question for the church",
+          "svgpath": "truth"
+        },
+        {
+          "title": "I'm Weird",
+          "type": "coming to terms with myself",
+          "svgpath": "weird"
         }
       ]
     }
