@@ -53,7 +53,95 @@
           "piano",
           "percussion"
         ]
-      }
+      },
+      {
+        "title": "A Glass Box",
+        "type": "song cycle for soprano, alto, and baritone voices and chamber orchestra",
+        "description": "premiered at the University of South Carolina, 1976.",
+        "attribution": "",
+        "movements": [
+          "I. on littlest this",
+          "II. candles and",
+          "III. the sky was",
+          "IV. un(bee)mo",
+          "V. why do the",
+          "VI. dim"
+        ],
+        "duration": "18 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "A Glass Box was written to fulfill the requirements of the Master of Music degree at the University of South Carolina. Dedicated with immense gratitude to my teacher, mentor, and friend, Dr. Gordon R. (Dick) Goodwin"
+        ],
+        "instruments": [
+          "soprano, alto and baritone voices",
+          "Flute (doubling piccolo)",
+          "Oboe",
+          "Clarinet (doubling soprano saxophone)",
+          "Bassoon",
+          "Horn in F",
+          "Trumpet in C (doubling Flugelhorn)",
+          "Trombone",
+          "Percussion",
+          "Harp",
+          "Piano",
+          "Violins I & II",
+          "Viola",
+          "Violoncello",
+          "Bass"
+        ]
+      },
+      {
+        "title": "in just spring",
+        "type": "Soprano and chamber orchestra",
+        "instruments": ["soprano voice",
+                        "strings",
+                        "piano",
+                        "percussion",
+                        "available also with piano reduction"
+       ],
+        "description": "Five Songs from eecummings, commissioned by soprano Deborah Dalton and the University of San Antonio chamber Orchestra, Donald Hodges, director.",
+        "attribution": "",
+        "movements": [
+          "introduction - setting",
+          "in Just-",
+          "the moon looked into my window",
+          "sweet spring is your",
+          "who knows if the moon's",
+          "i thank You God for most this amazing",
+          "closing"
+        ],
+        "duration": "10 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "'in just spring' is a song cycle on poems related to spring by eecummings, and were written for mezzo sporano Deborah Dalton for performance with the UTSA chamber orchestra, Donald Hodges, conductor, in the spring of 1990."
+        ]
+      },
+      {
+        "title": "Nalost",
+        "type": "tone poem for orchestra, in memoriam to youthful ignorance",
+        "instruments": ["2 Flutes (dbl alto flutes)",
+                        "2 Oboes",
+                        "2 Clarinets in Bb",
+                        "2 Bassoons",
+                        "4 horns in F",
+                        "2 Trumpets in Bb",
+                        "3 Trombones",
+                        "Harp",
+                        "Timpani",
+                        "3 Percussion",
+                        "Violins I & II",
+                        "strings"
+       ],
+        "description": "an experimental piece written while on a performance tour, it was completed in 1971, and premiered by the Indianapolis Symphony in 1975 at the Indiana State University Contemporary Music Festival, Oleg Kovalenko conducting.",
+        "attribution": "awarded Honorable Mention in the Corpus Christi Symphony Composition competition in 1972.",
+        "movements": [
+        ],
+        "duration": "5 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+        ]
+      }        
+
     ],
     "Wind Ensemble": [ 
       {
@@ -120,10 +208,67 @@
         ]
       },
       {
+        "title": "The White Goddess",
+        "type": "Solo Clarinet and wind ensemble",
+        "description": "commissioned by Robert Walzel and Robert Rustowicz",
+        "attribution": "written for and performed by Robert Walzel, clarinet, and the University of Texas at San Antonio Wind Ensemble, Robert Rustowicz conducting.",
+        "movements": [],
+        "instruments": [
+          "Solo Clarinet",
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Percussion 1,2,3"
+        ],
+        "duration": "6 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "Commissioned by Robert Walzel, for his guest performance at the University of Texas at San Antonio in 1994."
+        ]
+      },
+      {
+        "title": "America the Beautiful",
+        "type": "arrangement for wind ensemble, in memoriam 9/11/2001",
+        "description": "commissioned by Robert Rustowicz",
+        "attribution": "written for the University of Texas at San Antonio Wind Ensemble, Robert Rustowicz conducting, in memoriam for the victims of 9/11/2001.",
+        "movements": [],
+        "instruments": [
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Percussion 1,2,3"
+        ],
+        "duration": "4 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "Commissioned in memory of the victims of 9/11/2001, for performance at the University of Texas at San Antonio in 2002."
+        ]
+      },
+      {
         "title": "A Page from the Natural Light",
         "type": "solo trombone and wind ensemble",
         "description": "Commissioned by Ronald Wilkins, trombone",
-        "attribution": "Recorded by the University of Texas at San Antonio Wind Ensemble, 2012",
+        "attribution": "Recorded by the University of Texas at San Antonio Wind Ensemble, Robert Rustowicz conducting, at the Texas Music Educators Convention in 1992",
         "movements": [],
         "instruments": [
           "Solo Trombone",
@@ -177,7 +322,65 @@
         "publisher": "Guildhian Music"
       
       
-    }
+    },
+      {
+        "title": "The Troll's Nosegay",
+        "type": "wind ensemble",
+        "description": "written for the University of South Carolina Wind Ensemble, James K. Copenhaver, conductor",
+        "attribution": "1976",
+        "movements": [],
+        "instruments": [
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Percussion 1,2,3"
+        ],
+        "duration": "6 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "Written as a student composition while studying with Gordon R. Goodwin at the University of South Carolina. Not available for performance, archival score only."
+        ]
+      },
+      {
+        "title": "Confrontation",
+        "type": "Solo Alto Saxophone and wind ensemble",
+        "description": "commissioned by saxophonist Walker Smith, 1970",
+        "attribution": "performed by the Hattiesburg High School Band with Walker Smith, saxophone. Tom O'Neal, conductor, 1971",
+        "movements": [],
+        "instruments": [
+          "Solo Alto Saxophone",
+          "Flutes 1,2",
+          "Oboes 1,2",
+          "Bb Clarinets 1,2,3",
+          "Bass Clarinet",
+          "Alto Saxophones 1,2",
+          "Tenor Saxophone",
+          "Baritone Saxophone",
+          "Bassoons 1,2",
+          "Bb Trumpets 1,2,3",
+          "Horns 1,2,3,4",
+          "Trombones 1,2",
+          "Bass Trombone",
+          "Tuba",
+          "Percussion 1,2,3"
+        ],
+        "duration": "7 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "Commissioned by my friend and fellow saxophonist, Walker Smith, for guest performance as an honored alumnus at Hattiesburg High School in 1971, Tom O'Neal conductor. Not available for performance, archival score only."
+        ]
+      }
+      
   ],
   "Clarinet Ensembles": [
     {
@@ -232,7 +435,7 @@
     {
       "title": "Monk, through a Glass Darkly",
       "type": "clarinet sextet",
-      "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 2000 in Stockholm, Sweden. An arrangement/medley of 'Round Midnight and Well, You Needn't by Thelonious Monk, with a tip of the hat to Richard Strauss.",
+      "description": "Commissioned by the Texas Clarinet Consort for performance at ClarinetFest 2000 in Stockholm, Sweden. Loose references to 'Round Midnight' and 'Well, You Needn't' by Thelonious Monk, with a tip of the hat to Richard Strauss.",
       "attribution": "Recorded by The Texas Clarinet Consort: Robert Walzel, James Gillespie, John Scott, Raphael Sanders, Doug Storey, and Gary Whitman, clarinets, on <i>Wild Exotic Dances</i> on Albany Records.",
       "movements": [],
       "instruments": [
@@ -321,6 +524,18 @@
         "composerNotes": [
           "Commissioned by the San Antonio Chamber Music Society for the American Brass Quintet as an opening fanfare for the San Antonio Tricentennial in 2018.  <i>The River Remembers</i> was inspired by the poetry of Carmen Tafolla, Poet Laureate of San Antonio, and was premiered by the American Brass Quintet on March 3, 2018 in San Antonio, Texas.", 
           "Revised in March, 2021, for Michael Gast and the Uptown Brass Quintet of the Minnesota Orchestra."
+        ],
+        "type": "brass quintet"
+      },
+      {
+        "title": "Procession Angelica",
+        "description": "wedding fanfare & processional",
+        "attribution": [],
+        "movements": [],
+        "duration": "2-4 minutes",
+        "publisher": "American Concert Editions",
+        "composerNotes": [
+          "written for the wedding of James Fowler Balentine and Angelica McBride, San Antonio, Texas, 2003."
         ],
         "type": "brass quintet"
       },
@@ -541,6 +756,28 @@
     ],
     
     "Jazz Meets Classical Ensembles": [
+       {
+        "title": "silver blue moon",
+        "type": "Clarinet, Flugelhorn, String Quartet, Pno, Bass, Drums",
+        "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the 42nd Annual Jazz Meets Classical series.",
+        "attribution": "Recorded by Jazz Meets Classical Ensemble with Tito Carrillo, flugelhorn",
+        "movements": [
+          "a silver blue moon",
+          "a touch of grey for sadness, crying for the world",
+          "to the sunrise in the valley of brambles"
+        ],
+        "instruments": [
+          "Flugelhorn",
+          "Bb Clarinet",
+          "String quartet - 2 violins, viola, cello",
+          "Jazz Rhythm section - piano, bass, drums"
+        ],
+        "duration": "12 minutes",
+        "publisher": "American Concert Editions",
+        "composerNotes": [
+          "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 43rd year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
+        ]
+      },
       {
         "title": "Il y a des Fleurs",
         "type": "Voice, Clarinet, Flugelhorn, String Quartet, Pno, Bass, Drums",
@@ -839,6 +1076,22 @@
         "detailLink": "https://composers.com/composers/james-scott-balentine/trilogy-friends"
       }
     ],
+    "Wedding Music for Piano & Organ": [
+      {
+        "title": "Procession Angelica",
+        "type": "wedding processional",
+        "duration": "2-4 minutes",
+        "description": "adaptation from brass quintet for the wedding of Nancy Dion to Joseph Corbin, Tampa, Florida, 2010.",
+        "publisher": "American Concert Editions"
+      },
+      {
+        "title": "A New Beginning",
+        "type": "wedding recessional",
+        "duration": "2-4 minutes",
+        "description": "written for the wedding of Nancy Dion to Joseph Corbin, Tampa, Florida, 2010.",
+        "publisher": "American Concert Editions"
+      }
+    ],
     "Voice and Instruments": [
       {
         "title": "The Three Billy Goats Gruff",
@@ -865,11 +1118,9 @@
         ],
         "duration": "10:30 minutes",
         "publisher": "American Concert Editions",
-        "publisherLink": "https://composers.com/composers/james-scott-balentine/three-billy-goats-gruff",
         "composerNotes": [
           "The Three Billy Goats Gruff was commissioned by the Cactus Pear Festival for the Kinder Konzerts Series in San Antonio. It is a mini-drama, a narrative for string quartet, solo bass and narrator. It was first performed at the Empire Theater in San Antonio, Texas, in September of 2003, with baritone Timothy Jones narrating. The ugly, greedy old Troll is portrayed by the solo bass (first performed by bassist Steve Zeserman), who offers a musical dialogue with the clever Billy Goats (played by the Cactus Pear string quartet - Stephanie Sant'Ambrogio, artistic director) as the narrator tells the story."
-        ],
-        "detailLink": "https://composers.com/composers/james-scott-balentine/three-billy-goats-gruff"
+        ]
       },
       {
         "title": "The Tempest Songs",
@@ -946,6 +1197,31 @@
         ]
       },
       {
+        "title": "in just spring",
+        "type": "Soprano and chamber orchestra",
+        "instruments": ["soprano voice",
+                        "strings",
+                        "piano",
+                        "percussion"
+       ],
+        "description": "Five Songs from eecummings, commissioned by soprano Deborah Dalton and the University of San Antonio chamber Orchestra, Donald Hodges, director.",
+        "attribution": "available with piano accompaniment",
+        "movements": [
+          "introduction - setting",
+          "in Just-",
+          "the moon looked into my window",
+          "sweet spring is your",
+          "who knows if the moon's",
+          "i thank You God for most this amazing",
+          "closing"
+        ],
+        "duration": "14 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "'in just spring' is a song cycle on poems related to spring by eecummings, and were written for soprano Deborah Dalton for performance with the UTSA chamber orchestra, Donald Hodges, conductor, in the spring of 1990."
+        ]
+      },
+      {
         "title": "So Tell Me Elizabeth",
         "type": "Soprano voice, piano and electronics",
         "subtitle": "from My New Voice",
@@ -961,6 +1237,25 @@
         "publisher": "Guildhian Music",
         "composerNotes": [
           "My New Voice is a test piece, part of an opera in progress by the same name. My New Voice is the story of Trevor, an artist/inventor who lives with his friend and caregiver, Elizabeth. Afflicted with motor neurone disease, Trevor is confined to a wheelchair, and cannot speak. Having mastered several generations of voice technologies, he knows their capabilities. In this scene, Trevor has received a new and greatly-enhanced synthetic voice. Experimenting with it, Trevor reconsiders questions of appropriateness, authenticity, and his own self-identity. He is beginning to see and Elizabeth encourages him in this regard that he has developed better communication skills than most. Because he must work hard to say anything, Trevor says more with less a trait that Elizabeth finds engaging."
+        ]
+      },
+      {
+        "title": "The Postcard Songs",
+        "type": "Medium voice and piano",
+        "instruments": [
+        ],
+        "description": "song cycle with text from postcards written and sent to the composeer by friend and colleague, Dean Curtis",
+        "attribution": "",
+        "movements": [
+          "1. Bliss is mine",
+          "2. Rise and Shine",
+          "3. Creek Ripples Shine",
+          "4. Neon Shine"
+        ],
+        "duration": "9 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": [
+          "My friend Dean Curtis sent postcards to me every summer, all ending with 'this my line to Balentine', which seemed to me to demand being put to music. The public premiere was by baritone Timothy Jones and Mark Alexander, piano, at the University of Texas at San Antonio."
         ]
       }
     ],
@@ -1189,6 +1484,40 @@
         ]
       },
       {
+        "title": "Invention & Rhapsody II",
+        "type": "for flute quartet",
+        "description": "Commissioned by Rita Linard",
+        "attribution": "Recorded by the Sonora Flute Quartet",
+        "movements": [
+        ],
+        "duration": "4 minutes 30 seconds",
+        "publisher": "American Concert Editions",
+        "publisherLinks": [ ],
+        "composerNotes": [
+          "Commissioned by flutist Rita Linard, Invention & Rhapsody was written to be performed at the International Flute Association Convention in 2001."
+        ]
+      },
+       {
+        "title": "Hill Country March",
+        "type": "for large flute ensemble",
+        "description": "Commissioned by Rita Linard and the UTSA Flute Camp",
+        "attribution": "",
+        "movements": [
+        ],
+        "instruments":[
+          "piccolo",
+          "C flutes 1,2,3",
+          "alto flute",
+          "bass flute"
+        ],
+        "duration": "2 minutes 30 seconds",
+        "publisher": "American Concert Editions",
+        "publisherLinks": [ ],
+        "composerNotes": [
+          "Commissioned by flutist Rita Linard for the annual high school flute camp at UTSA."
+        ]
+      },
+      {
         "title": "Liberty Bar",
         "type": "two (or four) percussionists - multiple percussion",
         "instruments": [
@@ -1230,11 +1559,50 @@
           }
         ],
         "composerNotes": []
+      },
+      {
+        "title": "Eclatant",
+        "type": "for horn in F, percussion, and electronic media",
+        "instruments": [
+          "Horn in F",
+          "Vibraphone",
+          "electronic tape (digital media)"
+        ],
+        "description": "written for Cynthia Dion, horn",
+        "attribution": "",
+        "movements": [],
+        "duration": "5 minutes",
+        "publisher": "Guildhian Music",
+        "publisherLinks": [
+        ],
+        "composerNotes": [
+          "written for Cynthia Dion for her senior recital at the University of South Carolina, and performed at Electronic Music Plus Festival, West Virginia, and at Royal Academy of Music, London, David Sternbach, horn."
+        ]
+      },
+      {
+        "title": "Daughter's Dance",
+        "type": "trio for violin, viola and cello",
+        "instruments": [
+          "violin",
+          "viola",
+          "cello"
+        ],
+        "description": "written for Bethanna Balentine",
+        "attribution": "",
+        "movements": [],
+        "duration": "4 minutes",
+        "publisher": "Guildhian Music",
+        "publisherLinks": [
+        ],
+        "composerNotes": [
+          "commissioned by Bruce Balentine for daughter Bethanna's 16th birthday."
+        ]
       }
     ],
     "Choral": [
       {
-        "title": "Fragments of Time & Place",
+        "title": "Old Houses (fragments of time and place)",
+        "type": "for a capella chamber choir, text by T.E. Hulme and James Scott Balentine",
         "instruments": [
           "for chamber choir (SSATBB) a capella"
         ],
@@ -1249,13 +1617,13 @@
         "duration": "10 minutes",
         "publisher": "American Concert Editions",
         "composerNotes": [
-          "Fragments of Time & Place was commissioned by the San Antonio Chamber Choir, Rick Bjella, conductor, for the San Antonio Tricentennial celebration in 2018. The premiere took place at Mission San Jose in San Antonio, Texas, on April 14, 2018. The texts by English poet T. E. Hulme (1883-1917), are short poems and fragments of unfinished thoughts and ideas that have to do with images and unusual perspectives of time and place. The last poem by the composer, is inspired in part by translations of songs of the Coahuiltecan culture, native to Texas before San Antonio was founded in 1718."
+          "Originally titled 'Fragments of Time & Place', 'Old Houses' was commissioned by the San Antonio Chamber Choir, Rick Bjella, conductor, for the San Antonio Tricentennial celebration in 2018. The premiere took place at Mission San Jose in San Antonio, Texas, on April 14, 2018. The texts by English poet T. E. Hulme (1883-1917), are short poems and fragments of unfinished thoughts and ideas that have to do with images and unusual perspectives of time and place. The last poem by the composer, is inspired in part by translations of songs of the Coahuiltecan culture, native to Texas before San Antonio was founded in 1718."
         ],
         "detailLink": "https://composers.com/composers/james-scott-balentine/fragments-time-and-place"
       },
       {
         "title": "The Present",
-        "type": "Children's chorus, SATB choir, and piano",
+        "type": "Children's chorus, SATB choir, and piano; text by Tina Lear",
         "instruments": [
           "children's choir",
           "SATB choir and piano"
@@ -1269,6 +1637,7 @@
       },
       {
         "title": "The Image of Dreams",
+        "type": "for chorus and wind ensemble, text by the composer",
         "instruments": [
           "SATB Chorus",
           "Piccolo",
@@ -1296,6 +1665,18 @@
         "composerNotes": [
           "The Image of Dreams was commissioned the University of Texas at San Antonio for its 25th Anniversary Convocation in 1994. The theme of the unversity at the time was \"Shaping the future in the image of dreams,\" and was the basis for the text written by the composer for this occasion."
         ]
+      },
+      {
+        "title": "Variables of Green",
+        "type": "Vocal Ensemble SSAATTBB, text by Robert Graves",
+        "instruments": [
+        ],
+        "description": "",
+        "attribution": "Performed by SAVAE, the San Antonio Vocal Arts Ensemble.",
+        "movements": [],
+        "duration": "4 minutes",
+        "publisher": "unpublished",
+        "composerNotes": []
       }
     ],
     "Opera and Theatre": [
@@ -1374,6 +1755,22 @@
         "composerNotes": [
           "Full Frontal Lobes is a multimedia chamber piece presented as a combined lecture and debate. Conceived and developed collaboratively by James Scott Balentine (music) and Bruce Balentine (libretto), the work draws on recent research in neurophysiology and microbiology to explore relationships between improvisation, musical directionality, expressive longing, and pedantic hedonism."
         ]
+      },
+      {
+        "title": "Beowulf",
+        "type": "radio production with electronic score",
+        "description": "commissioned by KUT-FM, Austin",
+        "duration": "1 hour 45 minutes",
+        "publisher": "Guildhian Music",
+        "composerNotes": ["electronic tape incidental music for narrative of Beowulf, realized at the University of Texas at Austin Electronic Music Studio, 1978."]
+      },
+      {
+        "title": "Pinocchio",
+        "type": "orchestration & incidental music for musical by Douglas Balentine",
+        "description": "commissioned by Hill Country Foundation for performance at the Pointe Theater, Kerrville",
+        "duration": "2 hours",
+        "publisher": "unpublished",
+        "composerNotes": ["Musical theater production for the Pointe Theater, Kerrville, Texas, music by Douglas Balentine."]
       }
     ]
   }
