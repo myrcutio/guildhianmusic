@@ -56,7 +56,7 @@
       },
       {
         "title": "A Glass Box",
-        "type": "song cycle for soprano, alto, and baritone voices and chamber orchestra",
+        "type": "song cycle for soprano, alto, and baritone voices and chamber orchestra, text by eecummings",
         "description": "premiered at the University of South Carolina, 1976.",
         "attribution": "",
         "movements": [
@@ -752,6 +752,33 @@
         "composerNotes": [
           "fast swing"
         ]
+      },
+      {
+        "title": "Music for the University of Texas Experimental Jazz Ensemble, 1966-1969",
+        "description": "early big band compositions for the UT Experimental Jazz Ensemble, Dick Goodwin, Director",
+        "attribution": "",
+        "movements": [],
+        "instruments": [
+          "3-5 saxes, (doubling clarinets, flutes, & banjo)",
+          "4-5 trumpets, (doubling flugelhorns)",
+          "2 horns",
+          "4-5 trombones",
+          "Tuba",
+          "Piano",
+          "guitar",
+          "vibraphone",
+          "bass",
+          "drums"
+        ],
+        "publisher": "unpublished, archival only",
+        "composerNotes": [
+          "Theme On Grey",
+          "Ballad for Beard (for Bob Dain, trumpet)",
+          "Gradi's Painting (for Doug Graham, clarinet)",
+          "Ditto Pinkie",
+          "For Esme, with Love & Squalor",
+          "Danbury Gambit"
+        ]
       }
     ],
     
@@ -780,7 +807,7 @@
       },
       {
         "title": "Il y a des Fleurs",
-        "type": "Voice, Clarinet, Flugelhorn, String Quartet, Pno, Bass, Drums",
+        "type": "Voice, Clarinet, Flugelhorn, String Quartet, Pno, Bass, Drums - text by James Scott Balentine",
         "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the 25th Annual Jazz Meets Classical series, with special guest artist Clarice Assad.",
         "attribution": "Recorded by Jazz Meets Classical Ensemble with Clarice Assad, vocalist.",
         "movements": [],
@@ -848,7 +875,7 @@
       },
       {
         "title": "Recollection",
-        "type": "Vocal Jazz Trio, Flugelhorn, String Quartet, Pno, Bass, Drums",
+        "type": "Vocal Jazz Trio, Flugelhorn, String Quartet, Pno, Bass, Drums - text by James Scott Balentine",
         "description": "Commissioned by Musical Offerings with funding from the Russell Hill Rogers Foundation for performance at the Annual Jazz Meets Classical series, with special guest artist Joan Carroll. <br/>Subtitled \"Vague Memories of Porgy and Bess\"",
         "attribution": "Recorded by Jazz Meets Classical Ensemble with Joan Carroll, Curtis Calderon, and Jim Balentine, vocalists.",
         "movements": [],
@@ -862,7 +889,7 @@
         "duration": "8 minutes",
         "publisher": "Guildhian Music",
         "composerNotes": [
-          "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Now in it's 25th year, JMC has brought together the best of San Antonio's classical and jazz musicians to offer music that ranges from jazz influenced compositions and arrangements of music from Bach to Bernstein and beyond, as well as pieces commissioned for the series and its guest artists. The series has won awards and grants from the Russell Hill Rogers Foundation, the Artist Foundation of San Antonio, the San Antonio Museum of Art, the Kronkosky Foundation and others."
+          "<i>Jazz Meets Classical</i> is an annual series under the auspices of Musical Offerings, a chamber music organization founded in the late 1980's in San Antonio, Joan Christenson, Artistic Director. Performed by the Jazz Meets Classical Ensemble with vocalists Joan carroll, Curtis Calderon, and Jim Balentine."
         ]
       },
       {
@@ -1241,7 +1268,7 @@
       },
       {
         "title": "The Postcard Songs",
-        "type": "Medium voice and piano",
+        "type": "Medium voice and piano - text by Dean Curtis",
         "instruments": [
         ],
         "description": "song cycle with text from postcards written and sent to the composeer by friend and colleague, Dean Curtis",
@@ -1602,7 +1629,7 @@
     "Choral": [
       {
         "title": "Old Houses (fragments of time and place)",
-        "type": "for a capella chamber choir, text by T.E. Hulme and James Scott Balentine",
+        "type": "for a capella chamber choir, texts by T.E. Hulme and James Scott Balentine",
         "instruments": [
           "for chamber choir (SSATBB) a capella"
         ],
@@ -1737,7 +1764,7 @@
       },
       {
         "title": "Full Frontal Lobes",
-        "type": "A musical lecture on Theory of Mind",
+        "type": "A musical lecture on Theory of Mind; text by Bruce Balentine",
         "instruments": [
           "lecturer/professor",
           "conductor",
