@@ -29,17 +29,17 @@ export const Listen = () => {
     
     <div className={css.ListeningVideo}>
     <p><i><b>Strange Loops</b></i> - for clarinet, bassoon & piano</p>
-    <iframe width="360" height="210" title="Strange Loops" src="https://www.youtube.com/embed/30Pbk72EZWY?si=mey-DLSfIunxtfRT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+    <iframe width="360" height="210" title="Strange Loops" src="https://www.youtube.com/embed/30Pbk72EZWY?si=mey-DLSfIunxtfRT" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
     </div>
 
     <div className={css.ListeningVideo}>
     <p><i><b>Asking a Shadow to Dance</b></i> - for clarinet, viola & piano</p>
-    <iframe width="360" height="210" title="Asking a Shadow to Dance" src="https://www.youtube.com/embed/H5aLtGlgIrY?start=2310" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="360" height="210" title="Asking a Shadow to Dance" src="https://www.youtube.com/embed/H5aLtGlgIrY?start=2310" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     </div>
 
     <div className={css.ListeningVideo}>
     <p><i><b>The Three Billy Goats Gruff (opening excerpt)</b></i></p>
-    <iframe width="360" height="210" title="Billy Goats Gruff" src="https://www.youtube.com/embed/DUijYNKOKyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="360" height="210" title="Billy Goats Gruff" src="https://www.youtube.com/embed/DUijYNKOKyY" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     
     <div className={css.ListeningVideo}></div>
       <p><i><b>Three Billy Goats Gruff - </b></i>in Flemish, at the Conservatory aan Zee, Ostend, Belgium</p>
@@ -52,14 +52,14 @@ export const Listen = () => {
     <p><i><b>Dún Èideann Blogh - II. Portobello Beach</b></i><br></br>double concerto for clarinet & bassoon</p>
     <p>Robert Walzel, clarinet; Eric Stromberg, bassoon.
     </p>
-    <iframe width="360" height="210" title="Portobello Beach" src="https://www.youtube.com/embed/oLc1ePZeeB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="360" height="210" title="Portobello Beach" src="https://www.youtube.com/embed/oLc1ePZeeB0" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     </div>
 
     <div className={css.ListeningVideo}>
     <p><i><b>Nine Wild Exotic Dances - IX. Nineria</b></i><br></br>for clarinet & piano</p>
     <p>Robert Walzel, clarinet; Steven Glaser, piano.
     </p>
-    <iframe width="360" height="210" title="Nineria" src="https://www.youtube.com/embed/-OOkNKasho0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="360" height="210" title="Nineria" src="https://www.youtube.com/embed/-OOkNKasho0" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     </div>
 
     <div className={css.ListeningAudio}>
@@ -135,7 +135,7 @@ export const Listen = () => {
     <p></p>1. Theme and Three Variations 
     <br></br>2. Meditation 
     <br></br>3. Invention & Fantasy
-    <iframe width="360" height="210" title="Pno2Steptoe" src="https://www.youtube.com/embed/m6hjjWczIjY?start=2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="360" height="210" title="Pno2Steptoe" src="https://www.youtube.com/embed/m6hjjWczIjY?start=2010" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
 
     <div className={css.ListeningAudio}>
@@ -146,7 +146,7 @@ export const Listen = () => {
     <div className={css.ListeningAudio}>
     <p></p><i><b>Daniel Kobialka Renders Porgy & Bess</b></i> 
     <br></br>I Loves You Porgy<p></p>Arrangements by James Scott Balentine
-    <img src={cdimagePorgy} Alt="Porgy & Bess"></img>
+    <img src={cdimagePorgy} alt="Porgy & Bess"></img>
     <audio controls>
       <source src={music17} type="audio/mpeg"></source>
     </audio></div>
@@ -155,7 +155,7 @@ export const Listen = () => {
     <p></p><i><b>Douglas Balentine - Monkeyshines
       <br></br>from Nights Like This Are Rare</b></i> 
       <p></p>Jim Balentine, arranger, clarinets, flutes;<br></br> Bruce Balentine, trombone
-      <p></p><img src={cdimageDB} Alt="Nights Like This are Rare"></img>
+      <p></p><img src={cdimageDB} alt="Nights Like This are Rare"></img>
     <audio controls>
       <source src={music5} type="audio/mpeg"></source>
     </audio></div>
