@@ -28,7 +28,7 @@ export const About = () => (
     Quartet, Trio Con Brio, Duo Con Fuoco, KUT-FM radio, Claribel Clarinet Choir, soloists Robert Walzel (clarinet), Matthew Dunne 
     (guitar), Ron Wilkins (trombone), Richard Smith (piano), and Roger Steptoe (piano). His music is published by American Concert 
     Editions (the American Composers Alliance), Cimarron Music, Keiser Southern Music (distributed by Hal Leonard), and Guildhian 
-    Music. Recordings of his music are on Navona, Albany, Lisem, and CPMF labels, as well as university and conservatory recordings 
+    Music. Recordings of his music are on Navona, Albany, Lisem, Klavier, and CPMF labels, as well as university and conservatory recordings 
     in the US and Europe.
     </p>
 
@@ -55,7 +55,7 @@ export const About = () => (
       Bailey Circus, and national tours of Broadway shows including{' '}
       <i>
         Annie Get Your Gun, The Producers, Guys and Dolls, Little Shop of
-        Horrors
+        Horrors, Gypsy, Fiddler on the Roof, Bye Bye Birdie, Funny Girl
       </i>
       , and many, many others.
     </p>
@@ -78,10 +78,9 @@ export const About = () => (
     <Typography variant="h6">Personal</Typography>
     <p>
       Born in Fort Worth, Texas in 1947, the son of a career Air Force officer, Jim was raised in Paris, France; 
-      Montgomery, Alabama; Tachikawa, Japan, and has since lived (from as little as six weeks to ten years) in such 
-      diverse locations as Winnipeg (Canada), Edinburgh (Scotland), and Zurich (Switzerland); Midwest City (Oklahoma), 
-      Columbia (South Carolina), San Francisco, Houston, Austin, and Huntsville (Texas), and currently resides in the 
-      hill country near San Antonio. He is a pretty good cook, a passable tennis player (pun intended), and an interested student 
+      Montgomery, Alabama; Tachikawa, Japan, and Midwest City, Oklahoma, and has since lived (from as little as six weeks to ten years) in such 
+      diverse locations as Winnipeg (Canada), Edinburgh (Scotland), and Zurich (Switzerland); Columbia (South Carolina), San Francisco, Houston, Austin, and Huntsville (Texas), and currently resides in the 
+      hill country near San Antonio. He is a pretty good cook, a passable tennis player (pun intended), holds a private pilot SEL certificate, loves old sports cars and single malt whisky,  and is an interested student 
       of the foibles of human nature, particularly his own - people are a puzzle!
     </p>
   </div>

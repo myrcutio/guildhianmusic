@@ -12,6 +12,8 @@ import cdimage9 from '../../assets/RedPoppy.png'
 import cdimage10 from '../../assets/lullabies.png'
 import cdimage11 from '../../assets/EdGerlachLive.jpg'
 import cdimage12 from '../../assets/NightsAreRare.png'
+import cdimage13 from '../../assets/WalzelJMC.jpg'
+import cdimage14 from '../../assets/SongInTheAir.png'
 import css from './Recordings.module.scss'
 
 export const Recordings = () => (
@@ -79,6 +81,17 @@ export const Recordings = () => (
         <img src={cdimage12} alt="Nights Like This Are Rare"></img>
         <figcaption><a href="guildhianmusic">Prison Records</a></figcaption>
     </figure>
+
+    <figure className={css.figure}>
+        <img src={cdimage13} alt="Walzel Jazz Meets Classical"></img>
+        <figcaption><a href="https://open.spotify.com/track/3hzucI391293JgAa2PdR9g?si=a932e5e96be94cb4">Klavier KCD 11235</a></figcaption>
+    </figure>
+
+    <figure className={css.figure}>
+        <img src={cdimage14} alt="Song in the Air"></img>
+        <figcaption><a href="guildhianmusic">Guildhian Records</a></figcaption>
+    </figure>
+
     </div>
     <div className={css.pagefooter}>
     <Typography align="center">

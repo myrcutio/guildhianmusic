@@ -5,7 +5,7 @@ import musicimage2 from '../../assets/storyteller.png'
 import musicimage3 from '../../assets/tbgg.png'
 import musicimage4 from '../../assets/askingshadow.png'
 import musicimage5 from '../../assets/ninedances.png'
-import musicimage6 from '../../assets/fivespirituals.png'
+import musicimage6 from '../../assets/OldHouses.png'
 import musicimage7 from '../../assets/steptoe.png'
 import musicimage8 from '../../assets/strangeloops.png'
 import css from './Home.module.scss'
@@ -19,8 +19,8 @@ export const Home = () => (
       a bit of poetry and other writing about stuff I think about when I'm 
       not playing or writing music. Have a listen, and if you're interested 
       in performing a piece or two, most of it is now available through <i>American Concert Editions (ASCAP)</i>;
-      at the <a href="https://www.composers.com/homesearch?combine=&field_composer_target_id=14433">American Composers Alliance.</a> 
-      <p></p>And, for those who are fans of my brother Douglas' music, at the bottom of the Listening page there are a few recordings with Douglas, my brother Bruce, and myself. 
+      at the <a href="https://www.composers.com/homesearch?combine=&field_composer_target_id=14433">American Composers Alliance.</a> (a few title page samples of recent works below)
+      <br></br><br></br>And, for those who are fans of my brothers' (Douglas and Bruce) music, at the bottom of the Listening page there are a few recordings with Douglas, Bruce, and myself.
     </Typography>
     <div>
       <img className={css.musicimages} src={musicimage1} alt="river remembers"></img>
@@ -28,7 +28,7 @@ export const Home = () => (
       <img className={css.musicimages} src={musicimage3} alt="Three Billy Goats Gruff"></img>
       <img className={css.musicimages} src={musicimage4} alt="Asking a Shadow to Dance"></img>
       <img className={css.musicimages} src={musicimage5} alt="Nine Wild Exotic Dances"></img>
-      <img className={css.musicimages} src={musicimage6} alt="Five Spirituals"></img>
+      <img className={css.musicimages} src={musicimage6} alt="Old Houses"></img>
       <img className={css.musicimages} src={musicimage7} alt="Piano Sonata 2 Steptoe"></img>
       <img className={css.musicimages} src={musicimage8} alt="Strange Loops"></img>
     </div>

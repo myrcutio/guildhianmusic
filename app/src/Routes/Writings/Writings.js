@@ -6,7 +6,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import kebabCase from 'lodash-es/kebabCase';
 import List from '@material-ui/core/List';
 import Typography from '@material-ui/core/Typography';
-import * as writings from './writings.json';
+import writings from './writings.json';
 import css from './Writings.module.scss';
 import svgs from './svg.js'
 

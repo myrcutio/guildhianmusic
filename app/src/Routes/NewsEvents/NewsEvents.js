@@ -2,8 +2,8 @@ import React from 'react';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import Typography from '@material-ui/core/Typography';
-import * as events from './events.json';
-import * as works from '../Works/works.json';
+import events from './events.json';
+import works from '../Works/works.json';
 import css from './NewsEvents.module.scss';
 
 const categories = Object.keys(works.categories);

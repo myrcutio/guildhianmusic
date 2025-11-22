@@ -13,7 +13,7 @@ import List from '@material-ui/core/List';
 import OpenInNewIcon from '@material-ui/icons/OpenInNew';
 import Tooltip from '@material-ui/core/Tooltip';
 import Typography from '@material-ui/core/Typography';
-import * as works from './works.json';
+import works from "./works.json";
 import css from './Works.module.scss';
 
 import PortobelloBeach from '../../assets/PortobelloBeach.mp3'
@@ -131,9 +131,9 @@ const Piece = (piece) => {
                 Movements
               </Typography>
              
-              <Typography variant="body2" color="textSecondary" paragraph>
+              <Typography variant="body2" color="textSecondary" component="div" gutterBottom>
                 {movements.map(movement => (
-                  <div><span>{movement.mvt ? movement.mvt : movement}</span>
+                  <div key={movement}><span>{movement.mvt ? movement.mvt : movement}</span>
                   {movement.mp3link && (<audio controls>
                     <source src={musicmap[movement.mp3link]} type="audio/mpeg"></source>
                       Your browser does not support the audio element.
@@ -156,7 +156,7 @@ const Piece = (piece) => {
               component="div"
               className={css.attribution}
               dangerouslySetInnerHTML={{ __html: attribution }}
-              paragraph
+              gutterBottom
             />
           )}
           {hasMoreInfo && <Divider className={css.divider} />}
