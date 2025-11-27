@@ -19,6 +19,7 @@ import music13 from '../../assets/OldHouses.mp3';
 import music14 from '../../assets/Autumn.mp3';
 import music15 from '../../assets/AbovetheDock.mp3';
 import music16 from '../../assets/ARiverSinging.mp3';
+import music18 from '../../assets/Ludwig.mp3';
 import css from './Listening.module.scss'
 
 export const Listen = () => {
@@ -98,6 +99,12 @@ export const Listen = () => {
       <source src={music16} type="audio/mpeg"></source>
     </audio>
 </div>
+    <div className={css.ListeningAudio}>
+      <Typography variant="h6">Cello & Piano</Typography>
+    <p></p><i><b>'Ludwig' - from A Wiser Man, for cello & piano</b></i><br></br>Brian Hodges, cello; Betsi Hodges, piano
+    <audio controls>
+      <source src={music18} type="audio/mpeg"></source>
+    </audio></div>
 
     <div className={css.ListeningAudio}>
       <Typography variant="h6">Piano Solo</Typography>
