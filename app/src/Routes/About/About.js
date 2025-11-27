@@ -17,7 +17,7 @@ export const About = () => (
   
     <p>
     His catalog includes music written for soloists and ensembles from many parts of the United States, Belgium, France, 
-    and the UK, all incorporating the personality, technique, and musical character of the performers in some way. Jim's 
+    and the UK, all reflecting the personality, technique, and musical character of the performers in some way. Jim's 
     fondness for wordplay and poetry finds its way into many of his works as phonetic motifs, alliterative allusions in 
     esoteric expressions, metronome markings, a poetic prologue, or formal musical structures designed around names, prosody, 
     and other linguistic elements that infuse his music with a sense of intrigue and theater, from dramatic to playful. His 

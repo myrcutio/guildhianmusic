@@ -14,6 +14,7 @@ import cdimage11 from '../../assets/EdGerlachLive.jpg'
 import cdimage12 from '../../assets/NightsAreRare.png'
 import cdimage13 from '../../assets/WalzelJMC.jpg'
 import cdimage14 from '../../assets/SongInTheAir.png'
+import cdimage15 from '../../assets/ROCO2011.jpg'
 import css from './Recordings.module.scss'
 
 export const Recordings = () => (
@@ -80,6 +81,11 @@ export const Recordings = () => (
     <figure className={css.figure}>
         <img src={cdimage12} alt="Nights Like This Are Rare"></img>
         <figcaption><a href="guildhianmusic">Prison Records</a></figcaption>
+    </figure>
+
+    <figure className={css.figure}>
+        <img src={cdimage15} alt="River Oaks Chamber Orchestra"></img>
+        <figcaption><a href="https://roco.org/performances/roco-in-concert-oct-2011/">ROCO 2011</a></figcaption>
     </figure>
 
     <figure className={css.figure}>
